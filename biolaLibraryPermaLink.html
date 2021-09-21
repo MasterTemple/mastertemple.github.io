@@ -1,0 +1,42 @@
+<html>
+
+<head>
+	<style>
+		body {
+			text-align: center;
+		}
+		
+		h1 {
+			color: red;
+		}
+        input {
+            size: 12;
+        }
+	</style>
+    <script type="text/javascript">
+
+        function redirect(){
+            let givenUrl = document.getElementById("givenUrl").value
+            let {AN, db} = [...givenUrl.matchAll(/(?<=AN=)(?<AN>[^&]+)[^]+db=(?<db>[^&]+)/g)][0]['groups']
+            let newUrl = `http://ezproxy.biola.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=${db}&AN=${AN}&site=eds-live&scope=site`
+            window.open(newUrl)
+        }
+    </script>
+</head>
+
+<body>
+	<h1>Biola Library</h1>
+	<h2>
+	Copy and Paste your link below!
+</h2>
+    <input class="givenUrl" name="givenUrl" type="text" id="givenUrl" size="128">
+    <br>
+    <button onclick="redirect()">Go there!</button>
+    <h3>
+        (Yes I am aware this looks like it was made in the 1900s)
+    </h3>
+    
+	
+</body>
+
+</html>
