@@ -17,13 +17,18 @@
             font-size: 48;
         }
         button {
-            color: white;
-            font-size: 24;
+            /* color: white; */
+            color: var(--biola-red);
+            font-size: 34;
             padding: 20px 20px;
-            background: var(--biola-dark-red);
-            border-radius: 5px;
+            /* background: var(--biola-dark-red); */
+            background-color: #111111;
+            border-radius: 15px;
             border-color: var(--biola-dark-red);
-            size: 30px;
+            /* size: 30px; */
+            width: 30%; 
+            height: 6%;
+
         }
         input {
             border-color: var(--biola-red);
@@ -32,17 +37,16 @@
             color: var(--biola-red);
             background-color: #111111;
             width: 90%; height: 3%;
+            border-radius: 5px;
         }
         
         button:hover {
             /* color: var(--biola-red); */
-            font-size: 24;
-            padding: 20px 20px;
-            background: var(--biola-red);
-            border-radius: 5px;
-
+            color: white;
+            /* background: var(--biola-red); */
             border-color: var(--biola-red);
-            size: 30px;
+            background: var(--biola-dark-red);
+
         }
 	</style>
     <script type="text/javascript">
@@ -60,11 +64,12 @@
 
         }
     </script>
+    <title>Biola Library Perma-Link</title>
 </head>
 
 <body>
     <br><br>
-	<h1>Biola Library</h1>
+	<h1>Biola Library Perma-Link</h1>
     <img src="https://cdn.discordapp.com/attachments/877296016255250504/889632332372377630/biolaLogoBlackBackground.png">
 
 	<h2>
@@ -73,9 +78,7 @@
     <input class="givenUrl" name="givenUrl" type="text" id="givenUrl" size="128">
     <br><br>
     <button onclick="redirect()">Go there!</button>
-    <h3>
-        (Yes I am aware this looks like it was made in the 1900s)
-    </h3>
+    
     
 	
 </body>
