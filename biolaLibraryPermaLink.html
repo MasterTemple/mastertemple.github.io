@@ -49,10 +49,15 @@
 
         function redirect(){
             let givenUrl = document.getElementById("givenUrl").value
-            let {AN, db} = [...givenUrl.matchAll(/(?<=AN=)(?<AN>[^&]+)[^]+db=(?<db>[^&]+)/g)][0]['groups']
-            let newUrl = `http://ezproxy.biola.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=${db}&AN=${AN}&site=eds-live&scope=site`
-            document.getElementById("givenUrl").value = ""
-            window.open(newUrl, '_blank')
+            try{
+                let {AN, db} = [...givenUrl.matchAll(/(?<=AN=)(?<AN>[^&]+)[^]+db=(?<db>[^&]+)/g)][0]['groups']
+                let newUrl = `http://ezproxy.biola.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=${db}&AN=${AN}&site=eds-live&scope=site`
+                document.getElementById("givenUrl").value = ""
+                window.open(newUrl, '_blank')
+            }catch{
+                window.alert("Invalid Link!")
+            }
+
         }
     </script>
 </head>
