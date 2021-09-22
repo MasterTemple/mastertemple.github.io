@@ -2,15 +2,46 @@
 
 <head>
 	<style>
+        :root {
+            --biola-red: #d22030;
+            --biola-dark-red: #8d1721;
+            
+        }
 		body {
-			text-align: center;
-		}
-		
-		h1 {
-			color: red;
-		}
+            background: #23272A;
+            color: var(--biola-red);
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1 {
+            font-size: 48;
+        }
+        button {
+            color: white;
+            font-size: 24;
+            padding: 20px 20px;
+            background: var(--biola-dark-red);
+            border-radius: 5px;
+            border-color: var(--biola-dark-red);
+            size: 30px;
+        }
         input {
-            size: 12;
+            border-color: var(--biola-red);
+            font-size: 16;
+            font-weight: bold;
+            color: var(--biola-red);
+            background-color: #111111;
+        }
+        
+        button:hover {
+            /* color: var(--biola-red); */
+            font-size: 24;
+            padding: 20px 20px;
+            background: var(--biola-red);
+            border-radius: 5px;
+
+            border-color: var(--biola-red);
+            size: 30px;
         }
 	</style>
     <script type="text/javascript">
@@ -19,18 +50,22 @@
             let givenUrl = document.getElementById("givenUrl").value
             let {AN, db} = [...givenUrl.matchAll(/(?<=AN=)(?<AN>[^&]+)[^]+db=(?<db>[^&]+)/g)][0]['groups']
             let newUrl = `http://ezproxy.biola.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=${db}&AN=${AN}&site=eds-live&scope=site`
-            window.open(newUrl)
+            document.getElementById("givenUrl").value = ""
+            window.open(newUrl, '_blank')
         }
     </script>
 </head>
 
 <body>
+    <br><br>
 	<h1>Biola Library</h1>
+    <img src="https://cdn.discordapp.com/attachments/877296016255250504/889632332372377630/biolaLogoBlackBackground.png">
+
 	<h2>
 	Copy and Paste your link below!
 </h2>
     <input class="givenUrl" name="givenUrl" type="text" id="givenUrl" size="128">
-    <br>
+    <br><br>
     <button onclick="redirect()">Go there!</button>
     <h3>
         (Yes I am aware this looks like it was made in the 1900s)
