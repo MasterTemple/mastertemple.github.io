@@ -27,7 +27,7 @@
             border-color: var(--biola-dark-red);
             /* size: 30px; */
             width: 30%; 
-            height: 6%;
+            height: 16%;
 
         }
         input {
@@ -36,7 +36,7 @@
             font-weight: bold;
             color: var(--biola-red);
             background-color: #111111;
-            width: 90%; height: 3%;
+            width: 90%; height: 6%;
             border-radius: 5px;
         }
         
@@ -47,6 +47,12 @@
             border-color: var(--biola-red);
             background: var(--biola-dark-red);
 
+        }
+        img {
+            max-width: 20%;
+            /* size: 50; */
+            /* width: 40%; */
+            /* height: 40% */
         }
 	</style>
     <script type="text/javascript">
@@ -68,15 +74,14 @@
 </head>
 
 <body>
-    <br><br>
+    <!-- <br> -->
+    <br>
 	<h1>Biola Library Perma-Link</h1>
     <img src="https://cdn.discordapp.com/attachments/877296016255250504/889632332372377630/biolaLogoBlackBackground.png">
-
-	<h2>
-	Copy and Paste your link below!
-</h2>
+	<h2>Copy and Paste your link below!</h2>
     <input class="givenUrl" name="givenUrl" type="text" id="givenUrl" size="128">
-    <br><br>
+    <br>
+    <br>
     <button onclick="redirect()">Go there!</button>
     
     
