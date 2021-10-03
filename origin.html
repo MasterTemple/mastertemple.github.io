@@ -1,0 +1,195 @@
+<html>
+
+<head>
+	<style>
+        :root {
+            --origin-primary-color: #f15a22;            
+        }
+		body {
+            background: #23272A;
+            color: var(--origin-primary-color);
+            text-align: left;
+            font-family: Arial, Helvetica, sans-serif;
+            /* font-size: 4 */
+        }
+        h1 {
+            font-size: 48;
+            /* text-align: center; */
+
+
+        }
+        .header img {
+        float: left;
+        width: 100px;
+        height: 100px;
+        }
+
+        .header h1 {
+        position: relative;
+        top: 18px;
+        left: 10px;
+        }
+        button {
+            /* color: white; */
+            color: var(--origin-primary-color);
+            font-size: 16;
+            font-weight: bold;
+
+            padding: 20px 20px;
+            /* background: var(--origin-primary-color); */
+            background-color: #111111;
+            border-radius: 5px;
+            border-color: var(--origin-primary-color);
+            /* size: 30px; */
+            /* width: 5%; height: 6%; */
+            text-align: center;
+
+        }
+        input {
+            border-color: var(--origin-primary-color);
+            font-size: 16;
+            font-weight: bold;
+            color: var(--origin-primary-color);
+            background-color: #111111;
+            /* width: 25%; height: 6%; */
+            border-radius: 5px;
+            padding: 20px 20px;
+            text-align: center;
+
+        }
+        
+        button:hover {
+            color: white;
+            border-color: var(--origin-primary-color);
+            background: var(--origin-primary-color);
+        }
+        img {
+            max-width: 20%;
+            width: 20rem;
+        }
+        .column {
+            float: left;
+            width: 50%;
+        }
+
+            /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+	</style>
+    <script type="text/javascript" >
+        getAuthToken()
+
+        async function getAuthToken(){
+            let url = "https://accounts.ea.com/connect/auth?client_id=ORIGIN_JS_SDK&response_type=token&redirect_uri=nucleus:rest&prompt=none&release_type=prod"
+
+            // url = `https://cors-escape.herokuapp.com/${url}`
+            url = `https://api.allorigins.win/raw?url=https://accounts.ea.com/connect/auth?client_id=ORIGIN_JS_SDK&response_type=token&redirect_uri=nucleus:rest&prompt=none&release_type=prod`
+            // url = `http://gobetween.oklabs.org/https://accounts.ea.com/connect/auth?client_id=ORIGIN_JS_SDK&response_type=token&redirect_uri=nucleus:rest&prompt=none&release_type=prod`
+            // url = `${url}?callback=foo`
+            
+            
+            let remid = "TUU6T0lxangxTlhtb0ZBM0RadUM3NTV0Y3pYQmtRcmNqMGtrZnVoNzhBNjoxMDAyNTQ0MDI.DMMWuwkCC9ZO4Bz26kN5ld1G2lsgX9F6jfvA5MV1"
+            let sid ="U0czaVdOaDZWSG5iRDZQWkRSUnJweDI5MW0yWXVlODN1MVhOTWczTXpFWUpJYWtQTUdOa1h6T2tTQXdRUg.YIl_EXhxXcZXIe3nbTk1gEguqxgEjLUsFdfpfRyMtNk"
+            // var authToken = 
+
+            var reqInfo = {
+                method: 'GET',
+                // mode: 'no-cors',
+
+                headers: {
+                    remid: remid,
+                    sid: sid,
+                    // Origin: null,
+                    // origin: "https://accounts.ea.com/"
+                    // "Access-Control-Allow-Credentials": true,
+                    // "Access-Control-Allow-Origin": `https://accounts.ea.com`
+                    "Access-Control-Allow-Credentials": `*`,
+                    "Access-Control-Allow-Headers": `*`,
+                    "Access-Control-Allow-Origin": `*`
+                },
+            };
+
+            let myRequest = new Request(url, reqInfo);
+            // myRequest.mode = "no-cors"
+            fetch(myRequest).then(res => {
+                // let data = await myRequest.json()
+                console.log(res);
+                console.log(res.data);
+            })
+            
+
+        }
+        async function getNameFromId(){
+            var reqInfo = {
+                method: 'GET',
+                headers: {
+                    auth: "QVQwOjMuMDozLjA6MjQwOlFMVTlwcWRZbzk0QW8xbnJwMHNONHBReUZndDIyVU1iVTJLOjM4NzcyOnB1bWxj",
+                    "Access-Control-Allow-Headers": `*`,
+
+                },
+            };
+            let id = "1001223352890"
+            let myRequest = new Request(`https://api3.origin.com/atom/users?userIds=${id}`, reqInfo);
+            // myRequest.mode = "no-cors"
+            fetch(myRequest).then(res => {
+                // let data = await myRequest.json()
+                console.log(res);
+                console.log(res.data);
+            })
+        }
+        
+        function redirect(){
+            let givenUrl = document.getElementById("givenUrl").value
+            try{
+                let {AN, db} = [...givenUrl.matchAll(/(?<=AN=)(?<AN>[^&]+)[^]+db=(?<db>[^&]+)/g)][0]['groups']
+                let newUrl = `http://ezproxy.biola.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=${db}&AN=${AN}&site=eds-live&scope=site`
+                document.getElementById("givenUrl").value = ""
+                window.open(newUrl, '_blank')
+            }catch{
+                window.alert("Invalid Link!")
+            }
+        }
+
+    </script>
+    <title>Origin ID Tracker</title>
+</head>
+
+<body>
+    <br>
+    <div class="header">
+        <img class="logo" src="https://cdn.discordapp.com/attachments/863303917886242816/893928757113540628/5b447f12e99939b4572e32c0.png" alt="logo" />
+        <h1>HAKER TRAKER</h1>
+      </div>
+
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="row">
+        <div class="column">
+            <input type="text" id="originId" placeholder="Origin ID">
+            <button onclick="getNameFromId()">Go!</button>
+            <br>
+            <br>
+            <input type="text" id="originName" placeholder="Origin Name">
+            <button onclick="getIdFromName()">Go!</button>
+        </div>
+
+        <div class="column">
+            <img class="pfp" src="https://secure.download.dm.origin.com/production/avatar/prod/1/599/208x208.JPEG" alt="Origin Profile Picture">
+            <h3>Username:</h3>
+            <h3>Origin ID:</h3>
+
+        </div>
+    </div>
+
+	
+</body>
+
+</html>
