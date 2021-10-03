@@ -1,0 +1,109 @@
+<html>
+
+<head>
+	<style>
+        :root {
+            --green: #2bb900;
+            --dark-grey: #111111;
+            --light-grey: #343434;
+        }
+		body {
+            background: #23272A;
+            color: var(--green);
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            /* font-size: 4 */
+        }
+        h1 {
+            font-size: 34;
+        }
+        button {
+            /* color: white; */
+            color: var(--green);
+            font-size: 18;
+            /* padding: 20px 20px; */
+            /* background: var(--green); */
+            background-color: var(--dark-grey);
+            border-radius: 15px;
+            border-color: var(--green);
+            /* size: 30px; */
+            width: 30%; 
+            height: 6%;
+
+        }
+
+        button:hover {
+            /* color: var(--green); */
+            color: white;
+            /* background: var(--green); */
+            border-color: var(--green);
+            background: var(--green);
+
+        }
+        textarea {
+            background-color: var(--light-grey);
+            width: 80%;
+            height: 70%;
+            color: var(--green);
+            border-color: var(--green);
+
+        }
+        .column {
+            float: left;
+            width: 50%;
+        }
+
+            /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+	</style>
+    <script type="text/javascript">
+
+        function improveCode(){
+            // let code = document.getElementById("givenUrl").value
+            let code = document.getElementById("oldCode").value
+            try{
+                let newCode = code
+                let oldCode = ""
+                while(oldCode !== newCode){
+                    oldCode = newCode
+                    newCode = oldCode.replace(/(?<=^[;]*) /gm, ";")
+                }
+                // newCode = newCode.replace(/^;*/g, "")
+                newCode = newCode.replace(/\n/g, "\r\n")
+                console.log(newCode);
+                document.getElementById("newCode").textContent = newCode
+            }catch(e){
+                console.log(e);
+                window.alert("Invalid Code!")
+            }
+
+        }
+    </script>
+    <title>Improve Code Indentation!</title>
+</head>
+
+<body>
+    <!-- <br> -->
+    <br>
+	<h1>Improve Code Indentation!</h1>
+    <div class="row">
+        <div class="column">
+            <textarea id="oldCode" type="text" placeholder="Enter Code Here!"></textarea>
+        </div>
+
+        <div class="column">
+            <textarea id="newCode" type="text"></textarea>
+
+        </div>
+    </div>
+    <br>
+    <button onclick="improveCode()">Improve Your Code!</button>
+
+	
+</body>
+
+</html>
