@@ -66,16 +66,16 @@
             // let code = document.getElementById("givenUrl").value
             let code = document.getElementById("oldCode").value
             try{
-                let newCode = code
-                let oldCode = ""
-                while(oldCode !== newCode){
-                    oldCode = newCode
-                    newCode = oldCode.replace(/(?<=^[;]*) /gm, ";")
-                }
+                // let newCode = code
+                // let oldCode = ""
+                // while(oldCode !== newCode){
+                //     oldCode = newCode
+                //     newCode = oldCode.replace(/(?<=^[;]*) /gm, ";")
+                // }
                 // newCode = newCode.replace(/^;*/g, "")
-                newCode = newCode.replace(/\n/g, "\r\n")
-                console.log(newCode);
-                document.getElementById("newCode").textContent = newCode
+                // newCode = newCode.replace(/\n/g, "\r\n")
+                // console.log(newCode);
+                document.getElementById("newCode").textContent = code.replace(/(?<=^ *) (?= *[^ ])/gm, ";")
             }catch(e){
                 console.log(e);
                 window.alert("Invalid Code!")
