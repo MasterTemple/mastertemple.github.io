@@ -1,0 +1,120 @@
+<html>
+
+<head>
+	<style>
+        :root {
+            --green: #975100;
+            --dark-grey: #111111;
+            --light-grey: #343434;
+        }
+		body {
+            background: #23272A;
+            color: var(--green);
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            /* font-size: 4 */
+        }
+        h1 {
+            font-size: 34;
+        }
+        button {
+            /* color: white; */
+            color: var(--green);
+            font-size: 18;
+            /* padding: 20px 20px; */
+            /* background: var(--green); */
+            background-color: var(--light-grey);
+            border-radius: 15px;
+            border-color: var(--green);
+            /* size: 30px; */
+            width: 30%; 
+            height: 6%;
+
+        }
+
+        button:hover {
+            /* color: var(--green); */
+            color: white;
+            /* background: var(--green); */
+            border-color: var(--green);
+            background: var(--green);
+
+        }
+        textarea {
+            background-color: var(--light-grey);
+            width: 80%;
+            height: 70%;
+            color: var(--green);
+            border-color: var(--green);
+
+        }
+        .column {
+            float: left;
+            width: 50%;
+        }
+
+            /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        input {
+            border-color: var(--green);
+            font-size: 16;
+            font-weight: bold;
+            color: var(--green);
+            background-color: var(--light-grey);
+            /* width: 25%; height: 6%; */
+            border-radius: 5px;
+            padding: 5px 5px;
+            text-align: center;
+
+        }
+	</style>
+    <script type="text/javascript">
+
+        function improveCode(){
+            // let code = document.getElementById("givenUrl").value
+            let paragraph = document.getElementById("oldCode").value
+            let books = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra", "Nehemiah", "Esther", "Job", "Psalms", "Proverbs", "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Matthew", "Mark", "Luke", "John", "Acts", "Romans", "1 Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", "1 Thessalonians", "2 Thessalonians", "1 Timothy", "2 Timothy", "Titus", "Philemon", "Hebrews", "James", "1 Peter", "2 Peter", "1 John", "2 John", "3 John", "Jude", "Revelation"]
+            try{
+                let matchIdentifierLeft = document.getElementById("matchIdentifierLeft").value
+                let matchIdentifierRight = document.getElementById("matchIdentifierRight").value
+                let counter = 1
+                paragraph = paragraph.replace(new RegExp(`(${[...new Set([...books.map(word => word.replace(/\d /g, ""))])].map(letter => [...(letter)].join("[^a-zA-z]*")).join("|")})`, "gi"), (match) => `${matchIdentifierLeft} ${counter++}. ${match}${matchIdentifierRight}`)
+                document.getElementById("newCode").textContent = paragraph
+            }catch(e){
+                console.log(e);
+                window.alert("Invalid Code!")
+            }
+
+        }
+    </script>
+    <title>Find Books of the Bible!</title>
+</head>
+
+<body>
+    <!-- <br> -->
+    <br>
+	<h1>Find Books of the Bible!</h1>
+    <div class="row">
+        <div class="column">
+            <input type="text" id="matchIdentifierLeft" placeholder="matchIdentifierLeft" value="**">
+            <input type="text" id="matchIdentifierRight" placeholder="matchIdentifierRight" value="**">
+
+            <textarea id="oldCode" type="text" placeholder="Enter Code Here!"></textarea>
+        </div>
+
+        <div class="column">
+            <!-- <textarea id="newCode" type="text"></textarea> -->
+            <div id="newCode"></div>
+        </div>
+    </div>
+    <br>
+    <button onclick="improveCode()">Find Books!</button>
+
+	
+</body>
+
+</html>
