@@ -70,6 +70,17 @@
         .headers {
             width: 9ch;
         }
+        .column {
+            float: left;
+            width: 50%;
+        }
+
+            /* Clear floats after the columns */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
 
     </style>
     <script>
@@ -210,33 +221,36 @@
     </script>
 </head>
 <body>
-    <h1>Biola Spring 2022 Class Schedule</h1>
-    <table id="schedule">
-        <tr id="scheduleHeader">
+    <div class="row">
+        <div class="column">
+            <h1>Biola Spring 2022 Class Schedule</h1>
+            <table id="legend">
+                <tr id="legendHeader">
+                    <th class="black">#</th>
+                    <th class="black">CRN</th>
+                    <th class="black">Course</th>
+                    <th class="black">Title</th>
+                    <th class="black">Room</th>
+                </tr>
+            </table>
+            <br>
+            <button id="createSchedule" class="black" font-weight="bold" onclick="createSchedule()">Create Schedule</button>
 
-            <th class="black">Time</th>
-            <th class="black headers">Sunday</th>
-            <th class="black headers">Monday</th>
-            <th class="black headers">Tuesday</th>
-            <th class="black headers">Wednesday</th>
-            <th class="black headers">Thursday</th>
-            <th class="black headers">Friday</th>
-            <th class="black headers">Saturday</th>
-        </tr>
-        <tr id="row1">
-        </tr>
-      </table>
-      <br>
-      <table id="legend">
-        <tr id="legendHeader">
-            <th class="black">#</th>
-            <th class="black">CRN</th>
-            <th class="black">Course</th>
-            <th class="black">Title</th>
-            <th class="black">Room</th>
-        </tr>
-      </table>
-      <br>
-      <button id="createSchedule" class="black" font-weight="bold" onclick="createSchedule()">Create Schedule</button>
+        </div>
+        <div class="column">
+            <table id="schedule">
+                <tr id="scheduleHeader">
+                    <th class="black">Time</th>
+                    <th class="black headers">Sunday</th>
+                    <th class="black headers">Monday</th>
+                    <th class="black headers">Tuesday</th>
+                    <th class="black headers">Wednesday</th>
+                    <th class="black headers">Thursday</th>
+                    <th class="black headers">Friday</th>
+                    <th class="black headers">Saturday</th>
+                </tr>
+            </table>
+        </div>
+    </div>
 </body>
 </html>
