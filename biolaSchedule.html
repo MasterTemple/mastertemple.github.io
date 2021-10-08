@@ -7,18 +7,15 @@
     <title>Schedule Generator</title>
     <style>
         :root {
-            font-family: Helvetica;
+            font-family: "Helvetica";
         }
         table, th, td {
             border: 1px solid black;
             border-collapse: collapse;
             /* border-radius: 5px; */
-
+            padding: 2px;
         }
-        td {
-            /* border-collapse: collapse; */
 
-        }
         .black {
             background-color: black;
             color: white;
@@ -51,8 +48,33 @@
             color: white;
             background-color: #fe00ff;
         }
+        input {
+            /* border-radius: 5px; */
+            border: none;
+            width: 6ch;
+
+        }
+        input[type="text"]{
+            font-weight: bold;
+            font-family: "Helvetica";
+        }
+        .courseId {
+            width: 9ch;
+        }
+        .courseTitle {
+            width: 30ch;
+        }
+        .room {
+            width: 30ch;
+        }
+        .headers {
+            width: 9ch;
+        }
+
     </style>
     <script>
+        let times = ["8:00","8:30","9:00","9:30","10:00","10:30","11:00","11:30","12:00","12:30","1:00","1:30","2:00","2:30","3:00","3:30","4:00","4:30","5:00","5:30","6:00","6:30","7:00","7:30","8:00","8:30","9:00"]
+
         async function get(url){
             return new Promise( (resolve, reject) => {
                 fetch(url)
@@ -61,7 +83,6 @@
             })
         }
         function initializeTable(){
-            let times = ["8:00","8:30","9:00","9:30","10:00","10:30","11:00","11:30","12:00","12:30","1:00","1:30","2:00","2:30","3:00","3:30","4:00","4:30","5:00","5:30","6:00","6:30","7:00","7:30","8:00","8:30","9:00"]
 
             for(let time of times){
                 let rowHTML =
@@ -79,39 +100,110 @@
             }
         }
         async function initializeLegend(){
-            let courses = ["BBST 251","PHIL 215","MATH 203","HIST 200","ENGL 220","ENGL 313"]
-            let crns = ["5093","5206","5287","5384","5539","5505"]
-            let url = "https://mastertemple.github.io/api/biola/courses/2022/spring/CRNs.json"
-
-            let crnList = await get(url)
-            let subjects = []
-            for(let crn of crns){
-                subjects.push(crnList[crn])
-            }
-            subjects = [...new Set([...subjects])]
-            let courseData = []
-            for(let subject of subjects){
-                let data = await get(`https://mastertemple.github.io/api/biola/courses/2022/spring/${subject}.json`)
-                courseData = [...courseData, ...data.filter(({CRN}) => crns.includes(CRN))]
-            }
-            console.log(courseData);
-
-            let colors = ["#ff0001","#ff6d00","#f0c233","#69a94e","#4386f4","#9b01ff","#fe00ff"]
-            let c = 1
-            for(let course of courses){
+            for(let i = 1; i <= 7; i++){
+                // let rowHTML =
+                // `<tr id="course${i}">
+                // <th class="courseNumber${i} black">${i}</th>
+                // <th class="CRN color${i}"></th>
+                // <th class="courseId color${i}"></th>
+                // <th class="courseTitle color${i}"></th>
+                // <th class="room color${i}"></th>
+                // </tr>`
                 let rowHTML =
-                `<th class="id color${c}">${course}</th>
-                <th class="courseTitle color${c}"></th>
-                <th class="room color${c}"></th>
-                <th class="CRN color${c}"></th>
+                `<tr id="course${i}">
+                <th class="courseNumber${i} black">${i}</th>
+                <th class="CRN color${i}"><input type="text" class="color${i}" id="crn${i}"/></th>
+                <th class="courseId color${i}"></th>
+                <th class="courseTitle color${i}"></th>
+                <th class="room color${i}"></th>
                 </tr>`
                 document.getElementById("legend").innerHTML += rowHTML
+            }
+        }
+
+        async function updateLegend(courseData){
+
+            let c = 1
+            for(let {CRN, courseTitle, location, courseNumber, subject} of courseData){
+                // subject = 'FIX'
+                let rowHTML =
+                `<tr id="course${c}">
+                <th class="courseNumber${c} black">${c}</th>
+                <th class="CRN color${c}"><input type="text" class="color${c}" id="crn${c}" value="${CRN}"/></th>
+                <th class="courseId color${c}">${subject} ${courseNumber}</th>
+                <th class="courseTitle color${c}">${courseTitle}</th>
+                <th class="room color${c}">${location.buildingDescription} - ${location.room}</th>
+                </tr>`
+                document.getElementById(`course${c}`).innerHTML = rowHTML
                 c++
             }
         }
+
+        async function updateClasses(courseData){
+
+            for(let time of times){
+
+                let rowHTML =
+                    `<tr id="${time}">
+                    <th class="black">${time}</th>
+                    <td class="Sunday"></td>
+                    <td class="Monday"></td>
+                    <td class="Tuesday"></td>
+                    <td class="Wednesday"></td>
+                    <td class="Thursday"></td>
+                    <td class="Friday"></td>
+                    <td class="Saturday"></td>
+                    </tr>`
+                document.getElementById(time).innerHTML = rowHTML
+            }
+        }
+        async function getCourseDataFromCRNS(crns){
+            // let crns = ["5093","5206","5287","5384","5539","5505"]
+            return new Promise(async(resolve, reject) => {
+                let url = "https://mastertemple.github.io/api/biola/courses/2022/spring/CRNs.json"
+
+                let crnList = await get(url)
+                let subjects = []
+                for(let crn of crns){
+                    subjects.push(crnList[crn])
+                }
+                subjects = [...new Set([...subjects])]
+                let courseData = []
+                for(let subject of subjects){
+                    let res = await get(`https://mastertemple.github.io/api/biola/courses/2022/spring/${subject}.json`)
+                    let data = res.filter(({CRN}) => crns.includes(CRN))
+                    data.forEach(e => e.subject = subject)
+                    courseData = [...courseData, ...data]
+                }
+                resolve(courseData)
+            })
+
+        }
+
         document.addEventListener("DOMContentLoaded", function(event) {
             initializeTable()
             initializeLegend()
+        });
+        async function createSchedule() {
+            let crns = []//["5093","5206","5287","5384","5539","5505"]
+            for(let i = 1; i <=7; i++){
+                crns.push(document.getElementById(`crn${i}`).value)
+            }
+            crns = crns.filter(f => f!=="")
+            if(crns.length === 0){
+                alert("Please Enter 1 or more CRN's")
+                return
+            }
+            console.log(crns);
+            let courseData = await getCourseDataFromCRNS(crns)
+            updateLegend(courseData)
+            updateClasses(courseData)
+        }
+
+        document.addEventListener("keyup", function(event) {
+            if (event.keyCode === 13) {
+                createSchedule()
+            }
         });
 
 
@@ -120,32 +212,31 @@
 <body>
     <h1>Biola Spring 2022 Class Schedule</h1>
     <table id="schedule">
-        <tr id="headers">
+        <tr id="scheduleHeader">
 
             <th class="black">Time</th>
-            <th class="black">Sunday</th>
-            <th class="black">Monday</th>
-            <th class="black">Tuesday</th>
-            <th class="black">Wednesday</th>
-            <th class="black">Thursday</th>
-            <th class="black">Friday</th>
-            <th class="black">Saturday</th>
+            <th class="black headers">Sunday</th>
+            <th class="black headers">Monday</th>
+            <th class="black headers">Tuesday</th>
+            <th class="black headers">Wednesday</th>
+            <th class="black headers">Thursday</th>
+            <th class="black headers">Friday</th>
+            <th class="black headers">Saturday</th>
         </tr>
         <tr id="row1">
         </tr>
       </table>
       <br>
-
       <table id="legend">
-        <tr id="headers">
+        <tr id="legendHeader">
+            <th class="black">#</th>
+            <th class="black">CRN</th>
             <th class="black">Course</th>
             <th class="black">Title</th>
             <th class="black">Room</th>
-            <th class="black">CRN</th>
         </tr>
-        <tr id="row1">
-        </tr>
-
       </table>
+      <br>
+      <button id="createSchedule" class="black" font-weight="bold" onclick="createSchedule()">Create Schedule</button>
 </body>
 </html>
