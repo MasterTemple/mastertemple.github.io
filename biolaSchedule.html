@@ -8,6 +8,10 @@
     <style>
         :root {
             font-family: "Helvetica";
+            color: white;
+        }
+        h1 {
+            color: #ff0001;
         }
         table, th, td {
             border: 1px solid black;
@@ -22,39 +26,43 @@
             background-color: black;
             color: white;
         }
-        .color1{
+        .oddRow {
+            background-color: white;
+        }
+        .evenRow {
+            background-color: lightgray;
+        }
+        .cell {
             color: white;
+            border-top: none;
+            border-bottom: none;
+        }
+        .color1{
             background-color: #ff0001;
         }
         .color2{
-            color: white;
             background-color: #ff6d00;
         }
         .color3{
-            color: white;
             background-color: #f0c233;
         }
         .color4{
-            color: white;
             background-color: #69a94e;
         }
         .color5{
-            color: white;
             background-color: #4386f4;
         }
         .color6{
-            color: white;
             background-color: #9b01ff;
         }
         .color7{
-            color: white;
             background-color: #fe00ff;
         }
         input {
             /* border-radius: 5px; */
             border: none;
             width: 6ch;
-
+            color: white;
         }
         input[type="text"]{
             font-weight: bold;
@@ -97,35 +105,43 @@
             })
         }
         async function initializeTable(){
-
+            let c=0
             for(let time of militaryTimes){
+                let color = "oddRow"
+                if(c++%2){
+                    color = "evenRow"
+                }
                 let rowHTML =
                     `<tr id="${time}">
                     <th class="black">${time}</th>
-                    <td class="Sunday"></td>
-                    <td class="Monday"></td>
-                    <td class="Tuesday"></td>
-                    <td class="Wednesday"></td>
-                    <td class="Thursday"></td>
-                    <td class="Friday"></td>
-                    <td class="Saturday"></td>
+                    <td class="Sunday ${color}"></td>
+                    <td class="Monday ${color}"></td>
+                    <td class="Tuesday ${color}"></td>
+                    <td class="Wednesday ${color}"></td>
+                    <td class="Thursday ${color}"></td>
+                    <td class="Friday ${color}"></td>
+                    <td class="Saturday ${color}"></td>
                     </tr>`
                 document.getElementById("schedule").innerHTML += rowHTML
             }
         }
         async function clearTable(){
-
+            let c=0
             for(let time of militaryTimes){
+                let color = "oddRow"
+                if(c++%2){
+                    color = "evenRow"
+                }
                 let rowHTML =
                     `<tr id="${time}">
                     <th class="black">${time}</th>
-                    <td class="Sunday"></td>
-                    <td class="Monday"></td>
-                    <td class="Tuesday"></td>
-                    <td class="Wednesday"></td>
-                    <td class="Thursday"></td>
-                    <td class="Friday"></td>
-                    <td class="Saturday"></td>
+                    <td class="Sunday ${color}"></td>
+                    <td class="Monday ${color}"></td>
+                    <td class="Tuesday ${color}"></td>
+                    <td class="Wednesday ${color}"></td>
+                    <td class="Thursday ${color}"></td>
+                    <td class="Friday ${color}"></td>
+                    <td class="Saturday ${color}"></td>
                     </tr>`
                 document.getElementById(time).innerHTML = rowHTML
             }
@@ -156,7 +172,6 @@
                 document.getElementById(`course${i}`).innerHTML = rowHTML
             }
         }
-
         async function updateLegend(courseData){
 
             let c = 1
@@ -174,7 +189,6 @@
                 c++
             }
         }
-
         async function updateClasses(courseData){
 
                 let c=1
@@ -223,7 +237,7 @@
                     for(let day of course.location.dayNames){
                         for(let {hour, minute} of times){
                             let el = document.querySelector(`#\\3${[...hour].join(" ")}\\:${minute} > td.${day}`)
-                            el.setAttribute("class", `${day} color${c}`)
+                            el.setAttribute("class", `${day} color${c} cell`)
                             el.textContent = `${course.subject} ${course.courseNumber}`
                         }
                     }
@@ -231,7 +245,6 @@
                     c++
                 }
         }
-
         async function getCourseDataFromCRNS(crns){
             // let crns = ["5093","5206","5287","5384","5539","5505"]
             return new Promise(async(resolve, reject) => {
@@ -254,7 +267,6 @@
             })
 
         }
-
         async function createSchedule() {
             let crns = []
             for(let i = 1; i <=7; i++){
