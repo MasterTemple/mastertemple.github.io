@@ -14,6 +14,8 @@
             border-collapse: collapse;
             /* border-radius: 5px; */
             padding: 2px;
+            font-weight: bold;
+            font-family: "Helvetica";
         }
 
         .black {
@@ -84,8 +86,9 @@
 
     </style>
     <script>
-        let times = ["8:00","8:30","9:00","9:30","10:00","10:30","11:00","11:30","12:00","12:30","1:00","1:30","2:00","2:30","3:00","3:30","4:00","4:30","5:00","5:30","6:00","6:30","7:00","7:30","8:00","8:30","9:00"]
-
+        // let times = ["8:00 AM","8:30","9:00","9:30","10:00","10:30","11:00","11:30","12:00","12:30","1:00","1:30","2:00","2:30","3:00","3:30","4:00","4:30","5:00","5:30","6:00","6:30","7:00","7:30","8:00","8:30","9:00"]
+        // let times = ["00:00","00:30","01:00","01:30","02:00","02:30","03:00","03:30","04:00","04:30","05:00","05:30","06:00","06:30","07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30","12:00","12:30","13:00","13:30","14:00","14:30","15:00","15:30","16:00","16:30","17:00","17:30","18:00","18:30","19:00","19:30","20:00","20:30","21:00","21:30","22:00","22:30","23:00","23:30","24:00"]
+        let militaryTimes = ["07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30","12:00","12:30","13:00","13:30","14:00","14:30","15:00","15:30","16:00","16:30","17:00","17:30","18:00","18:30","19:00","19:30","20:00","20:30","21:00","21:30","22:00","22:30"]
         async function get(url){
             return new Promise( (resolve, reject) => {
                 fetch(url)
@@ -95,7 +98,7 @@
         }
         function initializeTable(){
 
-            for(let time of times){
+            for(let time of militaryTimes){
                 let rowHTML =
                     `<tr id="${time}">
                     <th class="black">${time}</th>
@@ -152,22 +155,61 @@
 
         async function updateClasses(courseData){
 
-            for(let time of times){
+                let c=1
+                for(let course of courseData){
+                    let startHours = course.location.beginTime.substring(0, 2)
+                    let endHours = course.location.endTime.substring(0, 2)
+                    let startMinutes = parseInt(course.location.beginTime.substring(2, 4))
+                    let endMinutes = parseInt(course.location.endTime.substring(2, 4))
+                    let startTime = ""
+                    let endTime = ""
 
-                let rowHTML =
-                    `<tr id="${time}">
-                    <th class="black">${time}</th>
-                    <td class="Sunday"></td>
-                    <td class="Monday"></td>
-                    <td class="Tuesday"></td>
-                    <td class="Wednesday"></td>
-                    <td class="Thursday"></td>
-                    <td class="Friday"></td>
-                    <td class="Saturday"></td>
-                    </tr>`
-                document.getElementById(time).innerHTML = rowHTML
-            }
+                    if(startMinutes >= 0 && startMinutes < 30){
+                        startMinutes = "00"
+                    }else if(startMinutes >= 30 && startMinutes < 60){
+                        startMinutes = "30"
+                    }
+                    if(endMinutes >= 0 && endMinutes < 30){
+                        endMinutes = "30"
+                    }else if(endMinutes >= 30 && endMinutes < 60){
+                        endMinutes = "00"
+                        endHours = parseInt(endHours) + 1
+                        if(endHours < 10){
+                                endHours = `0${endHours}`
+                            }else{
+                                endHours = endHours.toString()
+                            }
+                    }
+                    let times = []
+                    console.log({startHours,startMinutes});
+
+                    while(startHours !== endHours || startMinutes !== endMinutes){
+                        times.push({ hour: startHours, minute: startMinutes})
+                        if(startMinutes === "00"){
+                            startMinutes =  "30"
+                        }else{
+                            startHours = parseInt(startHours)+1
+                            if(startHours < 10){
+                                startHours = `0${startHours}`
+                            }else{
+                                startHours = startHours.toString()
+                            }
+                            startMinutes =  "00"
+                        }
+                    }
+
+                    for(let day of course.location.dayNames){
+                        for(let {hour, minute} of times){
+                            let el = document.querySelector(`#\\3${[...hour].join(" ")}\\:${minute} > td.${day}`)
+                            el.setAttribute("class", `${day} color${c}`)
+                            el.textContent = `${course.subject} ${course.courseNumber}`
+                        }
+                    }
+
+                    c++
+                }
         }
+
         async function getCourseDataFromCRNS(crns){
             // let crns = ["5093","5206","5287","5384","5539","5505"]
             return new Promise(async(resolve, reject) => {
@@ -198,14 +240,14 @@
         async function createSchedule() {
             let crns = []//["5093","5206","5287","5384","5539","5505"]
             for(let i = 1; i <=7; i++){
-                crns.push(document.getElementById(`crn${i}`).value)
+                crns.push(document.getElementById(`crn${i}`).value.toString().match(/\d+/g))
             }
-            crns = crns.filter(f => f!=="")
+            crns = crns.filter(f => f!==null)
+            crns = crns.map(e => e[0])
             if(crns.length === 0){
                 alert("Please Enter 1 or more CRN's")
                 return
             }
-            console.log(crns);
             let courseData = await getCourseDataFromCRNS(crns)
             updateLegend(courseData)
             updateClasses(courseData)
@@ -240,7 +282,7 @@
         <div class="column">
             <table id="schedule">
                 <tr id="scheduleHeader">
-                    <th class="black">Time</th>
+                    <th class="black headers">Time</th>
                     <th class="black headers">Sunday</th>
                     <th class="black headers">Monday</th>
                     <th class="black headers">Tuesday</th>
