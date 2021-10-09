@@ -96,7 +96,7 @@
                 .then(data => resolve(data));
             })
         }
-        function initializeTable(){
+        async function initializeTable(){
 
             for(let time of militaryTimes){
                 let rowHTML =
@@ -113,16 +113,25 @@
                 document.getElementById("schedule").innerHTML += rowHTML
             }
         }
+        async function clearTable(){
+
+            for(let time of militaryTimes){
+                let rowHTML =
+                    `<tr id="${time}">
+                    <th class="black">${time}</th>
+                    <td class="Sunday"></td>
+                    <td class="Monday"></td>
+                    <td class="Tuesday"></td>
+                    <td class="Wednesday"></td>
+                    <td class="Thursday"></td>
+                    <td class="Friday"></td>
+                    <td class="Saturday"></td>
+                    </tr>`
+                document.getElementById(time).innerHTML = rowHTML
+            }
+        }
         async function initializeLegend(){
             for(let i = 1; i <= 7; i++){
-                // let rowHTML =
-                // `<tr id="course${i}">
-                // <th class="courseNumber${i} black">${i}</th>
-                // <th class="CRN color${i}"></th>
-                // <th class="courseId color${i}"></th>
-                // <th class="courseTitle color${i}"></th>
-                // <th class="room color${i}"></th>
-                // </tr>`
                 let rowHTML =
                 `<tr id="course${i}">
                 <th class="courseNumber${i} black">${i}</th>
@@ -132,6 +141,19 @@
                 <th class="room color${i}"></th>
                 </tr>`
                 document.getElementById("legend").innerHTML += rowHTML
+            }
+        }
+        async function clearLegend(){
+            for(let i = 1; i <= 7; i++){
+                let rowHTML =
+                `<tr id="course${i}">
+                <th class="courseNumber${i} black">${i}</th>
+                <th class="CRN color${i}"><input type="text" class="color${i}" id="crn${i}"/></th>
+                <th class="courseId color${i}"></th>
+                <th class="courseTitle color${i}"></th>
+                <th class="room color${i}"></th>
+                </tr>`
+                document.getElementById(`course${i}`).innerHTML = rowHTML
             }
         }
 
@@ -233,12 +255,8 @@
 
         }
 
-        document.addEventListener("DOMContentLoaded", function(event) {
-            initializeTable()
-            initializeLegend()
-        });
         async function createSchedule() {
-            let crns = []//["5093","5206","5287","5384","5539","5505"]
+            let crns = []
             for(let i = 1; i <=7; i++){
                 crns.push(document.getElementById(`crn${i}`).value.toString().match(/\d+/g))
             }
@@ -248,10 +266,17 @@
                 alert("Please Enter 1 or more CRN's")
                 return
             }
+            clearTable()
+            clearLegend()
             let courseData = await getCourseDataFromCRNS(crns)
             updateLegend(courseData)
             updateClasses(courseData)
         }
+
+        document.addEventListener("DOMContentLoaded", function(event) {
+            initializeTable()
+            initializeLegend()
+        });
 
         document.addEventListener("keyup", function(event) {
             if (event.keyCode === 13) {
