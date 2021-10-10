@@ -68,6 +68,29 @@
             font-weight: bold;
             font-family: "Helvetica";
         }
+        input:-webkit-autofill,
+        input:-webkit-autofill:hover,
+        input:-webkit-autofill:focus,
+        textarea:-webkit-autofill,
+        textarea:-webkit-autofill:hover,
+        textarea:-webkit-autofill:focus,
+        select:-webkit-autofill,
+        select:-webkit-autofill:hover,
+        select:-webkit-autofill:focus {
+            font-weight: bold;
+            font-family: "Helvetica";
+            /* color: white; */
+            /* background-color: none; */
+            -webkit-font-family: "Helvetica";
+            /* border: 1px solid green; */
+            -webkit-font-weight: white;
+            -webkit-font-weight: "Helvetica";
+
+            -webkit-text-fill-color: white;
+            -webkit-box-shadow: 0 0 0px 1000px rgba(0, 0, 0, 0) inset;
+            box-shadow: 0 0 0px 1000px rgba(0, 0, 0, 0) inset;;
+            transition: background-color 5000s ease-in-out 0s;
+        }
         .courseId {
             width: 9ch;
         }
@@ -97,6 +120,7 @@
         // let times = ["8:00 AM","8:30","9:00","9:30","10:00","10:30","11:00","11:30","12:00","12:30","1:00","1:30","2:00","2:30","3:00","3:30","4:00","4:30","5:00","5:30","6:00","6:30","7:00","7:30","8:00","8:30","9:00"]
         // let times = ["00:00","00:30","01:00","01:30","02:00","02:30","03:00","03:30","04:00","04:30","05:00","05:30","06:00","06:30","07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30","12:00","12:30","13:00","13:30","14:00","14:30","15:00","15:30","16:00","16:30","17:00","17:30","18:00","18:30","19:00","19:30","20:00","20:30","21:00","21:30","22:00","22:30","23:00","23:30","24:00"]
         let militaryTimes = ["07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30","12:00","12:30","13:00","13:30","14:00","14:30","15:00","15:30","16:00","16:30","17:00","17:30","18:00","18:30","19:00","19:30","20:00","20:30","21:00","21:30","22:00","22:30"]
+        var includeWeekends = false
         async function get(url){
             return new Promise( (resolve, reject) => {
                 fetch(url)
@@ -106,42 +130,63 @@
         }
         async function initializeTable(){
             let c=0
+            let sunday = ""
+            let saturday = ""
             for(let time of militaryTimes){
                 let color = "oddRow"
                 if(c++%2){
                     color = "evenRow"
                 }
+                if(includeWeekends){
+                    sunday = `<td class="Sunday ${color}"></td>`
+                    saturday = `<td class="Saturday ${color}"></td>`
+                }
+                // let rowHTML =
+                //     `<tr id="${time}">
+                //     <th class="black">${time}</th>
+                //     <td class="Sunday ${color}"></td>
+                //     <td class="Monday ${color}"></td>
+                //     <td class="Tuesday ${color}"></td>
+                //     <td class="Wednesday ${color}"></td>
+                //     <td class="Thursday ${color}"></td>
+                //     <td class="Friday ${color}"></td>
+                //     <td class="Saturday ${color}"></td>
+                //     </tr>`
+
                 let rowHTML =
                     `<tr id="${time}">
-                    <th class="black">${time}</th>
-                    <td class="Sunday ${color}"></td>
+                    <th class="black">${time}</th>${sunday}
                     <td class="Monday ${color}"></td>
                     <td class="Tuesday ${color}"></td>
                     <td class="Wednesday ${color}"></td>
                     <td class="Thursday ${color}"></td>
-                    <td class="Friday ${color}"></td>
-                    <td class="Saturday ${color}"></td>
+                    <td class="Friday ${color}"></td>${saturday}
                     </tr>`
                 document.getElementById("schedule").innerHTML += rowHTML
             }
         }
         async function clearTable(){
             let c=0
+            let sunday = ""
+            let saturday = ""
             for(let time of militaryTimes){
                 let color = "oddRow"
                 if(c++%2){
                     color = "evenRow"
                 }
+                if(includeWeekends){
+                    sunday = `<td class="Sunday ${color}"></td>`
+                    saturday = `<td class="Saturday ${color}"></td>`
+                }
+
                 let rowHTML =
                     `<tr id="${time}">
-                    <th class="black">${time}</th>
-                    <td class="Sunday ${color}"></td>
+                    <th class="black">${time}</th>${sunday}
                     <td class="Monday ${color}"></td>
                     <td class="Tuesday ${color}"></td>
                     <td class="Wednesday ${color}"></td>
                     <td class="Thursday ${color}"></td>
-                    <td class="Friday ${color}"></td>
-                    <td class="Saturday ${color}"></td>
+                    <td class="Friday ${color}"></td>${saturday}
                     </tr>`
                 document.getElementById(time).innerHTML = rowHTML
             }
@@ -217,7 +262,7 @@
                             }
                     }
                     let times = []
-                    console.log({startHours,startMinutes});
+                    // console.log({startHours,startMinutes});
 
                     while(startHours !== endHours || startMinutes !== endMinutes){
                         times.push({ hour: startHours, minute: startMinutes})
@@ -278,13 +323,51 @@
                 alert("Please Enter 1 or more CRN's")
                 return
             }
+
+            let courseData = await getCourseDataFromCRNS(crns)
+
+            if(courseData.find(f=>f.location.days.includes("U")||f.location.days.includes("S"))){
+                includeWeekends = true
+                let html = document.getElementById("scheduleHeader").innerHTML
+                html = html.replace(/(?<=\<th class="black headers"\>Time\<\/th\>)/g, `<th class="black headers">Sunday</th>`)
+                // html = html.replace(/(?<=\<th class="black headers"\>Friday\<\/th\>)/g, `<th class="black headers">Saturday</th>`)
+                document.getElementById("scheduleHeader").innerHTML = `${html}<th class="black headers">Saturday</th>`
+            }
             clearTable()
             clearLegend()
-            let courseData = await getCourseDataFromCRNS(crns)
+
             updateLegend(courseData)
             updateClasses(courseData)
         }
+        // async function addWeekends(){
+        //     let html = document.getElementById("schedule").innerHTML
+        //     html = html.replaceAll(/(?<=\<td class="Friday[\w\s]*"\>.*\<\/td\>)/g, `<td class="Saturday"></td>`)
+        //     html = html.replaceAll(/(?<=\<td class="black[\w\s]*"\>.*\<\/td\>)/g, `<td class="Sunday"></td>`)
+        //     document.getElementById("schedule").innerHTML = html
 
+        //     html = document.getElementById("scheduleHeader").innerHTML
+        //     html = html.replace(/(?<=\<th class="black headers"\>Time\<\/th\>)/g, `<th class="black headers">Sunday</th>`)
+        //     html = html.replace(/(?<=\<th class="black headers"\>Friday\<\/th\>)/g, `<th class="black headers">Saturday</th>`)
+        //     document.getElementById("scheduleHeader").innerHTML = html
+        // }
+        // async function removeWeekends(){
+        //     let html = document.getElementById("schedule").innerHTML
+        //     console.log(`"""\n${html}\n"""`);
+        //     html = html.replaceAll(/(?<=\<td class="Saturday[\w\s]*"\>.*\<\/td\>)/g, "")
+        //     html = html.replaceAll(/(?<=\<td class="Sunday[\w\s]*"\>.*\<\/td\>)/g, "")
+        //     console.log(`"""\n${html}\n"""`);
+
+        //     document.getElementById("schedule").innerHTML = html
+
+        //     html = document.getElementById("scheduleHeader").innerHTML
+        //     console.log(`"""\n${html}\n"""`);
+
+        //     html = html.replace(/(?<=\<th class="black headers"\>Sunday\<\/th\>)/g, "")
+        //     html = html.replace(/(?<=\<th class="black headers"\>Saturday\<\/th\>)/g, "")
+        //     document.getElementById("scheduleHeader").innerHTML = html
+        //     console.log(`"""\n${html}\n"""`);
+
+        // }
         document.addEventListener("DOMContentLoaded", function(event) {
             initializeTable()
             initializeLegend()
@@ -320,13 +403,11 @@
             <table id="schedule">
                 <tr id="scheduleHeader">
                     <th class="black headers">Time</th>
-                    <th class="black headers">Sunday</th>
                     <th class="black headers">Monday</th>
                     <th class="black headers">Tuesday</th>
                     <th class="black headers">Wednesday</th>
                     <th class="black headers">Thursday</th>
                     <th class="black headers">Friday</th>
-                    <th class="black headers">Saturday</th>
                 </tr>
             </table>
         </div>
