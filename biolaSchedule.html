@@ -166,17 +166,21 @@
             }
         }
         async function clearTable(){
+            let sunday = ""
+            let saturday = ""
+            if(includeWeekends){
+                    sunday = `<th class="black headers">Sunday</th>`
+                    saturday = `<th class="black headers">Saturday</th>`
+                }
             let newTable = `<tr id="scheduleHeader">
-                    <th class="black headers">Time</th>
+                    <th class="black headers">Time</th>${sunday}
                     <th class="black headers">Monday</th>
                     <th class="black headers">Tuesday</th>
                     <th class="black headers">Wednesday</th>
                     <th class="black headers">Thursday</th>
-                    <th class="black headers">Friday</th>
+                    <th class="black headers">Friday</th>${saturday}
                 </tr>`
             let c=0
-            let sunday = ""
-            let saturday = ""
             for(let time of militaryTimes){
                 let color = "oddRow"
                 if(c++%2){
@@ -197,9 +201,10 @@
                     <td class="Friday ${color}"></td>${saturday}
                     </tr>`
                 newTable+=rowHTML
-                document.getElementById("schedule").innerHTML = newTable
                 // document.getElementById(time).innerHTML = rowHTML
             }
+            document.getElementById("schedule").innerHTML = newTable
+
         }
         async function initializeLegend(){
             for(let i = 1; i <= 7; i++){
@@ -342,6 +347,8 @@
                 html = html.replace(/(?<=\<th class="black headers"\>Time\<\/th\>)/g, `<th class="black headers">Sunday</th>`)
                 // html = html.replace(/(?<=\<th class="black headers"\>Friday\<\/th\>)/g, `<th class="black headers">Saturday</th>`)
                 document.getElementById("scheduleHeader").innerHTML = `${html}<th class="black headers">Saturday</th>`
+            }else{
+                includeWeekends = false
             }
             let beginTimes = courseData.map(f=>parseInt(f.location.beginTime)).sort((a,b)=>a-b)
             let endTimes = courseData.map(f=>parseInt(f.location.endTime)).sort((a,b)=>a-b)
