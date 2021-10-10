@@ -119,7 +119,7 @@
     <script>
         // let times = ["8:00 AM","8:30","9:00","9:30","10:00","10:30","11:00","11:30","12:00","12:30","1:00","1:30","2:00","2:30","3:00","3:30","4:00","4:30","5:00","5:30","6:00","6:30","7:00","7:30","8:00","8:30","9:00"]
         // let times = ["00:00","00:30","01:00","01:30","02:00","02:30","03:00","03:30","04:00","04:30","05:00","05:30","06:00","06:30","07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30","12:00","12:30","13:00","13:30","14:00","14:30","15:00","15:30","16:00","16:30","17:00","17:30","18:00","18:30","19:00","19:30","20:00","20:30","21:00","21:30","22:00","22:30","23:00","23:30","24:00"]
-        let militaryTimes = ["07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30","12:00","12:30","13:00","13:30","14:00","14:30","15:00","15:30","16:00","16:30","17:00","17:30","18:00","18:30","19:00","19:30","20:00","20:30","21:00","21:30","22:00","22:30"]
+        var militaryTimes = generateMilitaryTimeRange(800,1800)//["07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30","12:00","12:30","13:00","13:30","14:00","14:30","15:00","15:30","16:00","16:30","17:00","17:30","18:00","18:30","19:00","19:30","20:00","20:30","21:00","21:30","22:00","22:30"]
         var includeWeekends = false
         async function get(url){
             return new Promise( (resolve, reject) => {
@@ -166,6 +166,14 @@
             }
         }
         async function clearTable(){
+            let newTable = `<tr id="scheduleHeader">
+                    <th class="black headers">Time</th>
+                    <th class="black headers">Monday</th>
+                    <th class="black headers">Tuesday</th>
+                    <th class="black headers">Wednesday</th>
+                    <th class="black headers">Thursday</th>
+                    <th class="black headers">Friday</th>
+                </tr>`
             let c=0
             let sunday = ""
             let saturday = ""
@@ -188,7 +196,9 @@
                     <td class="Thursday ${color}"></td>
                     <td class="Friday ${color}"></td>${saturday}
                     </tr>`
-                document.getElementById(time).innerHTML = rowHTML
+                newTable+=rowHTML
+                document.getElementById("schedule").innerHTML = newTable
+                // document.getElementById(time).innerHTML = rowHTML
             }
         }
         async function initializeLegend(){
@@ -333,41 +343,67 @@
                 // html = html.replace(/(?<=\<th class="black headers"\>Friday\<\/th\>)/g, `<th class="black headers">Saturday</th>`)
                 document.getElementById("scheduleHeader").innerHTML = `${html}<th class="black headers">Saturday</th>`
             }
+            let beginTimes = courseData.map(f=>parseInt(f.location.beginTime)).sort((a,b)=>a-b)
+            let endTimes = courseData.map(f=>parseInt(f.location.endTime)).sort((a,b)=>a-b)
+            let startTime = beginTimes[0]
+            let endTime = endTimes[endTimes.length-1]
+            militaryTimes = generateMilitaryTimeRange(startTime, endTime)
             clearTable()
             clearLegend()
 
             updateLegend(courseData)
             updateClasses(courseData)
         }
-        // async function addWeekends(){
-        //     let html = document.getElementById("schedule").innerHTML
-        //     html = html.replaceAll(/(?<=\<td class="Friday[\w\s]*"\>.*\<\/td\>)/g, `<td class="Saturday"></td>`)
-        //     html = html.replaceAll(/(?<=\<td class="black[\w\s]*"\>.*\<\/td\>)/g, `<td class="Sunday"></td>`)
-        //     document.getElementById("schedule").innerHTML = html
+        function generateMilitaryTimeRange(startTime, endTime){
 
-        //     html = document.getElementById("scheduleHeader").innerHTML
-        //     html = html.replace(/(?<=\<th class="black headers"\>Time\<\/th\>)/g, `<th class="black headers">Sunday</th>`)
-        //     html = html.replace(/(?<=\<th class="black headers"\>Friday\<\/th\>)/g, `<th class="black headers">Saturday</th>`)
-        //     document.getElementById("scheduleHeader").innerHTML = html
-        // }
-        // async function removeWeekends(){
-        //     let html = document.getElementById("schedule").innerHTML
-        //     console.log(`"""\n${html}\n"""`);
-        //     html = html.replaceAll(/(?<=\<td class="Saturday[\w\s]*"\>.*\<\/td\>)/g, "")
-        //     html = html.replaceAll(/(?<=\<td class="Sunday[\w\s]*"\>.*\<\/td\>)/g, "")
-        //     console.log(`"""\n${html}\n"""`);
+            startTime = (startTime-100).toString()
+            endTime = (endTime+100).toString()
 
-        //     document.getElementById("schedule").innerHTML = html
 
-        //     html = document.getElementById("scheduleHeader").innerHTML
-        //     console.log(`"""\n${html}\n"""`);
+            if(startTime.length == 3) startTime = `0${startTime}`;
+            if(endTime.length == 3) endTime = `0${endTime}`;
 
-        //     html = html.replace(/(?<=\<th class="black headers"\>Sunday\<\/th\>)/g, "")
-        //     html = html.replace(/(?<=\<th class="black headers"\>Saturday\<\/th\>)/g, "")
-        //     document.getElementById("scheduleHeader").innerHTML = html
-        //     console.log(`"""\n${html}\n"""`);
 
-        // }
+            startTime = [startTime.substring(0,2), startTime.substring(2,4)]
+            endTime = [endTime.substring(0,2), endTime.substring(2,4)]
+
+            let times = []
+            if(startTime[1] >= 0 && startTime[1] < 30){
+                startTime[1] = "00"
+            }else if(startTime[1] >= 30 && startTime[1] < 60){
+                startTime[1] = "30"
+            }
+            if(endTime[1] >= 0 && endTime[1] < 30){
+                endTime[1] = "30"
+            }else if(endTime[1] >= 30 && endTime[1] < 60){
+                endTime[1] = "00"
+                endTime[0] = parseInt(endTime[0]) + 1
+                if(endTime[0] < 10){
+                        endTime[0] = `0${endTime[0]}`
+                    }else{
+                        endTime[0] = endTime[0].toString()
+                    }
+            }
+
+            while(startTime[0] !== endTime[0] || startTime[1] !== endTime[1]){
+                console.log(startTime[0], startTime[1], endTime[0], endTime[1]);
+                times.push(`${startTime[0]}:${startTime[1]}`)
+                if(startTime[1] === "00"){
+                    startTime[1] =  "30"
+                }else{
+                    startTime[0] = parseInt(startTime[0])+1
+                    if(startTime[0] < 10){
+                        startTime[0] = `0${startTime[0]}`
+                    }else{
+                        startTime[0] = startTime[0].toString()
+                    }
+                    startTime[1] =  "00"
+                }
+            }
+            return times
+
+        }
+
         document.addEventListener("DOMContentLoaded", function(event) {
             initializeTable()
             initializeLegend()
