@@ -341,7 +341,7 @@
         async function getCourseDataFromCRNS(crns){
             // let crns = ["5093","5206","5287","5384","5539","5505"]
             return new Promise(async(resolve, reject) => {
-                let url = "https://mastertemple.github.io/api/biola/courses/{year}/${season}/CRNs.json"
+                let url = `https://mastertemple.github.io/api/biola/courses/${year}/${semester}/CRNs.json`
 
                 let crnList = await get(url)
                 let subjects = []
@@ -350,8 +350,9 @@
                 }
                 subjects = [...new Set([...subjects])]
                 let courseData = []
+                // console.table(subjects);
                 for(let subject of subjects){
-                    let res = await get(`https://mastertemple.github.io/api/biola/courses/${year}/${season}/${subject}.json`)
+                    let res = await get(`https://mastertemple.github.io/api/biola/courses/${year}/${semester}/${subject}.json`)
                     let data = res.filter(({CRN}) => crns.includes(CRN))
                     data.forEach(e => e.subject = subject)
                     courseData = [...courseData, ...data]
@@ -478,10 +479,11 @@
             document.execCommand("Copy");
         }
         function changeSemester() {
-            let semester = document.getElementById("semester").value
+            let sem = document.getElementById("semester").value
+            document.getElementById("title").innerHTML = `<h1 id="title">Biola ${sem} Class Schedule</h1>`
             // console.log(semester.value);
-            year = semester.match(/\d+/g)[0].toLowerCase()
-            semester = semester.match(/[a-zA-z]+/g)[0].toLowerCase()
+            year = sem.match(/\d+/g)[0].toLowerCase()
+            semester = sem.match(/[a-zA-z]+/g)[0].toLowerCase()
             console.log({year, semester});
         }
 
@@ -491,7 +493,7 @@
 <body>
     <div class="row">
         <div class="column">
-            <h1>Biola Spring 2022 Class Schedule</h1>
+            <h1 id="title">Biola Spring 2022 Class Schedule</h1>
             <table id="legend">
                 <tr id="legendHeader">
                     <th class="black">#</th>
