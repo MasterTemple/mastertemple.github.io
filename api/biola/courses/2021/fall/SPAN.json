@@ -1,0 +1,536 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2428",
+    "courseNumber": "100",
+    "sequenceNumber": "02",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370927",
+        "displayName": "Grismer, Mallory",
+        "emailAddress": "mallory.grismer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1600",
+      "endTime": "1750",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "201",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2429",
+    "courseNumber": "100",
+    "sequenceNumber": "03",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370927",
+        "displayName": "Grismer, Mallory",
+        "emailAddress": "mallory.grismer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1950",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "105",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2728",
+    "courseNumber": "100",
+    "sequenceNumber": "04",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 12,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370928",
+        "displayName": "Reyes, Itzel",
+        "emailAddress": "itzel.reyes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 4,
+      "hoursWeek": 4,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2430",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370928",
+        "displayName": "Reyes, Itzel",
+        "emailAddress": "itzel.reyes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "118",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2431",
+    "courseNumber": "200",
+    "sequenceNumber": "02",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370928",
+        "displayName": "Reyes, Itzel",
+        "emailAddress": "itzel.reyes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "1020",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2432",
+    "courseNumber": "200",
+    "sequenceNumber": "03",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370929",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1420",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "214",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2433",
+    "courseNumber": "201",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Language and Culture III",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370929",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1430",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "118",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2729",
+    "courseNumber": "215",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Basic Spanish for the Heritage Learner",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 12,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370930",
+        "displayName": "Bryant, Julianne",
+        "emailAddress": "julianne.bryant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2435",
+    "courseNumber": "300",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Spanish Communication I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370929",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1420",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 1.83,
+      "room": "128",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2436",
+    "courseNumber": "310",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Spanish for Heritage Learners I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370929",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370930",
+        "displayName": "Bryant, Julianne",
+        "emailAddress": "julianne.bryant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1420",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 1.83,
+      "room": "215",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2437",
+    "courseNumber": "433",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spanish Applied Linguistics and Teaching Pedagogy",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370930",
+        "displayName": "Bryant, Julianne",
+        "emailAddress": "julianne.bryant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1820",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "117",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2730",
+    "courseNumber": "480",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Portfolio",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370930",
+        "displayName": "Bryant, Julianne",
+        "emailAddress": "julianne.bryant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0920",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "115",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SPAN",
+    "CRN": "2734",
+    "courseNumber": "485",
+    "sequenceNumber": "01",
+    "subjectDescription": "SPAN Spanish",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship",
+    "creditHours": 3,
+    "maximumEnrollment": 2,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

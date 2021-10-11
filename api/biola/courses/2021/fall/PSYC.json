@@ -1,0 +1,1170 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1271",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 600,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370906",
+        "displayName": "Grace, Christopher",
+        "emailAddress": "chris.grace@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "AUDITORIUM",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "2498",
+    "courseNumber": "200",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Introduction to Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370906",
+        "displayName": "Grace, Christopher",
+        "emailAddress": "chris.grace@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1272",
+    "courseNumber": "206",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology and Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370907",
+        "displayName": "Draycott, Andrew",
+        "emailAddress": "andy.draycott@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370547",
+        "displayName": "Bland, Cayla",
+        "emailAddress": "cayla.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1273",
+    "courseNumber": "206",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology and Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370908",
+        "displayName": "Hall, Miriam",
+        "emailAddress": "liz.hall@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370579",
+        "displayName": "Pickavance, Timothy",
+        "emailAddress": "tim.pickavance@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1274",
+    "courseNumber": "206",
+    "sequenceNumber": "03",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology and Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370909",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370910",
+        "displayName": "Baldelomar, Oscar",
+        "emailAddress": "oscar.baldelomar@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1275",
+    "courseNumber": "209",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Statistics with Computer Applications",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370550",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1276",
+    "courseNumber": "209",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Statistics with Computer Applications",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370911",
+        "displayName": "Lee, Collin",
+        "emailAddress": "collin.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "128",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1278",
+    "courseNumber": "211",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Statistics with Computer Applications Lab",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370550",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "141",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1279",
+    "courseNumber": "211",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Statistics with Computer Applications Lab",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370911",
+        "displayName": "Lee, Collin",
+        "emailAddress": "collin.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1850",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "209",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1281",
+    "courseNumber": "303",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Human Sexuality",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370900",
+        "displayName": "Robins, Kendall",
+        "emailAddress": "kendall.d.robins@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "008",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1282",
+    "courseNumber": "305",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Experimental Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370893",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "04B",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1283",
+    "courseNumber": "305",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Experimental Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370550",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "05A",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1284",
+    "courseNumber": "306",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Testing and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370895",
+        "displayName": "Abouezzeddine, Tania",
+        "emailAddress": "tania.abouezzeddine@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "202",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1285",
+    "courseNumber": "309",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Abnormal Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370912",
+        "displayName": "Parker, Kelcey",
+        "emailAddress": "kelcey.m.parker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "118",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1286",
+    "courseNumber": "309",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Abnormal Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370912",
+        "displayName": "Parker, Kelcey",
+        "emailAddress": "kelcey.m.parker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "1020",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "002",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1287",
+    "courseNumber": "317",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Marriage",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370905",
+        "displayName": "Goss, Brady",
+        "emailAddress": "brady.d.goss@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "15A",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1289",
+    "courseNumber": "320",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Psychology: Lifespan",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370910",
+        "displayName": "Baldelomar, Oscar",
+        "emailAddress": "oscar.baldelomar@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1290",
+    "courseNumber": "320",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Psychology: Lifespan",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370550",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "214",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1291",
+    "courseNumber": "345",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Gender",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370913",
+        "displayName": "Owens, Bretlyn",
+        "emailAddress": "bretlyn.c.owens@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1292",
+    "courseNumber": "355",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Family",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370914",
+        "displayName": "Rios-Lam, Kimberly",
+        "emailAddress": "kimberly.rios-lam@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "007",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1293",
+    "courseNumber": "365",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cognitive Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370915",
+        "displayName": "Williams, John",
+        "emailAddress": "john.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1294",
+    "courseNumber": "405",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Social Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370916",
+        "displayName": "Shepard, Elisa",
+        "emailAddress": "elisa.shepard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "008",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1295",
+    "courseNumber": "411",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theories of Personality",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370545",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1296",
+    "courseNumber": "411",
+    "sequenceNumber": "02",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theories of Personality",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370545",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1297",
+    "courseNumber": "412",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physiological Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370915",
+        "displayName": "Williams, John",
+        "emailAddress": "john.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "04A",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1298",
+    "courseNumber": "418",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Seminar in Therapeutic Techniques",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370916",
+        "displayName": "Shepard, Elisa",
+        "emailAddress": "elisa.shepard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "128",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1300",
+    "courseNumber": "465",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Positive Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370909",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PSYC",
+    "CRN": "1301",
+    "courseNumber": "470",
+    "sequenceNumber": "01",
+    "subjectDescription": "PSYC Psychology",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CT: Human Trafficking",
+    "creditHours": 3,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370546",
+        "displayName": "Dryjanska, Laura",
+        "emailAddress": "laura.dryjanska@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "116",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "1050",
+    "courseNumber": "500",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370547",
+        "displayName": "Bland, Cayla",
+        "emailAddress": "cayla.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "1051",
+    "courseNumber": "611",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Marriage and Family Therapy Theories I",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370834",
+        "displayName": "Sato-Veloz, Jennifer",
+        "emailAddress": "jennifer.sato-veloz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "1052",
+    "courseNumber": "621",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Family Life Cycle and Aging",
+    "creditHours": null,
+    "maximumEnrollment": 31,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370835",
+        "displayName": "Phillips, Megen",
+        "emailAddress": "megen.phillips@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04A",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "2840",
+    "courseNumber": "633",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Couples and Sex Therapy",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370837",
+        "displayName": "Edwards, Keith",
+        "emailAddress": "keith.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "06C",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "1056",
+    "courseNumber": "653",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Individual and Family Psychopathology",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370544",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "04B",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "1053",
+    "courseNumber": "661",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Law, Ethics, and Professional Issues",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370836",
+        "displayName": "Heim, Matthew",
+        "emailAddress": "matt.heim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1930",
+      "endTime": "2220",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "1057",
+    "courseNumber": "664",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional Development Seminar II",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370835",
+        "displayName": "Phillips, Megen",
+        "emailAddress": "megen.phillips@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1930",
+      "endTime": "2110",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "02",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTFT",
+    "CRN": "2884",
+    "courseNumber": "668",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTFT Marriage &amp; Family Therapy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional and Personal Formation of the Therapist II",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370654",
+        "displayName": "Bishop, Berry",
+        "emailAddress": "berry.j.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1930",
+      "endTime": "2220",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

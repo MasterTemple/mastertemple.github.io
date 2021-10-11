@@ -1,0 +1,562 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2688",
+    "courseNumber": "516",
+    "sequenceNumber": "01",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Accounting and Finance for Decision Makers",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370629",
+        "displayName": "Davis, Letitia",
+        "emailAddress": "letitia.d.davis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1800",
+      "endTime": "2120",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 3.33,
+      "room": "201",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2711",
+    "courseNumber": "516",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Accounting and Finance for Decision Makers",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370621",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2689",
+    "courseNumber": "605",
+    "sequenceNumber": "01",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Financial Management and Control",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370627",
+        "displayName": "Markley, Randall",
+        "emailAddress": "randy.markley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1800",
+      "endTime": "2120",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 3.33,
+      "room": "202",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2712",
+    "courseNumber": "605",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Financial Management and Control",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370627",
+        "displayName": "Markley, Randall",
+        "emailAddress": "randy.markley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2690",
+    "courseNumber": "608",
+    "sequenceNumber": "01",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Marketing Strategy",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370639",
+        "displayName": "Bodell, Rachel",
+        "emailAddress": "rachel.bodell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1800",
+      "endTime": "2120",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 3.33,
+      "room": "201",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2713",
+    "courseNumber": "608",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Marketing Strategy",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370637",
+        "displayName": "Mobley, Lari",
+        "emailAddress": "lari.mobley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2714",
+    "courseNumber": "620",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Social Entrepreneurship",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370639",
+        "displayName": "Bodell, Rachel",
+        "emailAddress": "rachel.bodell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2861",
+    "courseNumber": "621",
+    "sequenceNumber": "01",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Innovative Leader",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370619",
+        "displayName": "Aguas, Mario",
+        "emailAddress": "jake.aguas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "3008",
+    "courseNumber": "622",
+    "sequenceNumber": "01",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology of Leadership",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370634",
+        "displayName": "Mitchell, Helen",
+        "emailAddress": "helen.m.mitchell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1800",
+      "endTime": "2120",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 3.33,
+      "room": "207",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2692",
+    "courseNumber": "625",
+    "sequenceNumber": "01",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organizational Change and Leadership",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370634",
+        "displayName": "Mitchell, Helen",
+        "emailAddress": "helen.m.mitchell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1800",
+      "endTime": "2130",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 3.5,
+      "room": "203",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2715",
+    "courseNumber": "625",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organizational Change and Leadership",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370617",
+        "displayName": "McHugh, John",
+        "emailAddress": "jeff.mchugh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "3222",
+    "courseNumber": "626",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Financial Planning",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370638",
+        "displayName": "Enete, Shane",
+        "emailAddress": "shane.d.enete@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2716",
+    "courseNumber": "633",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Managing Emerging Enterprises",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370637",
+        "displayName": "Mobley, Lari",
+        "emailAddress": "lari.mobley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2717",
+    "courseNumber": "675",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Management Strategy",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370617",
+        "displayName": "McHugh, John",
+        "emailAddress": "jeff.mchugh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MBAD",
+    "CRN": "2718",
+    "courseNumber": "685",
+    "sequenceNumber": "02",
+    "subjectDescription": "MBAD Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Capstone: Nonprofit Organizations",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370639",
+        "displayName": "Bodell, Rachel",
+        "emailAddress": "rachel.bodell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

@@ -1,0 +1,1580 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "3033",
+    "courseNumber": "100",
+    "sequenceNumber": "02",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Art Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 55,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370561",
+        "displayName": "Callis III, Daniel",
+        "emailAddress": "daniel.callis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1571",
+    "courseNumber": "107",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Drawing I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 6,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370551",
+        "displayName": "Dunham, Kari",
+        "emailAddress": "kari.dunham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1572",
+    "courseNumber": "107",
+    "sequenceNumber": "02",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Drawing I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370551",
+        "displayName": "Dunham, Kari",
+        "emailAddress": "kari.dunham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2944",
+    "courseNumber": "108",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Figure Studies I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370562",
+        "displayName": "Puls, Jonathan",
+        "emailAddress": "jonathan.puls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "211",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1574",
+    "courseNumber": "109",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Digital Tools",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370552",
+        "displayName": "Smith, Christine",
+        "emailAddress": "christine.l.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1575",
+    "courseNumber": "109",
+    "sequenceNumber": "02",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Digital Tools",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370552",
+        "displayName": "Smith, Christine",
+        "emailAddress": "christine.l.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1930",
+      "endTime": "2220",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1576",
+    "courseNumber": "110",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "2-D Design",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370553",
+        "displayName": "Beck, Melissa",
+        "emailAddress": "melissa.beck@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "211",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1577",
+    "courseNumber": "110",
+    "sequenceNumber": "02",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "2-D Design",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370553",
+        "displayName": "Beck, Melissa",
+        "emailAddress": "melissa.beck@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "211",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1578",
+    "courseNumber": "112",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "4-D Design",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370554",
+        "displayName": "Swendsrud, Astri",
+        "emailAddress": "astri.swendsrud@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2946",
+    "courseNumber": "112",
+    "sequenceNumber": "02",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "4-D Design",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370556",
+        "displayName": "Aleckson, Luke",
+        "emailAddress": "luke.aleckson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1579",
+    "courseNumber": "116",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Western Art I: Prehistoric Through Renaissance",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370555",
+        "displayName": "Husser, Zehavi",
+        "emailAddress": "zehavi.husser@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1580",
+    "courseNumber": "210",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sculpture I",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370556",
+        "displayName": "Aleckson, Luke",
+        "emailAddress": "luke.aleckson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "22",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1581",
+    "courseNumber": "211",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ceramics I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370557",
+        "displayName": "Goble, Laura",
+        "emailAddress": "laura.e.goble@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "23",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1582",
+    "courseNumber": "211",
+    "sequenceNumber": "02",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ceramics I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370557",
+        "displayName": "Goble, Laura",
+        "emailAddress": "laura.e.goble@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "23",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1584",
+    "courseNumber": "215",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Idea and Image",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370558",
+        "displayName": "Chang, Daniel",
+        "emailAddress": "daniel.chang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2036",
+    "courseNumber": "217",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Typography I",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 1,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370558",
+        "displayName": "Chang, Daniel",
+        "emailAddress": "daniel.chang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2948",
+    "courseNumber": "220",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional Practices",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370554",
+        "displayName": "Swendsrud, Astri",
+        "emailAddress": "astri.swendsrud@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1586",
+    "courseNumber": "221",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography I-Introduction to Darkroom and Digital Processes",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370559",
+        "displayName": "Simonson, Kurt",
+        "emailAddress": "kurt.simonson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1587",
+    "courseNumber": "221",
+    "sequenceNumber": "02",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography I-Introduction to Darkroom and Digital Processes",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370559",
+        "displayName": "Simonson, Kurt",
+        "emailAddress": "kurt.simonson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1588",
+    "courseNumber": "221",
+    "sequenceNumber": "03",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography I-Introduction to Darkroom and Digital Processes",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370560",
+        "displayName": "Rau, Jeffrey",
+        "emailAddress": "jeffrey.rau@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1589",
+    "courseNumber": "305",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sculpture II",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370556",
+        "displayName": "Aleckson, Luke",
+        "emailAddress": "luke.aleckson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "22",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2949",
+    "courseNumber": "306",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Art Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370564",
+        "displayName": "Hamby, Dawn",
+        "emailAddress": "dawn.hamby@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "112",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1592",
+    "courseNumber": "308",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Painting II",
+    "creditHours": null,
+    "maximumEnrollment": 6,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370561",
+        "displayName": "Callis III, Daniel",
+        "emailAddress": "daniel.callis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "211",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1595",
+    "courseNumber": "315",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Contemporary Art Trends",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370562",
+        "displayName": "Puls, Jonathan",
+        "emailAddress": "jonathan.puls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "112",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2945",
+    "courseNumber": "319",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Figure Studies II",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370562",
+        "displayName": "Puls, Jonathan",
+        "emailAddress": "jonathan.puls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "211",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2950",
+    "courseNumber": "321",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Historical Development of Design",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370558",
+        "displayName": "Chang, Daniel",
+        "emailAddress": "daniel.chang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1930",
+      "endTime": "2045",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1596",
+    "courseNumber": "333",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Graphic Design Forms I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370558",
+        "displayName": "Chang, Daniel",
+        "emailAddress": "daniel.chang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1597",
+    "courseNumber": "334",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Photography III-Advanced Black and White Photography",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370559",
+        "displayName": "Simonson, Kurt",
+        "emailAddress": "kurt.simonson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "2063",
+    "courseNumber": "410",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem: Navigting the Creatv Proj",
+    "creditHours": 3,
+    "maximumEnrollment": 3,
+    "waitCapacity": 10,
+    "creditHourHigh": 6,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370563",
+        "displayName": "Zalk, Robert",
+        "emailAddress": "bob.zalk@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1593",
+    "courseNumber": "413",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Painting III",
+    "creditHours": null,
+    "maximumEnrollment": 6,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370561",
+        "displayName": "Callis III, Daniel",
+        "emailAddress": "daniel.callis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "211",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1590",
+    "courseNumber": "415",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sculpture III",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370556",
+        "displayName": "Aleckson, Luke",
+        "emailAddress": "luke.aleckson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "22",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1600",
+    "courseNumber": "423",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Integrated Design II",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 2,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370558",
+        "displayName": "Chang, Daniel",
+        "emailAddress": "daniel.chang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "1020",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "111",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1598",
+    "courseNumber": "432",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Integrated Photography",
+    "creditHours": null,
+    "maximumEnrollment": 7,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370559",
+        "displayName": "Simonson, Kurt",
+        "emailAddress": "kurt.simonson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1601",
+    "courseNumber": "440",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370561",
+        "displayName": "Callis III, Daniel",
+        "emailAddress": "daniel.callis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "210",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1602",
+    "courseNumber": "450",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370554",
+        "displayName": "Swendsrud, Astri",
+        "emailAddress": "astri.swendsrud@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1591",
+    "courseNumber": "462",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Advanced Studio Practicum",
+    "creditHours": 3,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370556",
+        "displayName": "Aleckson, Luke",
+        "emailAddress": "luke.aleckson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "22",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1599",
+    "courseNumber": "462",
+    "sequenceNumber": "03",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Advanced Studio Practicum",
+    "creditHours": 3,
+    "maximumEnrollment": 2,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370559",
+        "displayName": "Simonson, Kurt",
+        "emailAddress": "kurt.simonson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "208",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ARTS",
+    "CRN": "1603",
+    "courseNumber": "475",
+    "sequenceNumber": "01",
+    "subjectDescription": "ARTS Art",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Culmination",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370554",
+        "displayName": "Swendsrud, Astri",
+        "emailAddress": "astri.swendsrud@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "112",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

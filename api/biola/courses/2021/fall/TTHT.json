@@ -1,0 +1,122 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTHT",
+    "CRN": "2674",
+    "courseNumber": "505",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTHT Theology: Historical",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Patristic and Medieval Theology",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370943",
+        "displayName": "Gomes, Alan",
+        "emailAddress": "alan.gomes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1530",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTHT",
+    "CRN": "2675",
+    "courseNumber": "506",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTHT Theology: Historical",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Reformation and Modern Theology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370531",
+        "displayName": "Naidu, Ashish",
+        "emailAddress": "ashish.naidu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1730",
+      "endTime": "1900",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTHT",
+    "CRN": "2676",
+    "courseNumber": "514",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTHT Theology: Historical",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Historical Theology Survey",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370531",
+        "displayName": "Naidu, Ashish",
+        "emailAddress": "ashish.naidu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1800",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  }
+]

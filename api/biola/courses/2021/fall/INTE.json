@@ -1,0 +1,82 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INTE",
+    "CRN": "2406",
+    "courseNumber": "309",
+    "sequenceNumber": "01",
+    "subjectDescription": "INTE TESOL",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Grammar for English Teachers",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INTE",
+    "CRN": "2408",
+    "courseNumber": "421",
+    "sequenceNumber": "01",
+    "subjectDescription": "INTE TESOL",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to TESOL: Adult",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "4",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  }
+]

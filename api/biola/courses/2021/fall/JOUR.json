@@ -1,0 +1,692 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "1634",
+    "courseNumber": "105",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Journalism",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "203",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2721",
+    "courseNumber": "107",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Digital Skills for Media",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370810",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "1635",
+    "courseNumber": "120",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Writing Across Media",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370764",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370684",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2782",
+    "courseNumber": "125",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundational Media Skills: Photography",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370810",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2784",
+    "courseNumber": "135",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundational Media Skills: Videography",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370684",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2786",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "MCR Prac: TBA",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2783",
+    "courseNumber": "232",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Multimedia Reporting",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370764",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370810",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2943",
+    "courseNumber": "250",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Digital Design Essentials",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2722",
+    "courseNumber": "267",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Career Readiness",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "3089",
+    "courseNumber": "306",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Digital Technology and Social Strategies for Media",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370810",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "103",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "1640",
+    "courseNumber": "311",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Studio Production",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370684",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2723",
+    "courseNumber": "344",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Media Internship",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370810",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "3112",
+    "courseNumber": "390",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Law",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370684",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "220",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2724",
+    "courseNumber": "444",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Advanced Internship and Career Preparation in Media",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370810",
+        "displayName": "Kitada, Michael",
+        "emailAddress": "michael.kitada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2853",
+    "courseNumber": "464",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Philosophy and Ethics of Media",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370764",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "1644",
+    "courseNumber": "488",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370684",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1645",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 1.75,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "JOUR",
+    "CRN": "2725",
+    "courseNumber": "495",
+    "sequenceNumber": "01",
+    "subjectDescription": "JOUR Journalism &amp; Integrtd Med",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Portfolio",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/22/2021",
+      "endDate": "10/22/2021",
+      "beginTime": "0900",
+      "endTime": "1300",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 4,
+      "room": "108",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  }
+]

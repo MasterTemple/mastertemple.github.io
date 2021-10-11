@@ -1,0 +1,602 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "1075",
+    "courseNumber": "521",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I: God, Scripture, Creation",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370595",
+        "displayName": "Price, Robert",
+        "emailAddress": "rob.price@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2679",
+    "courseNumber": "521",
+    "sequenceNumber": "03",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I: God, Scripture, Creation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370943",
+        "displayName": "Gomes, Alan",
+        "emailAddress": "alan.gomes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1830",
+      "endTime": "2000",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2680",
+    "courseNumber": "521",
+    "sequenceNumber": "04",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I: God, Scripture, Creation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370943",
+        "displayName": "Gomes, Alan",
+        "emailAddress": "alan.gomes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1500",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "3171",
+    "courseNumber": "521",
+    "sequenceNumber": "05",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I: God, Scripture, Creation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370595",
+        "displayName": "Price, Robert",
+        "emailAddress": "rob.price@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "1000",
+    "courseNumber": "521",
+    "sequenceNumber": "SF1",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I: God, Scripture, Creation",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370713",
+        "displayName": "Porter, Steven",
+        "emailAddress": "steve.porter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1200",
+      "endTime": "1450",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "1076",
+    "courseNumber": "522",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II: Christ, Humanity, Sin, Salvation",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370686",
+        "displayName": "Peterson, Ryan",
+        "emailAddress": "ryan.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2681",
+    "courseNumber": "522",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II: Christ, Humanity, Sin, Salvation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370686",
+        "displayName": "Peterson, Ryan",
+        "emailAddress": "ryan.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1430",
+      "endTime": "1630",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2682",
+    "courseNumber": "522",
+    "sequenceNumber": "03",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II: Christ, Humanity, Sin, Salvation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370686",
+        "displayName": "Peterson, Ryan",
+        "emailAddress": "ryan.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1830",
+      "endTime": "2030",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "1077",
+    "courseNumber": "623",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology III: Spirit, Church, Last Things",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370944",
+        "displayName": "Saucy, Mark",
+        "emailAddress": "mark.saucy@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2683",
+    "courseNumber": "623",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology III: Spirit, Church, Last Things",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370944",
+        "displayName": "Saucy, Mark",
+        "emailAddress": "mark.saucy@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1800",
+      "endTime": "1930",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2684",
+    "courseNumber": "623",
+    "sequenceNumber": "03",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology III: Spirit, Church, Last Things",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370944",
+        "displayName": "Saucy, Mark",
+        "emailAddress": "mark.saucy@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1900",
+      "endTime": "2030",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2685",
+    "courseNumber": "733",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Religions and New Religious Movements",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370531",
+        "displayName": "Naidu, Ashish",
+        "emailAddress": "ashish.naidu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1730",
+      "endTime": "1900",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2687",
+    "courseNumber": "765",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Theo Cap Sem: Atonement",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370943",
+        "displayName": "Gomes, Alan",
+        "emailAddress": "alan.gomes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1830",
+      "endTime": "2030",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2686",
+    "courseNumber": "771",
+    "sequenceNumber": "05",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Theo Sem: Atonement",
+    "creditHours": 3,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370943",
+        "displayName": "Gomes, Alan",
+        "emailAddress": "alan.gomes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1830",
+      "endTime": "2030",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTH",
+    "CRN": "2869",
+    "courseNumber": "771",
+    "sequenceNumber": "06",
+    "subjectDescription": "TTTH Theology: Systematic",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Theo Sem: Romans",
+    "creditHours": 3,
+    "maximumEnrollment": 4,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370688",
+        "displayName": "Anizor, Uche",
+        "emailAddress": "uche.anizor@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  }
+]

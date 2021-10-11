@@ -1,0 +1,992 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2297",
+    "courseNumber": "100",
+    "sequenceNumber": "01",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Chemistry of Everyday Life",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370640",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "251",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2298",
+    "courseNumber": "105",
+    "sequenceNumber": "01",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Chemistry I",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370641",
+        "displayName": "Bang, Katherine",
+        "emailAddress": "younseo.bang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.75,
+      "room": "4",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2299",
+    "courseNumber": "105",
+    "sequenceNumber": "02",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Chemistry I",
+    "creditHours": 4,
+    "maximumEnrollment": 60,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370641",
+        "displayName": "Bang, Katherine",
+        "emailAddress": "younseo.bang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.75,
+      "room": "4",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2301",
+    "courseNumber": "105",
+    "sequenceNumber": "L1",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Chemistry I: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370642",
+        "displayName": "Mood, Aaron",
+        "emailAddress": "aaron.d.mood@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2302",
+    "courseNumber": "105",
+    "sequenceNumber": "L2",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Chemistry I: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370643",
+        "displayName": "Cardinal, Lael",
+        "emailAddress": "lael.j.cardinal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2303",
+    "courseNumber": "105",
+    "sequenceNumber": "L3",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Chemistry I: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370600",
+        "displayName": "Vivanco, Caleb",
+        "emailAddress": "caleb.j.vivanco@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2304",
+    "courseNumber": "105",
+    "sequenceNumber": "L4",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Chemistry I: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370644",
+        "displayName": "Vogel, Eliana",
+        "emailAddress": "eliana.vogel@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2306",
+    "courseNumber": "105",
+    "sequenceNumber": "L6",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Chemistry I: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370645",
+        "displayName": "Bernstein, Ethan",
+        "emailAddress": "ethan.a.bernstein@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1630",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2311",
+    "courseNumber": "107",
+    "sequenceNumber": "03",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Chemistry",
+    "creditHours": null,
+    "maximumEnrollment": 120,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370640",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3.75,
+      "room": "AUDITORIUM",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2313",
+    "courseNumber": "120",
+    "sequenceNumber": "01",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Organic and Biochemistry",
+    "creditHours": 4,
+    "maximumEnrollment": 36,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370646",
+        "displayName": "Gunasekera, Richard",
+        "emailAddress": "richard.gunasekera@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.75,
+      "room": "207",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2314",
+    "courseNumber": "120",
+    "sequenceNumber": "02",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Organic and Biochemistry",
+    "creditHours": 4,
+    "maximumEnrollment": 34,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370646",
+        "displayName": "Gunasekera, Richard",
+        "emailAddress": "richard.gunasekera@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.75,
+      "room": "203",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2315",
+    "courseNumber": "120",
+    "sequenceNumber": "L1",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Prin of Organic &amp; Biochem: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370643",
+        "displayName": "Cardinal, Lael",
+        "emailAddress": "lael.j.cardinal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2316",
+    "courseNumber": "120",
+    "sequenceNumber": "L2",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Prin of Organic &amp; Biochem: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370645",
+        "displayName": "Bernstein, Ethan",
+        "emailAddress": "ethan.a.bernstein@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "343",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2317",
+    "courseNumber": "120",
+    "sequenceNumber": "L3",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Prin of Organic &amp; Biochem: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370643",
+        "displayName": "Cardinal, Lael",
+        "emailAddress": "lael.j.cardinal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "343",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2318",
+    "courseNumber": "301",
+    "sequenceNumber": "01",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organic Chemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 46,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370613",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "15A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2319",
+    "courseNumber": "301",
+    "sequenceNumber": "02",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organic Chemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 46,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370613",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "15A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2320",
+    "courseNumber": "311",
+    "sequenceNumber": "L1",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Organic Chemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370613",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "345",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2321",
+    "courseNumber": "311",
+    "sequenceNumber": "L2",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Organic Chemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370644",
+        "displayName": "Vogel, Eliana",
+        "emailAddress": "eliana.vogel@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "345",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2322",
+    "courseNumber": "311",
+    "sequenceNumber": "L3",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Organic Chemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370613",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "345",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2323",
+    "courseNumber": "311",
+    "sequenceNumber": "L4",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Organic Chemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370613",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "345",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2328",
+    "courseNumber": "350",
+    "sequenceNumber": "01",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Analytical Chemistry",
+    "creditHours": 5,
+    "maximumEnrollment": 16,
+    "waitCapacity": 2,
+    "creditHourHigh": 5,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370647",
+        "displayName": "Lu, Jessica",
+        "emailAddress": "jessica.lu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 5,
+      "hoursWeek": 2.5,
+      "room": "251",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2195",
+    "courseNumber": "411",
+    "sequenceNumber": "01",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Biochemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370612",
+        "displayName": "Tresser, Jason",
+        "emailAddress": "jason.tresser@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370613",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "0920",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2331",
+    "courseNumber": "480",
+    "sequenceNumber": "01",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "DR: Biochemical Nanomedicine",
+    "creditHours": 1,
+    "maximumEnrollment": 6,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370646",
+        "displayName": "Gunasekera, Richard",
+        "emailAddress": "richard.gunasekera@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CHEM",
+    "CRN": "2333",
+    "courseNumber": "480",
+    "sequenceNumber": "03",
+    "subjectDescription": "CHEM Chemistry",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "DS: Aerosols",
+    "creditHours": null,
+    "maximumEnrollment": 6,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370647",
+        "displayName": "Lu, Jessica",
+        "emailAddress": "jessica.lu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

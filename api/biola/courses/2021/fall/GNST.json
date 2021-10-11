@@ -1,0 +1,1706 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "1036",
+    "courseNumber": "001",
+    "sequenceNumber": "01",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370773",
+        "displayName": "Fanning, Jennifer",
+        "emailAddress": "jen.fanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "201",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "1037",
+    "courseNumber": "001",
+    "sequenceNumber": "02",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370773",
+        "displayName": "Fanning, Jennifer",
+        "emailAddress": "jen.fanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "201",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "1038",
+    "courseNumber": "001",
+    "sequenceNumber": "03",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370773",
+        "displayName": "Fanning, Jennifer",
+        "emailAddress": "jen.fanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "106",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "1039",
+    "courseNumber": "001",
+    "sequenceNumber": "04",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370774",
+        "displayName": "Miller, Chad",
+        "emailAddress": "chad.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "105",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "1040",
+    "courseNumber": "001",
+    "sequenceNumber": "05",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Strategies for Academic and Personal Success",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370773",
+        "displayName": "Fanning, Jennifer",
+        "emailAddress": "jen.fanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "203",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "1041",
+    "courseNumber": "003",
+    "sequenceNumber": "01",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "LEAD Scholars Program",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370775",
+        "displayName": "Consultado, Meleca",
+        "emailAddress": "meleca.consultado@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370776",
+        "displayName": "Andre, Alicia",
+        "emailAddress": "alicia.m.andre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1150",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "202",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "1042",
+    "courseNumber": "004",
+    "sequenceNumber": "01",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Gospel Choir",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370775",
+        "displayName": "Consultado, Meleca",
+        "emailAddress": "meleca.consultado@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370777",
+        "displayName": "Grant, Aja",
+        "emailAddress": "aja.grant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2000",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "MAYERS",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2074",
+    "courseNumber": "102",
+    "sequenceNumber": "01",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Art",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370559",
+        "displayName": "Simonson, Kurt",
+        "emailAddress": "kurt.simonson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "10/19/2021",
+      "beginTime": "1930",
+      "endTime": "2105",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.58,
+      "room": "200",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2075",
+    "courseNumber": "102",
+    "sequenceNumber": "02",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS:Bible, Theology &amp; Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370586",
+        "displayName": "Williams, Matthew",
+        "emailAddress": "matt.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2076",
+    "courseNumber": "102",
+    "sequenceNumber": "03",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Biological Sci Pre-Med",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370611",
+        "displayName": "Kim, Jinsil",
+        "emailAddress": "jinsil.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/25/2021",
+      "beginTime": "1800",
+      "endTime": "1940",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "MAYERS",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2077",
+    "courseNumber": "102",
+    "sequenceNumber": "04",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Biological Science",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370599",
+        "displayName": "Sun, Patrick",
+        "emailAddress": "patrick.sun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/25/2021",
+      "beginTime": "1800",
+      "endTime": "1940",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "15B",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2078",
+    "courseNumber": "102",
+    "sequenceNumber": "05",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Biochem/Chemistry",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370537",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "10/21/2021",
+      "beginTime": "1230",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "110",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2079",
+    "courseNumber": "102",
+    "sequenceNumber": "06",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Business",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370778",
+        "displayName": "Cruz, Joseph",
+        "emailAddress": "joseph.cruz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "215",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2080",
+    "courseNumber": "102",
+    "sequenceNumber": "07",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Business",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370778",
+        "displayName": "Cruz, Joseph",
+        "emailAddress": "joseph.cruz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "207",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2081",
+    "courseNumber": "102",
+    "sequenceNumber": "08",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Business",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370778",
+        "displayName": "Cruz, Joseph",
+        "emailAddress": "joseph.cruz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/01/2021",
+      "endDate": "11/10/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "15B",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2082",
+    "courseNumber": "102",
+    "sequenceNumber": "09",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Business",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370778",
+        "displayName": "Cruz, Joseph",
+        "emailAddress": "joseph.cruz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/02/2021",
+      "endDate": "11/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "105",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2083",
+    "courseNumber": "102",
+    "sequenceNumber": "10",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Cinema &amp; Media Arts",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370779",
+        "displayName": "Alvarez, Brian",
+        "emailAddress": "brian.p.alvarez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "MAYERS",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2084",
+    "courseNumber": "102",
+    "sequenceNumber": "11",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Cinema &amp; Media Arts",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370779",
+        "displayName": "Alvarez, Brian",
+        "emailAddress": "brian.p.alvarez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "MAYERS",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2085",
+    "courseNumber": "102",
+    "sequenceNumber": "12",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Cinema &amp; Media Arts",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370779",
+        "displayName": "Alvarez, Brian",
+        "emailAddress": "brian.p.alvarez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "MAYERS",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2086",
+    "courseNumber": "102",
+    "sequenceNumber": "13",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Cinema &amp; Media Arts",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370779",
+        "displayName": "Alvarez, Brian",
+        "emailAddress": "brian.p.alvarez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "MAYERS",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2089",
+    "courseNumber": "102",
+    "sequenceNumber": "16",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Comm Sci &amp; Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370707",
+        "displayName": "Clemons, Teri",
+        "emailAddress": "teri.a.clemons@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "04A",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2090",
+    "courseNumber": "102",
+    "sequenceNumber": "17",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Communication Studies",
+    "creditHours": null,
+    "maximumEnrollment": 13,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370693",
+        "displayName": "Calley, Dorothy",
+        "emailAddress": "dorothy.alston.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/03/2021",
+      "endDate": "09/03/2021",
+      "beginTime": "1300",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 4,
+      "room": "103",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2091",
+    "courseNumber": "102",
+    "sequenceNumber": "18",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Computer Sci",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370709",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/03/2021",
+      "endDate": "10/29/2021",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "209",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2093",
+    "courseNumber": "102",
+    "sequenceNumber": "20",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Elem Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370745",
+        "displayName": "Lin, Ruby",
+        "emailAddress": "ruby.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/10/2021",
+      "endDate": "11/19/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "215",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2094",
+    "courseNumber": "102",
+    "sequenceNumber": "21",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Early Childhood Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370745",
+        "displayName": "Lin, Ruby",
+        "emailAddress": "ruby.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/10/2021",
+      "endDate": "11/19/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "215",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2095",
+    "courseNumber": "102",
+    "sequenceNumber": "22",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Journalism",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370780",
+        "displayName": "Welter, Tamara",
+        "emailAddress": "tamara.welter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/02/2021",
+      "endDate": "10/02/2021",
+      "beginTime": "0830",
+      "endTime": "1600",
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 0,
+      "hoursWeek": 7.5,
+      "room": "LOCATION",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2096",
+    "courseNumber": "102",
+    "sequenceNumber": "23",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Kinesiology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370781",
+        "displayName": "Altamirano, Kristianna",
+        "emailAddress": "kristianna.altamirano@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/02/2021",
+      "endDate": "11/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "042",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2099",
+    "courseNumber": "102",
+    "sequenceNumber": "26",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Nursing",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370782",
+        "displayName": "Gramatky, Shannon",
+        "emailAddress": "shannon.gramatky@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/03/2021",
+      "endDate": "11/12/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "043",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2102",
+    "courseNumber": "102",
+    "sequenceNumber": "27",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Nursing",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370782",
+        "displayName": "Gramatky, Shannon",
+        "emailAddress": "shannon.gramatky@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/03/2021",
+      "endDate": "11/12/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "043",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2100",
+    "courseNumber": "102",
+    "sequenceNumber": "28",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Phys Sci/Engineering",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370537",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/25/2021",
+      "beginTime": "1730",
+      "endTime": "1820",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "351",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2101",
+    "courseNumber": "102",
+    "sequenceNumber": "29",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Political Science",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370783",
+        "displayName": "Waller, Scott",
+        "emailAddress": "scott.waller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "008",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2103",
+    "courseNumber": "102",
+    "sequenceNumber": "30",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 32,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370784",
+        "displayName": "Anthony, Elizabeth",
+        "emailAddress": "elizabeth.l.anthony@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2104",
+    "courseNumber": "102",
+    "sequenceNumber": "31",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370785",
+        "displayName": "Onoe, Daniel",
+        "emailAddress": "daniel.s.onoe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/02/2021",
+      "endDate": "11/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "209",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2105",
+    "courseNumber": "102",
+    "sequenceNumber": "32",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370786",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/25/2021",
+      "endDate": "09/25/2021",
+      "beginTime": "0800",
+      "endTime": "1630",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 8.5,
+      "room": "AUDITORIUM",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2107",
+    "courseNumber": "102",
+    "sequenceNumber": "34",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Exploring the Humanities (Interdisciplinary Studies/English)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370749",
+        "displayName": "Watson, Christine",
+        "emailAddress": "christine.watson@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "102",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2108",
+    "courseNumber": "102",
+    "sequenceNumber": "35",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Exploring Community (Intercultural Studies)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370523",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "10/21/2021",
+      "beginTime": "1000",
+      "endTime": "1050",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "004",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2109",
+    "courseNumber": "102",
+    "sequenceNumber": "36",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Exploring Creativity",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370562",
+        "displayName": "Puls, Jonathan",
+        "emailAddress": "jonathan.puls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BARDWL",
+      "buildingDescription": "Bardwell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2110",
+    "courseNumber": "102",
+    "sequenceNumber": "37",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Exploring the Humanites (Philosophy/History)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370787",
+        "displayName": "TenElshof, Gregg",
+        "emailAddress": "gregg.tenelshof@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/01/2021",
+      "endDate": "11/10/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "106",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2111",
+    "courseNumber": "102",
+    "sequenceNumber": "38",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Math &amp; Exploring Science &amp; Technology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370788",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/03/2021",
+      "endDate": "11/12/2021",
+      "beginTime": "1300",
+      "endTime": "1415",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "201",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2112",
+    "courseNumber": "102",
+    "sequenceNumber": "39",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Exploring Community (Spanish/Sociology)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370789",
+        "displayName": "Christerson, Brad",
+        "emailAddress": "bradley.christerson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/02/2021",
+      "endDate": "11/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "207",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "2964",
+    "courseNumber": "102",
+    "sequenceNumber": "40",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Conservatory",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/02/2021",
+      "endDate": "10/28/2021",
+      "beginTime": "1330",
+      "endTime": "1500",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.5,
+      "room": "124",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "GNST",
+    "CRN": "3111",
+    "courseNumber": "102",
+    "sequenceNumber": "41",
+    "subjectDescription": "GNST General Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "FYS: Exploring Health",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370603",
+        "displayName": "Galbadage, Don Thushara",
+        "emailAddress": "don.galbadage@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "04A",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  }
+]

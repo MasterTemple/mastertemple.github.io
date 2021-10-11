@@ -1,0 +1,506 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2128",
+    "courseNumber": "530",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Diagnostic and Therapeutic Methods",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370705",
+        "displayName": "Dantuma, Tonya",
+        "emailAddress": "tonya.dantuma@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0800",
+      "endTime": "1000",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "61",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2129",
+    "courseNumber": "531",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Childhood Language and Literacy Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370702",
+        "displayName": "Uranga-Hernandez, Yvana",
+        "emailAddress": "yvana.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1420",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.83,
+      "room": "61",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2130",
+    "courseNumber": "532",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Anatomy and Neurology in SLP",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370699",
+        "displayName": "Rouse, Matthew",
+        "emailAddress": "matt.rouse@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0930",
+      "endTime": "1020",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "61",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2131",
+    "courseNumber": "533",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology of Disability",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370702",
+        "displayName": "Uranga-Hernandez, Yvana",
+        "emailAddress": "yvana.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0730",
+      "endTime": "1020",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2132",
+    "courseNumber": "534",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research in Speech-Language Pathology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370698",
+        "displayName": "Welty, Suzanne",
+        "emailAddress": "suzanne.m.welty@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2897",
+    "courseNumber": "543",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cleft Palate and Craniofacial Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370699",
+        "displayName": "Rouse, Matthew",
+        "emailAddress": "matt.rouse@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/26/2021",
+      "endDate": "10/26/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "118",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2898",
+    "courseNumber": "545",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Augmentative and Alternative Communication",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370702",
+        "displayName": "Uranga-Hernandez, Yvana",
+        "emailAddress": "yvana.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2133",
+    "courseNumber": "547",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Audiology and Aural Rehabilitation for Speech-Language Pathologists",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370703",
+        "displayName": "Newport, Lori",
+        "emailAddress": "lori.newport@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2900",
+    "courseNumber": "549",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional Issues in Speech-Language Pathology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370705",
+        "displayName": "Dantuma, Tonya",
+        "emailAddress": "tonya.dantuma@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1530",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "61",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2899",
+    "courseNumber": "549",
+    "sequenceNumber": "02",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional Issues in Speech-Language Pathology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370705",
+        "displayName": "Dantuma, Tonya",
+        "emailAddress": "tonya.dantuma@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2134",
+    "courseNumber": "601",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Diagnostic Team",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370707",
+        "displayName": "Clemons, Teri",
+        "emailAddress": "teri.a.clemons@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2135",
+    "courseNumber": "604",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Adult Externship",
+    "creditHours": 1,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370704",
+        "displayName": "Peirson, Lorelei",
+        "emailAddress": "lori.peirson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MSLP",
+    "CRN": "2136",
+    "courseNumber": "605",
+    "sequenceNumber": "01",
+    "subjectDescription": "MSLP Speech-Language Pathology",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "School Externship",
+    "creditHours": 1,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370704",
+        "displayName": "Peirson, Lorelei",
+        "emailAddress": "lori.peirson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

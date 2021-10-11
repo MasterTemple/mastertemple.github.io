@@ -1,0 +1,466 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "1519",
+    "courseNumber": "150",
+    "sequenceNumber": "01",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370648",
+        "displayName": "Carr, Jane",
+        "emailAddress": "jane.carr@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "125",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "1520",
+    "courseNumber": "150",
+    "sequenceNumber": "02",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370648",
+        "displayName": "Carr, Jane",
+        "emailAddress": "jane.carr@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "2571",
+    "courseNumber": "150",
+    "sequenceNumber": "03",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Foundations of Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370653",
+        "displayName": "Tront, Traci",
+        "emailAddress": "traci.tront@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "1521",
+    "courseNumber": "255",
+    "sequenceNumber": "01",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370649",
+        "displayName": "Kim, Jonathan",
+        "emailAddress": "jonathan.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "2572",
+    "courseNumber": "255",
+    "sequenceNumber": "02",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Foundations of Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "2573",
+    "courseNumber": "255",
+    "sequenceNumber": "03",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 4,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "1523",
+    "courseNumber": "313",
+    "sequenceNumber": "01",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Christian Ministry Discipleship",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370650",
+        "displayName": "Dill, Dana",
+        "emailAddress": "dana.g.dill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "1524",
+    "courseNumber": "330",
+    "sequenceNumber": "01",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": null,
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "1526",
+    "courseNumber": "415",
+    "sequenceNumber": "01",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organization and Administration of Christian Ministries",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370648",
+        "displayName": "Carr, Jane",
+        "emailAddress": "jane.carr@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "2574",
+    "courseNumber": "415",
+    "sequenceNumber": "02",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Organization and Administration of Christian Ministries",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370648",
+        "displayName": "Carr, Jane",
+        "emailAddress": "jane.carr@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "2575",
+    "courseNumber": "415",
+    "sequenceNumber": "03",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organization and Administration of Christian Ministries",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370648",
+        "displayName": "Carr, Jane",
+        "emailAddress": "jane.carr@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CEED",
+    "CRN": "1529",
+    "courseNumber": "465",
+    "sequenceNumber": "01",
+    "subjectDescription": "CEED Christian Ministries",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship in Christian Ministries",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 7,
+    "faculty": [
+      {
+        "bannerId": "370652",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 7,
+      "hoursWeek": 7,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

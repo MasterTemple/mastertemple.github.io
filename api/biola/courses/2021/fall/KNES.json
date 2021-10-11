@@ -1,0 +1,3015 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2522",
+    "courseNumber": "107",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370781",
+        "displayName": "Altamirano, Kristianna",
+        "emailAddress": "kristianna.altamirano@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2523",
+    "courseNumber": "107",
+    "sequenceNumber": "02",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370781",
+        "displayName": "Altamirano, Kristianna",
+        "emailAddress": "kristianna.altamirano@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2524",
+    "courseNumber": "107",
+    "sequenceNumber": "03",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370828",
+        "displayName": "Peterson, Brent",
+        "emailAddress": "brent.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2525",
+    "courseNumber": "107",
+    "sequenceNumber": "04",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370829",
+        "displayName": "Walker, Danielle",
+        "emailAddress": "danielle.walker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2526",
+    "courseNumber": "107",
+    "sequenceNumber": "05",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370830",
+        "displayName": "Miller, Kelsey",
+        "emailAddress": "kelsey.l.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2527",
+    "courseNumber": "107",
+    "sequenceNumber": "06",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370830",
+        "displayName": "Miller, Kelsey",
+        "emailAddress": "kelsey.l.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2528",
+    "courseNumber": "107",
+    "sequenceNumber": "07",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370830",
+        "displayName": "Miller, Kelsey",
+        "emailAddress": "kelsey.l.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2529",
+    "courseNumber": "107",
+    "sequenceNumber": "08",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370831",
+        "displayName": "Gardner, Jacob",
+        "emailAddress": "jake.gardner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2530",
+    "courseNumber": "107",
+    "sequenceNumber": "09",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370603",
+        "displayName": "Galbadage, Don Thushara",
+        "emailAddress": "don.galbadage@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2531",
+    "courseNumber": "107",
+    "sequenceNumber": "10",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370832",
+        "displayName": "Park, Ji-Yeun",
+        "emailAddress": "ji.yeun.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2532",
+    "courseNumber": "107",
+    "sequenceNumber": "11",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370833",
+        "displayName": "Kobayashi, Akiko",
+        "emailAddress": "akiko.kobayashi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2533",
+    "courseNumber": "107",
+    "sequenceNumber": "12",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370816",
+        "displayName": "Apkarian, Marc",
+        "emailAddress": "marc.apkarian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2534",
+    "courseNumber": "107",
+    "sequenceNumber": "13",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370830",
+        "displayName": "Miller, Kelsey",
+        "emailAddress": "kelsey.l.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2535",
+    "courseNumber": "107",
+    "sequenceNumber": "14",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370829",
+        "displayName": "Walker, Danielle",
+        "emailAddress": "danielle.walker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2536",
+    "courseNumber": "107",
+    "sequenceNumber": "15",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370831",
+        "displayName": "Gardner, Jacob",
+        "emailAddress": "jake.gardner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2537",
+    "courseNumber": "107",
+    "sequenceNumber": "16",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370781",
+        "displayName": "Altamirano, Kristianna",
+        "emailAddress": "kristianna.altamirano@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2538",
+    "courseNumber": "107",
+    "sequenceNumber": "17",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370832",
+        "displayName": "Park, Ji-Yeun",
+        "emailAddress": "ji.yeun.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2539",
+    "courseNumber": "107",
+    "sequenceNumber": "18",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370832",
+        "displayName": "Park, Ji-Yeun",
+        "emailAddress": "ji.yeun.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2541",
+    "courseNumber": "107",
+    "sequenceNumber": "20",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lifetime Wellness",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370832",
+        "displayName": "Park, Ji-Yeun",
+        "emailAddress": "ji.yeun.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2208",
+    "courseNumber": "110",
+    "sequenceNumber": "02",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Swimming",
+    "courseTitle": "Beg Swimming",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 30,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370811",
+        "displayName": "Cook, Nathanael",
+        "emailAddress": "nathanael.d.cook@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1229",
+      "building": "LANSNG",
+      "buildingDescription": "Lansing Aquatic Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.96,
+      "room": "POOL",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2212",
+    "courseNumber": "110",
+    "sequenceNumber": "04",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Aerobics",
+    "courseTitle": "Aerobics",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370812",
+        "displayName": "Pettis, Renda",
+        "emailAddress": "renda.pettis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0930",
+      "endTime": "1020",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2213",
+    "courseNumber": "110",
+    "sequenceNumber": "05",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Stretch and Strength",
+    "courseTitle": "Stretch and Strength",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370812",
+        "displayName": "Pettis, Renda",
+        "emailAddress": "renda.pettis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2215",
+    "courseNumber": "110",
+    "sequenceNumber": "07",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Stretch and Strength",
+    "courseTitle": "Stretch and Strength",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370812",
+        "displayName": "Pettis, Renda",
+        "emailAddress": "renda.pettis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0820",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2216",
+    "courseNumber": "110",
+    "sequenceNumber": "08",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Condition for Rhythmic Movemnt",
+    "courseTitle": "Beg Condtng for Rhythmic Mvmt",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370812",
+        "displayName": "Pettis, Renda",
+        "emailAddress": "renda.pettis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0929",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.48,
+      "room": "202",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2217",
+    "courseNumber": "110",
+    "sequenceNumber": "09",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Stretch and Strength",
+    "courseTitle": "Stretch and Strength",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370812",
+        "displayName": "Pettis, Renda",
+        "emailAddress": "renda.pettis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "0920",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2224",
+    "courseNumber": "110",
+    "sequenceNumber": "13",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Disc Golf",
+    "courseTitle": "Disc Golf",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370813",
+        "displayName": "Wiese, John",
+        "emailAddress": "john.wiese@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/02/2021",
+      "endDate": "09/09/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "042",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2225",
+    "courseNumber": "110",
+    "sequenceNumber": "14",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Volleyball",
+    "courseTitle": "Beg Volleyball",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 30,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370814",
+        "displayName": "Teague, Grace",
+        "emailAddress": "grace.l.gallarda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0930",
+      "endTime": "1020",
+      "building": "CHASE",
+      "buildingDescription": "Chase Gymnasium",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "GYMNASIUM",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2227",
+    "courseNumber": "110",
+    "sequenceNumber": "15",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Volleyball",
+    "courseTitle": "Beg Volleyball",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 30,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370814",
+        "displayName": "Teague, Grace",
+        "emailAddress": "grace.l.gallarda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CHASE",
+      "buildingDescription": "Chase Gymnasium",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "GYMNASIUM",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2238",
+    "courseNumber": "110",
+    "sequenceNumber": "21",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Soccer",
+    "courseTitle": "Beg Soccer - Coed",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370815",
+        "displayName": "Gizzi, Paul",
+        "emailAddress": "paul.gizzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "ATHLTC",
+      "buildingDescription": "Athletics",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "SOCCER",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2242",
+    "courseNumber": "110",
+    "sequenceNumber": "23",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Weight Training",
+    "courseTitle": "Weights Trainng - Coed",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370816",
+        "displayName": "Apkarian, Marc",
+        "emailAddress": "marc.apkarian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/21/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1259",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.96,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2243",
+    "courseNumber": "110",
+    "sequenceNumber": "24",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Weaponless Self Defense",
+    "courseTitle": "Weaponless Self Defense",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370694",
+        "displayName": "Muehlhoff, Timothy",
+        "emailAddress": "tim.muehlhoff@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0929",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.48,
+      "room": "202",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2244",
+    "courseNumber": "110",
+    "sequenceNumber": "25",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Weaponless Self Defense",
+    "courseTitle": "Weaponless Self Defense",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370817",
+        "displayName": "Pack, Eddie",
+        "emailAddress": "eddie.pack@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1930",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.5,
+      "room": "202",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2245",
+    "courseNumber": "110",
+    "sequenceNumber": "26",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "RADS - Rape Agress/Defense",
+    "courseTitle": "RADS (Women&#39;s Self Defense)",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370818",
+        "displayName": "Ojeisekhoba Sr, John",
+        "emailAddress": "john.ojeisekhoba@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/03/2021",
+      "endDate": "09/03/2021",
+      "beginTime": "1030",
+      "endTime": "1430",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 4,
+      "room": "07B",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2248",
+    "courseNumber": "110",
+    "sequenceNumber": "29",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Rock Climbing",
+    "courseTitle": "Rock Climbing",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370819",
+        "displayName": "Bedell, David",
+        "emailAddress": "david.bedell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/30/2021",
+      "endDate": "10/30/2021",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "LOCATION",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2249",
+    "courseNumber": "110",
+    "sequenceNumber": "30",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Backpacking",
+    "courseTitle": "Backpacking",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370819",
+        "displayName": "Bedell, David",
+        "emailAddress": "david.bedell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/11/2021",
+      "endDate": "09/11/2021",
+      "beginTime": "0700",
+      "endTime": "1700",
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 0,
+      "hoursWeek": 10,
+      "room": "LOCATION",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2250",
+    "courseNumber": "110",
+    "sequenceNumber": "31",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Basketball",
+    "courseTitle": "Beg Basketball",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370820",
+        "displayName": "Cone, David",
+        "emailAddress": "david.e.cone@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1129",
+      "building": "CHASE",
+      "buildingDescription": "Chase Gymnasium",
+      "creditHourSession": 1,
+      "hoursWeek": 1.96,
+      "room": "GYMNASIUM",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2254",
+    "courseNumber": "110",
+    "sequenceNumber": "33",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Basketball",
+    "courseTitle": "Beg Basketball",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370821",
+        "displayName": "Holmquist, David",
+        "emailAddress": "dave.holmquist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1250",
+      "building": "CHASE",
+      "buildingDescription": "Chase Gymnasium",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "GYMNASIUM",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2257",
+    "courseNumber": "110",
+    "sequenceNumber": "34",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Tennis",
+    "courseTitle": "Beg Tennis",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370822",
+        "displayName": "Goodman, David",
+        "emailAddress": "david.t.goodman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "TENNIS",
+      "buildingDescription": "Tennis Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "COURTS",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2262",
+    "courseNumber": "110",
+    "sequenceNumber": "36",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Walking/Running",
+    "courseTitle": "Walking/Running",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370823",
+        "displayName": "Henning, Sean",
+        "emailAddress": "sean.henning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "ATHLTC",
+      "buildingDescription": "Athletics",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "TRACK",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2263",
+    "courseNumber": "118",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Baseball - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370824",
+        "displayName": "Calhoon, Jeffrey",
+        "emailAddress": "jeff.calhoon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2264",
+    "courseNumber": "118",
+    "sequenceNumber": "02",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Basketball - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370821",
+        "displayName": "Holmquist, David",
+        "emailAddress": "dave.holmquist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2265",
+    "courseNumber": "118",
+    "sequenceNumber": "03",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Basketball - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370825",
+        "displayName": "Nakamura, Alan",
+        "emailAddress": "alan.nakamura@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2266",
+    "courseNumber": "118",
+    "sequenceNumber": "04",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Golf - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370648",
+        "displayName": "Carr, Jane",
+        "emailAddress": "jane.carr@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2267",
+    "courseNumber": "118",
+    "sequenceNumber": "05",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Cross-Country - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370823",
+        "displayName": "Henning, Sean",
+        "emailAddress": "sean.henning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2268",
+    "courseNumber": "118",
+    "sequenceNumber": "06",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Cross-Country - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370823",
+        "displayName": "Henning, Sean",
+        "emailAddress": "sean.henning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2269",
+    "courseNumber": "118",
+    "sequenceNumber": "07",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Track &amp; Field - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370823",
+        "displayName": "Henning, Sean",
+        "emailAddress": "sean.henning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2270",
+    "courseNumber": "118",
+    "sequenceNumber": "08",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Track &amp; Field - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370823",
+        "displayName": "Henning, Sean",
+        "emailAddress": "sean.henning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2271",
+    "courseNumber": "118",
+    "sequenceNumber": "09",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Swimming - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370826",
+        "displayName": "Harding, Nathan",
+        "emailAddress": "nathan.harding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2272",
+    "courseNumber": "118",
+    "sequenceNumber": "10",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Swimming - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370826",
+        "displayName": "Harding, Nathan",
+        "emailAddress": "nathan.harding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2273",
+    "courseNumber": "118",
+    "sequenceNumber": "11",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Soccer - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370827",
+        "displayName": "O&#39;Keefe, Joseph",
+        "emailAddress": "joseph.d.okeefe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2274",
+    "courseNumber": "118",
+    "sequenceNumber": "12",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Soccer - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370955",
+        "displayName": "Brunelle, Erin",
+        "emailAddress": "erin.brunelle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2275",
+    "courseNumber": "118",
+    "sequenceNumber": "13",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Tennis - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370822",
+        "displayName": "Goodman, David",
+        "emailAddress": "david.t.goodman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2276",
+    "courseNumber": "118",
+    "sequenceNumber": "14",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Tennis - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370822",
+        "displayName": "Goodman, David",
+        "emailAddress": "david.t.goodman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2277",
+    "courseNumber": "118",
+    "sequenceNumber": "15",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Volleyball - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370956",
+        "displayName": "Seltzer, Aaron",
+        "emailAddress": "aaron.seltzer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2278",
+    "courseNumber": "118",
+    "sequenceNumber": "16",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Softball - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2279",
+    "courseNumber": "118",
+    "sequenceNumber": "17",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Water Polo - Men",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370957",
+        "displayName": "Nordell, Rick",
+        "emailAddress": "rick.nordell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2280",
+    "courseNumber": "118",
+    "sequenceNumber": "18",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Water Polo - Women",
+    "courseTitle": "Varsity Athletics",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370958",
+        "displayName": "Orozco, Sarah",
+        "emailAddress": "sarah.orozco@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2209",
+    "courseNumber": "130",
+    "sequenceNumber": "02",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Swimming",
+    "courseTitle": "Int Swimming",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 30,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370811",
+        "displayName": "Cook, Nathanael",
+        "emailAddress": "nathanael.d.cook@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1229",
+      "building": "LANSNG",
+      "buildingDescription": "Lansing Aquatic Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.96,
+      "room": "POOL",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2228",
+    "courseNumber": "150",
+    "sequenceNumber": "15",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Volleyball",
+    "courseTitle": "Adv Volleyball",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 30,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370814",
+        "displayName": "Teague, Grace",
+        "emailAddress": "grace.l.gallarda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CHASE",
+      "buildingDescription": "Chase Gymnasium",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "GYMNASIUM",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2251",
+    "courseNumber": "150",
+    "sequenceNumber": "31",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Basketball",
+    "courseTitle": "Adv Basketball",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370820",
+        "displayName": "Cone, David",
+        "emailAddress": "david.e.cone@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1129",
+      "building": "CHASE",
+      "buildingDescription": "Chase Gymnasium",
+      "creditHourSession": 1,
+      "hoursWeek": 1.96,
+      "room": "GYMNASIUM",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2281",
+    "courseNumber": "201",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Physical Education Methods and Activities",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 28,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370728",
+        "displayName": "Hahn, Jennifer",
+        "emailAddress": "jennifer.hahn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "125",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2282",
+    "courseNumber": "213",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Scientific Principles of Health and Fitness",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370830",
+        "displayName": "Miller, Kelsey",
+        "emailAddress": "kelsey.l.miller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2283",
+    "courseNumber": "300",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Health Education and Health Promotion",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 26,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370829",
+        "displayName": "Walker, Danielle",
+        "emailAddress": "danielle.walker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "128",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2543",
+    "courseNumber": "301",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Kinesiology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 30,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370831",
+        "displayName": "Gardner, Jacob",
+        "emailAddress": "jake.gardner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2284",
+    "courseNumber": "302",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exercise Physiology",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 24,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370828",
+        "displayName": "Peterson, Brent",
+        "emailAddress": "brent.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2285",
+    "courseNumber": "303",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Exercise Physiology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 12,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370828",
+        "displayName": "Peterson, Brent",
+        "emailAddress": "brent.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.5,
+      "room": "177",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "3129",
+    "courseNumber": "303",
+    "sequenceNumber": "02",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Exercise Physiology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 12,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370828",
+        "displayName": "Peterson, Brent",
+        "emailAddress": "brent.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.5,
+      "room": "177",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2847",
+    "courseNumber": "305",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Epidemiology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370603",
+        "displayName": "Galbadage, Don Thushara",
+        "emailAddress": "don.galbadage@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1450",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "102",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2542",
+    "courseNumber": "307",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Measurement and Evaluation in Kinesiology",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370781",
+        "displayName": "Altamirano, Kristianna",
+        "emailAddress": "kristianna.altamirano@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1445",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2.75,
+      "room": "102",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2849",
+    "courseNumber": "310",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Community and Global Health",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370829",
+        "displayName": "Walker, Danielle",
+        "emailAddress": "danielle.walker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1100",
+      "endTime": "1150",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "15B",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2286",
+    "courseNumber": "329",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychology of Exercise and Health",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 26,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370816",
+        "displayName": "Apkarian, Marc",
+        "emailAddress": "marc.apkarian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2287",
+    "courseNumber": "337",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exercise in Health and Disease",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 24,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370816",
+        "displayName": "Apkarian, Marc",
+        "emailAddress": "marc.apkarian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "177",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2290",
+    "courseNumber": "401",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Care and Prevention of Athletic Injuries",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370831",
+        "displayName": "Gardner, Jacob",
+        "emailAddress": "jake.gardner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2293",
+    "courseNumber": "446",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Functional Assessment and the Prescription of Exercise",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 12,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370828",
+        "displayName": "Peterson, Brent",
+        "emailAddress": "brent.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2294",
+    "courseNumber": "447",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Functional Assessment and Prescription of Exercise Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 12,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370828",
+        "displayName": "Peterson, Brent",
+        "emailAddress": "brent.peterson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.75,
+      "room": "177",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "3257",
+    "courseNumber": "459",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Health Policy and Practice",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370832",
+        "displayName": "Park, Ji-Yeun",
+        "emailAddress": "ji.yeun.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2295",
+    "courseNumber": "480",
+    "sequenceNumber": "01",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Study",
+    "creditHours": 2,
+    "maximumEnrollment": 31,
+    "waitCapacity": 31,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370816",
+        "displayName": "Apkarian, Marc",
+        "emailAddress": "marc.apkarian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "KNES",
+    "CRN": "2296",
+    "courseNumber": "480",
+    "sequenceNumber": "02",
+    "subjectDescription": "KNES Kinesiology &amp; Health Sci",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Study",
+    "creditHours": 1,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370831",
+        "displayName": "Gardner, Jacob",
+        "emailAddress": "jake.gardner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "102",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2479",
+    "courseNumber": "826",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Discipleship and Community Relationships II",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370713",
+        "displayName": "Porter, Steven",
+        "emailAddress": "steve.porter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "06/07/2021",
+      "endDate": "06/11/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "202",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2480",
+    "courseNumber": "842",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Engaging Worldviews and Culture II",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370714",
+        "displayName": "Ganssle, Gregory",
+        "emailAddress": "greg.ganssle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/24/2021",
+      "endDate": "05/28/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 6,
+      "hoursWeek": 45,
+      "room": "207",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2482",
+    "courseNumber": "846",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Evangelizing Secular Peoples",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370715",
+        "displayName": "McIntosh, Gary",
+        "emailAddress": "gary.mcintosh@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370716",
+        "displayName": "McMahan, Martin",
+        "emailAddress": "alan.mcmahan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/24/2021",
+      "endDate": "05/28/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 6,
+      "hoursWeek": 45,
+      "room": "206",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2481",
+    "courseNumber": "850",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Growing Ministries in the &quot;New World&quot; II",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370715",
+        "displayName": "McIntosh, Gary",
+        "emailAddress": "gary.mcintosh@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370716",
+        "displayName": "McMahan, Martin",
+        "emailAddress": "alan.mcmahan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/24/2021",
+      "endDate": "05/28/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 6,
+      "hoursWeek": 45,
+      "room": "203",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2483",
+    "courseNumber": "854",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Communication and Persuasion in Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370717",
+        "displayName": "Sunukjian, Donald",
+        "emailAddress": "don.sunukjian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/24/2021",
+      "endDate": "05/28/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 6,
+      "hoursWeek": 45,
+      "room": "108",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2484",
+    "courseNumber": "858",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Narrative Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370717",
+        "displayName": "Sunukjian, Donald",
+        "emailAddress": "don.sunukjian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "05/24/2021",
+      "endDate": "05/28/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 6,
+      "hoursWeek": 45,
+      "room": "108",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2487",
+    "courseNumber": "880",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Four Doctoral Project I",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2488",
+    "courseNumber": "881",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Four Doctoral Project II",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2490",
+    "courseNumber": "883",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Five Doctoral Project II",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2492",
+    "courseNumber": "885",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Year Six Doctoral Project II",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "3179",
+    "courseNumber": "887",
+    "sequenceNumber": "LA",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Leave of Absence",
+    "courseTitle": "Leave of Absence",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2495",
+    "courseNumber": "892",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Doctoral Project Proposal Submission",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2494",
+    "courseNumber": "895",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Program Extension",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370651",
+        "displayName": "Byun, Eddie",
+        "emailAddress": "eddie.byun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2485",
+    "courseNumber": "907",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Renewing the Mind II",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370714",
+        "displayName": "Ganssle, Gregory",
+        "emailAddress": "greg.ganssle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "06/07/2021",
+      "endDate": "06/11/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 6,
+      "hoursWeek": 45,
+      "room": "206",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTMN",
+    "CRN": "2486",
+    "courseNumber": "917",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTMN Doctor of Ministry",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spiritual Theology and Formation for Soul Care II",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370718",
+        "displayName": "Coe, John",
+        "emailAddress": "john.coe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "06/07/2021",
+      "endDate": "06/11/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 6,
+      "hoursWeek": 45,
+      "room": "207",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  }
+]

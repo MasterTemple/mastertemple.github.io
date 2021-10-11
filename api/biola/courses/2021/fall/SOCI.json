@@ -1,0 +1,528 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "1257",
+    "courseNumber": "220",
+    "sequenceNumber": "01",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Sociology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370923",
+        "displayName": "Chan, Stephanie",
+        "emailAddress": "stephanie.chan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "118",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "1258",
+    "courseNumber": "220",
+    "sequenceNumber": "02",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Sociology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370923",
+        "displayName": "Chan, Stephanie",
+        "emailAddress": "stephanie.chan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "125",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "2901",
+    "courseNumber": "220",
+    "sequenceNumber": "05",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Sociology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370923",
+        "displayName": "Chan, Stephanie",
+        "emailAddress": "stephanie.chan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "1136",
+    "courseNumber": "262",
+    "sequenceNumber": "01",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Social Problems",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370789",
+        "displayName": "Christerson, Brad",
+        "emailAddress": "bradley.christerson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "128",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "3066",
+    "courseNumber": "300",
+    "sequenceNumber": "02",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Social Work",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370924",
+        "displayName": "Johnson, LaDawn",
+        "emailAddress": "ladawn.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "2854",
+    "courseNumber": "320",
+    "sequenceNumber": "01",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Marriage and the Family",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370924",
+        "displayName": "Johnson, LaDawn",
+        "emailAddress": "ladawn.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "2904",
+    "courseNumber": "326",
+    "sequenceNumber": "02",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Quantitative Methods",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370789",
+        "displayName": "Christerson, Brad",
+        "emailAddress": "bradley.christerson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "2905",
+    "courseNumber": "327",
+    "sequenceNumber": "02",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Quantitative Methods Lab",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370789",
+        "displayName": "Christerson, Brad",
+        "emailAddress": "bradley.christerson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1430",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "004",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "2855",
+    "courseNumber": "333",
+    "sequenceNumber": "02",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Criminology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370925",
+        "displayName": "Sowell, Robert",
+        "emailAddress": "robert.sowell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "002",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "2965",
+    "courseNumber": "336",
+    "sequenceNumber": "02",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Unequal Justice: Race, Class, Gender and Crime",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370789",
+        "displayName": "Christerson, Brad",
+        "emailAddress": "bradley.christerson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "07C",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "3067",
+    "courseNumber": "342",
+    "sequenceNumber": "02",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ethnic and Minority Groups",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370926",
+        "displayName": "Kinoshita, Glen",
+        "emailAddress": "glen.kinoshita@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "1269",
+    "courseNumber": "441",
+    "sequenceNumber": "01",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Social Theory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370924",
+        "displayName": "Johnson, LaDawn",
+        "emailAddress": "ladawn.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "111",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SOCI",
+    "CRN": "2896",
+    "courseNumber": "460",
+    "sequenceNumber": "03",
+    "subjectDescription": "SOCI Sociology",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TP: Sociology of Violence",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370924",
+        "displayName": "Johnson, LaDawn",
+        "emailAddress": "ladawn.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

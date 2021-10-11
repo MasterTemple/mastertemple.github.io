@@ -1,0 +1,404 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "1080",
+    "courseNumber": "501",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek I",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370525",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "106",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2697",
+    "courseNumber": "501",
+    "sequenceNumber": "03",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek I",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370532",
+        "displayName": "Lentz, Jennifer",
+        "emailAddress": "jennifer.c.lentz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1700",
+      "endTime": "1815",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2700",
+    "courseNumber": "501",
+    "sequenceNumber": "04",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek I",
+    "creditHours": null,
+    "maximumEnrollment": 31,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370525",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1900",
+      "endTime": "2015",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2703",
+    "courseNumber": "503",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Exegesis",
+    "creditHours": null,
+    "maximumEnrollment": 29,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370567",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1600",
+      "endTime": "1800",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2704",
+    "courseNumber": "503",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Exegesis",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370567",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1900",
+      "endTime": "2100",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2705",
+    "courseNumber": "604",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exegesis in the Gospels",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370525",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1600",
+      "endTime": "1650",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2706",
+    "courseNumber": "605",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Exegesis in the Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370859",
+        "displayName": "Song, Kris",
+        "emailAddress": "kris.song@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1900",
+      "endTime": "2020",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2859",
+    "courseNumber": "791",
+    "sequenceNumber": "03",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "NT Sem: Devel. in Pauline Theo",
+    "creditHours": 3,
+    "maximumEnrollment": 12,
+    "waitCapacity": 2,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370567",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "12/15/2021",
+      "endDate": "12/15/2021",
+      "beginTime": "1500",
+      "endTime": "1650",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2885",
+    "courseNumber": "791",
+    "sequenceNumber": "04",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "NT Sem: Lit Backgrounds to NT: Readings in the Apocrypha and Pseudepigrapha",
+    "creditHours": 3,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370568",
+        "displayName": "Hellerman, Joseph",
+        "emailAddress": "joe.hellerman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1600",
+      "endTime": "1800",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2,
+      "room": "05B",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTNT",
+    "CRN": "2887",
+    "courseNumber": "791",
+    "sequenceNumber": "05",
+    "subjectDescription": "TTNT NT Language &amp; Literature",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "NT Sem: Lit Backgrounds to NT: Readings in the Apocrypha and Pseudepigrapha",
+    "creditHours": 3,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370568",
+        "displayName": "Hellerman, Joseph",
+        "emailAddress": "joe.hellerman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1600",
+      "endTime": "1800",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  }
+]

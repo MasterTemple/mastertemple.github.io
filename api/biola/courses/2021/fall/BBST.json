@@ -1,0 +1,4658 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1427",
+    "courseNumber": "103",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370542",
+        "displayName": "Merrill, David",
+        "emailAddress": "david.l.merrill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "351",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1428",
+    "courseNumber": "103",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370569",
+        "displayName": "Jung, Joanne",
+        "emailAddress": "joanne.j.jung@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1429",
+    "courseNumber": "103",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370570",
+        "displayName": "Hanger, Jeannine",
+        "emailAddress": "jeannine.hanger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1430",
+    "courseNumber": "103",
+    "sequenceNumber": "04",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370570",
+        "displayName": "Hanger, Jeannine",
+        "emailAddress": "jeannine.hanger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1431",
+    "courseNumber": "103",
+    "sequenceNumber": "05",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370569",
+        "displayName": "Jung, Joanne",
+        "emailAddress": "joanne.j.jung@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1432",
+    "courseNumber": "103",
+    "sequenceNumber": "06",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370570",
+        "displayName": "Hanger, Jeannine",
+        "emailAddress": "jeannine.hanger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "4",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1433",
+    "courseNumber": "103",
+    "sequenceNumber": "07",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370571",
+        "displayName": "Goodrich, John",
+        "emailAddress": "john.goodrich@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1435",
+    "courseNumber": "103",
+    "sequenceNumber": "09",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370572",
+        "displayName": "Igram, Lisa",
+        "emailAddress": "lisa.igram@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1436",
+    "courseNumber": "103",
+    "sequenceNumber": "10",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370573",
+        "displayName": "Cray, Elaina",
+        "emailAddress": "elaina.r.cray@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1438",
+    "courseNumber": "103",
+    "sequenceNumber": "12",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 38,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370574",
+        "displayName": "Smith, Jamie",
+        "emailAddress": "jamie.d.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1439",
+    "courseNumber": "103",
+    "sequenceNumber": "13",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370575",
+        "displayName": "Fite, Isaac",
+        "emailAddress": "isaac.fite@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1440",
+    "courseNumber": "103",
+    "sequenceNumber": "14",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370576",
+        "displayName": "Catto, Mandy",
+        "emailAddress": "mandy.l.catto@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1441",
+    "courseNumber": "103",
+    "sequenceNumber": "15",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370577",
+        "displayName": "Foster, John Paul",
+        "emailAddress": "johnpaul.c.foster@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 1.25,
+      "room": "107",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2570",
+    "courseNumber": "103",
+    "sequenceNumber": "17",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370592",
+        "displayName": "Pifer, Jeanette",
+        "emailAddress": "jeanette.m.hagen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3106",
+    "courseNumber": "103",
+    "sequenceNumber": "18",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Biblical Interpretation and Spiritual Formation",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370593",
+        "displayName": "Barnewall, Michelle",
+        "emailAddress": "michelle.lee-barnewall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1443",
+    "courseNumber": "165",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 86,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370578",
+        "displayName": "Horner, David",
+        "emailAddress": "david.horner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1444",
+    "courseNumber": "165",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 86,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370578",
+        "displayName": "Horner, David",
+        "emailAddress": "david.horner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1445",
+    "courseNumber": "165",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 86,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370579",
+        "displayName": "Pickavance, Timothy",
+        "emailAddress": "tim.pickavance@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "CALCHAPEL",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1446",
+    "courseNumber": "165",
+    "sequenceNumber": "04",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 86,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370579",
+        "displayName": "Pickavance, Timothy",
+        "emailAddress": "tim.pickavance@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "CALCHAPEL",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1448",
+    "courseNumber": "165",
+    "sequenceNumber": "06",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 86,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370580",
+        "displayName": "Treat, Jeremy",
+        "emailAddress": "jeremy.r.treat@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "1020",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "MAYERS",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1449",
+    "courseNumber": "165",
+    "sequenceNumber": "07",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 86,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370578",
+        "displayName": "Horner, David",
+        "emailAddress": "david.horner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3138",
+    "courseNumber": "165",
+    "sequenceNumber": "08",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370579",
+        "displayName": "Pickavance, Timothy",
+        "emailAddress": "tim.pickavance@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3216",
+    "courseNumber": "165",
+    "sequenceNumber": "09",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Foundations of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370595",
+        "displayName": "Price, Robert",
+        "emailAddress": "rob.price@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1450",
+    "courseNumber": "209",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 130,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370581",
+        "displayName": "Talley, David",
+        "emailAddress": "david.talley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1451",
+    "courseNumber": "209",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 130,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370581",
+        "displayName": "Talley, David",
+        "emailAddress": "david.talley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1452",
+    "courseNumber": "209",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 130,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370582",
+        "displayName": "Imes, Carmen",
+        "emailAddress": "carmen.imes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "CALCHAPEL",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1453",
+    "courseNumber": "209",
+    "sequenceNumber": "04",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 130,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370582",
+        "displayName": "Imes, Carmen",
+        "emailAddress": "carmen.imes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "MAYERS",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2568",
+    "courseNumber": "209",
+    "sequenceNumber": "05",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Old Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370590",
+        "displayName": "Flores, Hansel",
+        "emailAddress": "hansel.a.flores@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3117",
+    "courseNumber": "209",
+    "sequenceNumber": "06",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Old Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370594",
+        "displayName": "Baker, Douglas",
+        "emailAddress": "doug.baker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1454",
+    "courseNumber": "209",
+    "sequenceNumber": "CH",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "Old Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370583",
+        "displayName": "Trimm, Charles",
+        "emailAddress": "charlie.trimm@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1455",
+    "courseNumber": "210",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 150,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370584",
+        "displayName": "Shepard, Edmond",
+        "emailAddress": "edmond.e.shepard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "AUDITORIUM",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1456",
+    "courseNumber": "210",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 150,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370585",
+        "displayName": "Lockett, Darian",
+        "emailAddress": "darian.lockett@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "MAYERS",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1457",
+    "courseNumber": "210",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 150,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370585",
+        "displayName": "Lockett, Darian",
+        "emailAddress": "darian.lockett@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "AUDITORIUM",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1458",
+    "courseNumber": "210",
+    "sequenceNumber": "CH",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "New Testament History and Literature",
+    "creditHours": null,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370586",
+        "displayName": "Williams, Matthew",
+        "emailAddress": "matt.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1459",
+    "courseNumber": "251",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370492",
+        "displayName": "Stetina, Karin",
+        "emailAddress": "karin.stetina@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1460",
+    "courseNumber": "251",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370493",
+        "displayName": "Lister, Robert",
+        "emailAddress": "rob.lister@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1461",
+    "courseNumber": "251",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370494",
+        "displayName": "Williams, Thaddeus",
+        "emailAddress": "thaddeus.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "CALCHAPEL",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1462",
+    "courseNumber": "251",
+    "sequenceNumber": "04",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370495",
+        "displayName": "Thoennes, Kenneth",
+        "emailAddress": "erik.thoennes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "4",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1463",
+    "courseNumber": "251",
+    "sequenceNumber": "05",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370495",
+        "displayName": "Thoennes, Kenneth",
+        "emailAddress": "erik.thoennes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "4",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1464",
+    "courseNumber": "251",
+    "sequenceNumber": "06",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370492",
+        "displayName": "Stetina, Karin",
+        "emailAddress": "karin.stetina@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1465",
+    "courseNumber": "251",
+    "sequenceNumber": "07",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370496",
+        "displayName": "McKinley, John",
+        "emailAddress": "john.mckinley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1466",
+    "courseNumber": "251",
+    "sequenceNumber": "08",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370494",
+        "displayName": "Williams, Thaddeus",
+        "emailAddress": "thaddeus.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "CALCHAPEL",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2544",
+    "courseNumber": "251",
+    "sequenceNumber": "09",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370493",
+        "displayName": "Lister, Robert",
+        "emailAddress": "rob.lister@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2545",
+    "courseNumber": "251",
+    "sequenceNumber": "10",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370493",
+        "displayName": "Lister, Robert",
+        "emailAddress": "rob.lister@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2546",
+    "courseNumber": "251",
+    "sequenceNumber": "11",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370492",
+        "displayName": "Stetina, Karin",
+        "emailAddress": "karin.stetina@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1467",
+    "courseNumber": "306",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Early Christian History - Acts",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370587",
+        "displayName": "Huffman, Douglas",
+        "emailAddress": "doug.huffman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2569",
+    "courseNumber": "306",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Early Christian History - Acts",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370591",
+        "displayName": "Lunde, Jonathan",
+        "emailAddress": "jon.lunde@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3139",
+    "courseNumber": "306",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Early Christian History - Acts",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370584",
+        "displayName": "Shepard, Edmond",
+        "emailAddress": "edmond.e.shepard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2547",
+    "courseNumber": "311",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Backgrounds",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370589",
+        "displayName": "Petitfils, James",
+        "emailAddress": "james.m.petitfils@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1468",
+    "courseNumber": "312",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Interpretation",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370588",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1469",
+    "courseNumber": "312",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Interpretation",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370588",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1470",
+    "courseNumber": "316",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Gospel of John",
+    "creditHours": null,
+    "maximumEnrollment": 121,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370586",
+        "displayName": "Williams, Matthew",
+        "emailAddress": "matt.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "AUDITORIUM",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1471",
+    "courseNumber": "316",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Gospel of John",
+    "creditHours": null,
+    "maximumEnrollment": 120,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370586",
+        "displayName": "Williams, Matthew",
+        "emailAddress": "matt.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "AUDITORIUM",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2548",
+    "courseNumber": "316",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Gospel of John",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370945",
+        "displayName": "Lundquist, Kelly",
+        "emailAddress": "kelly.j.lundquist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1472",
+    "courseNumber": "321",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Historical Theology",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370492",
+        "displayName": "Stetina, Karin",
+        "emailAddress": "karin.stetina@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "113",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1473",
+    "courseNumber": "330",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Jesus&#39; Life and Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370946",
+        "displayName": "Kelley, Andrew",
+        "emailAddress": "andrew.j.kelley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "125",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2882",
+    "courseNumber": "330",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Jesus&#39; Life and Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370946",
+        "displayName": "Kelley, Andrew",
+        "emailAddress": "andrew.j.kelley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "125",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2549",
+    "courseNumber": "343",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Letters",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370585",
+        "displayName": "Lockett, Darian",
+        "emailAddress": "darian.lockett@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1475",
+    "courseNumber": "354",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370907",
+        "displayName": "Draycott, Andrew",
+        "emailAddress": "andy.draycott@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "4",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1476",
+    "courseNumber": "354",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370688",
+        "displayName": "Anizor, Uche",
+        "emailAddress": "uche.anizor@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1477",
+    "courseNumber": "354",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370688",
+        "displayName": "Anizor, Uche",
+        "emailAddress": "uche.anizor@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "4",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1478",
+    "courseNumber": "354",
+    "sequenceNumber": "04",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370947",
+        "displayName": "Harris, Ivy",
+        "emailAddress": "leon.harris@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1481",
+    "courseNumber": "354",
+    "sequenceNumber": "07",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370496",
+        "displayName": "McKinley, John",
+        "emailAddress": "john.mckinley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1482",
+    "courseNumber": "354",
+    "sequenceNumber": "08",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370493",
+        "displayName": "Lister, Robert",
+        "emailAddress": "rob.lister@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2550",
+    "courseNumber": "354",
+    "sequenceNumber": "09",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370496",
+        "displayName": "McKinley, John",
+        "emailAddress": "john.mckinley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2551",
+    "courseNumber": "354",
+    "sequenceNumber": "10",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370688",
+        "displayName": "Anizor, Uche",
+        "emailAddress": "uche.anizor@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1484",
+    "courseNumber": "365",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI:Gospel, Kingdom, &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370529",
+        "displayName": "McDowell, Sean",
+        "emailAddress": "sean.mcdowell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "203",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1486",
+    "courseNumber": "365",
+    "sequenceNumber": "04",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Methods of Bible Study",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370652",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "108",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1487",
+    "courseNumber": "365",
+    "sequenceNumber": "05",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI:Gospel, Kingdom, &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370714",
+        "displayName": "Ganssle, Gregory",
+        "emailAddress": "greg.ganssle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1488",
+    "courseNumber": "365",
+    "sequenceNumber": "06",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI:Gospel, Kingdom, &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370714",
+        "displayName": "Ganssle, Gregory",
+        "emailAddress": "greg.ganssle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1489",
+    "courseNumber": "365",
+    "sequenceNumber": "07",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI:Gospel, Kingdom, &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370494",
+        "displayName": "Williams, Thaddeus",
+        "emailAddress": "thaddeus.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "CALCHAPEL",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1490",
+    "courseNumber": "365",
+    "sequenceNumber": "08",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Life and Letters of Paul",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370588",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1491",
+    "courseNumber": "365",
+    "sequenceNumber": "09",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Violence, Sexuality, and Racism in the Old Testament",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370583",
+        "displayName": "Trimm, Charles",
+        "emailAddress": "charlie.trimm@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 1.25,
+      "room": "008",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1492",
+    "courseNumber": "365",
+    "sequenceNumber": "10",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Exodus",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370583",
+        "displayName": "Trimm, Charles",
+        "emailAddress": "charlie.trimm@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "05A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1494",
+    "courseNumber": "365",
+    "sequenceNumber": "12",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI:Gospel, Kingdom, &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370494",
+        "displayName": "Williams, Thaddeus",
+        "emailAddress": "thaddeus.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2552",
+    "courseNumber": "365",
+    "sequenceNumber": "13",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Methods of Bible Study",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370649",
+        "displayName": "Kim, Jonathan",
+        "emailAddress": "jonathan.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2553",
+    "courseNumber": "365",
+    "sequenceNumber": "14",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Methods of Bible Study",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370649",
+        "displayName": "Kim, Jonathan",
+        "emailAddress": "jonathan.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2554",
+    "courseNumber": "365",
+    "sequenceNumber": "15",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Post Trad Program: BTI: Methods of Bible Study",
+    "creditHours": null,
+    "maximumEnrollment": 6,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370649",
+        "displayName": "Kim, Jonathan",
+        "emailAddress": "jonathan.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2555",
+    "courseNumber": "365",
+    "sequenceNumber": "16",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370492",
+        "displayName": "Stetina, Karin",
+        "emailAddress": "karin.stetina@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2556",
+    "courseNumber": "365",
+    "sequenceNumber": "17",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Geography of Israel",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370565",
+        "displayName": "Evensen, Katherine",
+        "emailAddress": "katherine.e.evensen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/29/2021",
+      "endDate": "10/29/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2881",
+    "courseNumber": "365",
+    "sequenceNumber": "18",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI:Gospel, Kingdom, &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 34,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370948",
+        "displayName": "Oakes, Jason",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3061",
+    "courseNumber": "365",
+    "sequenceNumber": "19",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI: Biblical Backgrounds",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370589",
+        "displayName": "Petitfils, James",
+        "emailAddress": "james.m.petitfils@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3170",
+    "courseNumber": "365",
+    "sequenceNumber": "20",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "BTI:Gospel, Kingdom, &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 34,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370948",
+        "displayName": "Oakes, Jason",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2873",
+    "courseNumber": "381",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Selected Psalms",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370582",
+        "displayName": "Imes, Carmen",
+        "emailAddress": "carmen.imes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "002",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2557",
+    "courseNumber": "394",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Daniel",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370949",
+        "displayName": "Pierce, Ronald",
+        "emailAddress": "ron.pierce@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2558",
+    "courseNumber": "394",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Daniel",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370949",
+        "displayName": "Pierce, Ronald",
+        "emailAddress": "ron.pierce@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1495",
+    "courseNumber": "413",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Theology Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370585",
+        "displayName": "Lockett, Darian",
+        "emailAddress": "darian.lockett@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1496",
+    "courseNumber": "414",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "STS: Martin Luther&#39;s Theology",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370496",
+        "displayName": "McKinley, John",
+        "emailAddress": "john.mckinley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2559",
+    "courseNumber": "440",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "AS: Creation,Sexuality,&amp;Gender",
+    "creditHours": 3,
+    "maximumEnrollment": 26,
+    "waitCapacity": 15,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370949",
+        "displayName": "Pierce, Ronald",
+        "emailAddress": "ron.pierce@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2560",
+    "courseNumber": "440",
+    "sequenceNumber": "03",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "AS: Creation,Sexuality,&amp;Gender",
+    "creditHours": 3,
+    "maximumEnrollment": 27,
+    "waitCapacity": 15,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370949",
+        "displayName": "Pierce, Ronald",
+        "emailAddress": "ron.pierce@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1499",
+    "courseNumber": "450",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "AS:Doctrine of the Holy Spirit",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370947",
+        "displayName": "Harris, Ivy",
+        "emailAddress": "leon.harris@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2874",
+    "courseNumber": "450",
+    "sequenceNumber": "04",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Adv Study: Pilgrimage: Christian Life as a Journey",
+    "creditHours": 3,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370907",
+        "displayName": "Draycott, Andrew",
+        "emailAddress": "andy.draycott@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1501",
+    "courseNumber": "451",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Character of God",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 29,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370495",
+        "displayName": "Thoennes, Kenneth",
+        "emailAddress": "erik.thoennes@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1502",
+    "courseNumber": "452",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology of Marriage and Family",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 27,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370493",
+        "displayName": "Lister, Robert",
+        "emailAddress": "rob.lister@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "007",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1503",
+    "courseNumber": "455",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Romans",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370588",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2402",
+    "courseNumber": "458",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology of Mission",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370523",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1387",
+    "courseNumber": "465",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Organizational Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370623",
+        "displayName": "Rae, Scott",
+        "emailAddress": "scott.rae@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370622",
+        "displayName": "Wilson, Thomas",
+        "emailAddress": "thomas.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1389",
+    "courseNumber": "465",
+    "sequenceNumber": "02",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Organizational Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370634",
+        "displayName": "Mitchell, Helen",
+        "emailAddress": "helen.m.mitchell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "214",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1507",
+    "courseNumber": "465",
+    "sequenceNumber": "06",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS:Christology &amp; SpiritualForm",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 37,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370586",
+        "displayName": "Williams, Matthew",
+        "emailAddress": "matt.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "041",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1508",
+    "courseNumber": "465",
+    "sequenceNumber": "07",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS:Christian Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370652",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1509",
+    "courseNumber": "465",
+    "sequenceNumber": "08",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: RedeemingCultureThruMusic",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370876",
+        "displayName": "Turner, David",
+        "emailAddress": "david.r.turner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1345",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "122",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1510",
+    "courseNumber": "465",
+    "sequenceNumber": "09",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Tolkien &amp; the OT",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370583",
+        "displayName": "Trimm, Charles",
+        "emailAddress": "charlie.trimm@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1511",
+    "courseNumber": "465",
+    "sequenceNumber": "10",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Christianity &amp; Natural Sci",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370537",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370879",
+        "displayName": "Kim, Bum Sang",
+        "emailAddress": "bumsang.kim@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "102",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1512",
+    "courseNumber": "465",
+    "sequenceNumber": "11",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Christian Phil of Ed",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370909",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370732",
+        "displayName": "Cid, Luciano",
+        "emailAddress": "luciano.cid@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2061",
+    "courseNumber": "465",
+    "sequenceNumber": "13",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Faith and Film",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370680",
+        "displayName": "Ulrich, Brian",
+        "emailAddress": "brian.t.ulrich@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370681",
+        "displayName": "Chan, Brian",
+        "emailAddress": "brian.chan@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "247",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2404",
+    "courseNumber": "465",
+    "sequenceNumber": "14",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Gospel &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370523",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2438",
+    "courseNumber": "465",
+    "sequenceNumber": "15",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS:ContempHispncSt:BibliclPers",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370929",
+        "displayName": "Hernandez, Artemiza",
+        "emailAddress": "artemiza.hernandez@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370720",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "002",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2561",
+    "courseNumber": "465",
+    "sequenceNumber": "16",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Jesus Lord of All",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 32,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370688",
+        "displayName": "Anizor, Uche",
+        "emailAddress": "uche.anizor@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2562",
+    "courseNumber": "465",
+    "sequenceNumber": "17",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Christian Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370652",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2563",
+    "courseNumber": "465",
+    "sequenceNumber": "18",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Post Trad Program: IS Christian Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370652",
+        "displayName": "Keehn, David",
+        "emailAddress": "david.s.keehn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2566",
+    "courseNumber": "465",
+    "sequenceNumber": "21",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Healthcare Humanites",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 32,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370950",
+        "displayName": "McReynolds, Katherine",
+        "emailAddress": "katherine.mcreynolds@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2567",
+    "courseNumber": "465",
+    "sequenceNumber": "22",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Jesus Lord of All",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 32,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370951",
+        "displayName": "Hurst, Tyler",
+        "emailAddress": "tyler.d.hurst@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2755",
+    "courseNumber": "465",
+    "sequenceNumber": "23",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Rhythm &amp; Calling in PR",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370786",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2883",
+    "courseNumber": "465",
+    "sequenceNumber": "24",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Positive Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370908",
+        "displayName": "Hall, Miriam",
+        "emailAddress": "liz.hall@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370909",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "2979",
+    "courseNumber": "465",
+    "sequenceNumber": "25",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "IS: Jesus Lord of All",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370528",
+        "displayName": "Smith, Ronald",
+        "emailAddress": "scott.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "3065",
+    "courseNumber": "465",
+    "sequenceNumber": "26",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Integ Sem: Pilgrim&#39;s Progress: A Spiritual Classic for a Selfie World",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370907",
+        "displayName": "Draycott, Andrew",
+        "emailAddress": "andy.draycott@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BBST",
+    "CRN": "1514",
+    "courseNumber": "490",
+    "sequenceNumber": "01",
+    "subjectDescription": "BBST Biblical &amp; Theo Studies",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "PR: Accelerated Bible Programs",
+    "creditHours": 1,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370586",
+        "displayName": "Williams, Matthew",
+        "emailAddress": "matt.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1550",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  }
+]

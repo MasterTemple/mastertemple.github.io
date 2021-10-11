@@ -1,0 +1,326 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2505",
+    "courseNumber": "208",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Statistics for Research",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370549",
+        "displayName": "Soto, Eileen",
+        "emailAddress": "eileen.soto@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2499",
+    "courseNumber": "265",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Psychology and Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370543",
+        "displayName": "Hill, Peter",
+        "emailAddress": "peter.hill@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2507",
+    "courseNumber": "320",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Experimental Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370550",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2500",
+    "courseNumber": "355",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Psychology of Health and Well-Being",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370544",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2502",
+    "courseNumber": "410",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Psychology in the Workplace",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370546",
+        "displayName": "Dryjanska, Laura",
+        "emailAddress": "laura.dryjanska@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2501",
+    "courseNumber": "414",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Theories of Personality",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370545",
+        "displayName": "Poston, John",
+        "emailAddress": "john.poston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2504",
+    "courseNumber": "417",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Counseling Techniques",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370548",
+        "displayName": "Qualls, Kevin",
+        "emailAddress": "kevin.qualls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2503",
+    "courseNumber": "425",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Psychology of Marriage and Family Life",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370547",
+        "displayName": "Bland, Cayla",
+        "emailAddress": "cayla.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "APSY",
+    "CRN": "2506",
+    "courseNumber": "490",
+    "sequenceNumber": "01",
+    "subjectDescription": "APSY Applied Psychology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Applied Psychology Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 50,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370547",
+        "displayName": "Bland, Cayla",
+        "emailAddress": "cayla.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

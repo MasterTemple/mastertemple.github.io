@@ -1,0 +1,1328 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1303",
+    "courseNumber": "301",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Teaching (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370745",
+        "displayName": "Lin, Ruby",
+        "emailAddress": "ruby.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/23/2021",
+      "beginTime": "0930",
+      "endTime": "1230",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "128",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1304",
+    "courseNumber": "301",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Teaching (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370732",
+        "displayName": "Cid, Luciano",
+        "emailAddress": "luciano.cid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/23/2021",
+      "beginTime": "0930",
+      "endTime": "1230",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "128",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1305",
+    "courseNumber": "301",
+    "sequenceNumber": "03",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Teaching (Secondary)",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370729",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "10/05/2021",
+      "beginTime": "1630",
+      "endTime": "2145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.25,
+      "room": "128",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1312",
+    "courseNumber": "309",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Math/Science Methods",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1336",
+    "courseNumber": "324",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Performing Arts in Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/02/2021",
+      "endDate": "09/30/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.75,
+      "room": "042",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1306",
+    "courseNumber": "330",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Foundations of Education",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370732",
+        "displayName": "Cid, Luciano",
+        "emailAddress": "luciano.cid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1615",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "108",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "3080",
+    "courseNumber": "330",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Foundations of Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370726",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/12/2021",
+      "endDate": "12/07/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1307",
+    "courseNumber": "335",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Child Development: Birth through Adolescence",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370746",
+        "displayName": "Parker, Koryn",
+        "emailAddress": "koryn.parker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2578",
+    "courseNumber": "335",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Child Development: Birth through Adolescence",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370740",
+        "displayName": "Bedard, Carly",
+        "emailAddress": "carly.s.bedard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1346",
+    "courseNumber": "336",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Health Curriculum and Methods",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370737",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "11/09/2021",
+      "endDate": "12/07/2021",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.5,
+      "room": "043",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1348",
+    "courseNumber": "337",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary History-Social Science Curriculum and Methods",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/11/2021",
+      "endDate": "09/11/2021",
+      "beginTime": "0900",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 8,
+      "room": "206",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1358",
+    "courseNumber": "341",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "215",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1360",
+    "courseNumber": "341",
+    "sequenceNumber": "03",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students (Secondary)",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "3081",
+    "courseNumber": "341",
+    "sequenceNumber": "04",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2582",
+    "courseNumber": "356",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Early Childhood Curriculum",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370747",
+        "displayName": "Min, Christi",
+        "emailAddress": "christi.min@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2584",
+    "courseNumber": "357",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "School/Family/Community Partnerships in Early Childhood Urban Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370747",
+        "displayName": "Min, Christi",
+        "emailAddress": "christi.min@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2586",
+    "courseNumber": "358",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Classroom Management in Early Childhood Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370747",
+        "displayName": "Min, Christi",
+        "emailAddress": "christi.min@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "3058",
+    "courseNumber": "359",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Observation and Assessment of Young Children",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370740",
+        "displayName": "Bedard, Carly",
+        "emailAddress": "carly.s.bedard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2591",
+    "courseNumber": "361",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Issues in Special Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2593",
+    "courseNumber": "363",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Teaching Students with Mild Disabilities in Inclusive Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370743",
+        "displayName": "Tang, Kimmie",
+        "emailAddress": "kimmie.tang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2595",
+    "courseNumber": "364",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Behavior and Classroom Management for Students with Special Needs",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "2597",
+    "courseNumber": "369",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Autism Spectrum Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370743",
+        "displayName": "Tang, Kimmie",
+        "emailAddress": "kimmie.tang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1331",
+    "courseNumber": "420",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Reading/Language Arts",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370730",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "215",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1333",
+    "courseNumber": "425",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Content Area Reading",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "116",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "3083",
+    "courseNumber": "425",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Content Area Reading",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1363",
+    "courseNumber": "432",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Elementary Curriculum Fieldwork",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370729",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1338",
+    "courseNumber": "433",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: English",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370733",
+        "displayName": "Lewis, Dawn",
+        "emailAddress": "dawn.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1340",
+    "courseNumber": "433",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: History/Soc Sci",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370734",
+        "displayName": "Honeycutt, Daniel",
+        "emailAddress": "dan.honeycutt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1342",
+    "courseNumber": "433",
+    "sequenceNumber": "03",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Math",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1350",
+    "courseNumber": "434",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370729",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "12/10/2021",
+      "endDate": "12/10/2021",
+      "beginTime": "1345",
+      "endTime": "1645",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "4",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1364",
+    "courseNumber": "437",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Secondary Curriculum Fieldwork",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1354",
+    "courseNumber": "438",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "12/10/2021",
+      "endDate": "12/10/2021",
+      "beginTime": "1345",
+      "endTime": "1645",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "4",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "3084",
+    "courseNumber": "438",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1325",
+    "courseNumber": "450",
+    "sequenceNumber": "02",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Student Teaching I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 6,
+      "hoursWeek": 2.75,
+      "room": "114",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "LEDU",
+    "CRN": "1327",
+    "courseNumber": "452",
+    "sequenceNumber": "01",
+    "subjectDescription": "LEDU Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Student Teaching II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 6,
+      "hoursWeek": 6,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

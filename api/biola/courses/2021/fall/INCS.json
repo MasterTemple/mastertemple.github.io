@@ -1,0 +1,560 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2382",
+    "courseNumber": "233",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Global Studies",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370802",
+        "displayName": "Decker, Murray",
+        "emailAddress": "murray.decker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "207",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2381",
+    "courseNumber": "313",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Practicum in Language and Culture Learning",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370696",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2383",
+    "courseNumber": "322",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intercultural Adjustment",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370802",
+        "displayName": "Decker, Murray",
+        "emailAddress": "murray.decker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "214",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2385",
+    "courseNumber": "324",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Understanding Islam and Islamic Theology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370521",
+        "displayName": "Meulenberg, Michal",
+        "emailAddress": "michal.meulenberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "214",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2389",
+    "courseNumber": "345",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Development",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370522",
+        "displayName": "Greene, Katrina",
+        "emailAddress": "katrina.greene@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2867",
+    "courseNumber": "349",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Community-Based Research",
+    "creditHours": null,
+    "maximumEnrollment": 36,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370522",
+        "displayName": "Greene, Katrina",
+        "emailAddress": "katrina.greene@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "207",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2392",
+    "courseNumber": "354",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Internship",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370802",
+        "displayName": "Decker, Murray",
+        "emailAddress": "murray.decker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "1020",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "207",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2393",
+    "courseNumber": "360",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Short-Term Mission Leadership",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370521",
+        "displayName": "Meulenberg, Michal",
+        "emailAddress": "michal.meulenberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "007",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "1629",
+    "courseNumber": "420",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intercultural Communication",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370696",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2394",
+    "courseNumber": "427",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spiritual Formation in Cross-cultural Context",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370802",
+        "displayName": "Decker, Murray",
+        "emailAddress": "murray.decker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "1",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2880",
+    "courseNumber": "430",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TP: Global Health Perspectives",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370803",
+        "displayName": "Johnson, Richard",
+        "emailAddress": "rick.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2398",
+    "courseNumber": "435",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Project Evaluation and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370522",
+        "displayName": "Greene, Katrina",
+        "emailAddress": "katrina.greene@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2401",
+    "courseNumber": "450",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology of Mission",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370523",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "INCS",
+    "CRN": "2403",
+    "courseNumber": "465",
+    "sequenceNumber": "01",
+    "subjectDescription": "INCS Intercultural Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Integ Sem: Gospel &amp; Culture",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370523",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

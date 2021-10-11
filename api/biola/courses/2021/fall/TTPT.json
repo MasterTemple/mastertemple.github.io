@@ -1,0 +1,1108 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1018",
+    "courseNumber": "510",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Evangelism and Follow-Up",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370655",
+        "displayName": "Comer, Gary",
+        "emailAddress": "gary.s.comer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1019",
+    "courseNumber": "591",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Field Education",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1800",
+      "endTime": "1850",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2508",
+    "courseNumber": "591",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Field Education",
+    "creditHours": null,
+    "maximumEnrollment": 32,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1020",
+    "courseNumber": "592",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Education II",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2509",
+    "courseNumber": "602",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Pastoral Ministry",
+    "creditHours": null,
+    "maximumEnrollment": 33,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1021",
+    "courseNumber": "604",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Pastoral Care and Chaplaincy",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370657",
+        "displayName": "McIntire, Michael",
+        "emailAddress": "michael.r.mcintire@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370658",
+        "displayName": "Borja, Stephen",
+        "emailAddress": "steve.borja@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2510",
+    "courseNumber": "607",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Youth Ministry in Contemporary Culture",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370663",
+        "displayName": "Staffieri, William",
+        "emailAddress": "bill.staffieri@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "08/30/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1022",
+    "courseNumber": "609",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Expository Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370659",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0730",
+      "endTime": "1020",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2879",
+    "courseNumber": "609",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Expository Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370526",
+        "displayName": "Cash, Brandon",
+        "emailAddress": "brandon.cash@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1023",
+    "courseNumber": "610",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Contemporary Biblical Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370659",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1024",
+    "courseNumber": "610",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Contemporary Biblical Preaching",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370659",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1025",
+    "courseNumber": "628",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Marital Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370660",
+        "displayName": "Frontiera, Sarah",
+        "emailAddress": "sarah.frontiera@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1026",
+    "courseNumber": "681",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Talbot A.S. Officers Internship",
+    "creditHours": null,
+    "maximumEnrollment": 11,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370661",
+        "displayName": "Arnold, Clinton",
+        "emailAddress": "clint.arnold@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1027",
+    "courseNumber": "691",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Education III",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1028",
+    "courseNumber": "692",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Education IV",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2511",
+    "courseNumber": "693",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Pastoral Care and Counseling Internship I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370544",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370664",
+        "displayName": "Song, Sunny",
+        "emailAddress": "sunny.song@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0830",
+      "endTime": "0920",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2512",
+    "courseNumber": "694",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Pastoral Care and Counseling Internship II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370544",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370664",
+        "displayName": "Song, Sunny",
+        "emailAddress": "sunny.song@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0930",
+      "endTime": "1020",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2513",
+    "courseNumber": "695",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Pastoral Care and Counseling Internship III",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370544",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0920",
+      "endTime": "1020",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1029",
+    "courseNumber": "702",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Pastoral Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370662",
+        "displayName": "Bettenhausen Geis, Robyn",
+        "emailAddress": "robyn.bettenhausen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2514",
+    "courseNumber": "703",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Church and Society",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370528",
+        "displayName": "Smith, Ronald",
+        "emailAddress": "scott.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1030",
+    "courseNumber": "707",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Pastoral Care and Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370544",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "109",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "2515",
+    "courseNumber": "707",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Pastoral Care and Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370544",
+        "displayName": "Van Lant, Kevin",
+        "emailAddress": "kevin.van.lant@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/02/2021",
+      "endDate": "10/02/2021",
+      "beginTime": "0900",
+      "endTime": "1100",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1015",
+    "courseNumber": "708",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Pastoral Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370654",
+        "displayName": "Bishop, Berry",
+        "emailAddress": "berry.j.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "02",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1032",
+    "courseNumber": "730",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biblical Leadership and Management",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370659",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/16/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 9,
+      "room": "109",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1033",
+    "courseNumber": "741",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Preaching Narrative Literature",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370659",
+        "displayName": "Edwards, John",
+        "emailAddress": "kent.edwards@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1017",
+    "courseNumber": "765",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Seminar in Pastoral Counseling",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370654",
+        "displayName": "Bishop, Berry",
+        "emailAddress": "berry.j.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1720",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "02",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1034",
+    "courseNumber": "791",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Internship",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1900",
+      "endTime": "2030",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTPT",
+    "CRN": "1035",
+    "courseNumber": "791",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTPT Christian Min &amp; Leadshp",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Field Internship",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370656",
+        "displayName": "Shin, Benjamin",
+        "emailAddress": "benjamin.shin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0900",
+      "endTime": "1020",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "103",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

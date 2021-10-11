@@ -1,0 +1,1228 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2336",
+    "courseNumber": "101",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physical Science Survey: Lecture",
+    "creditHours": null,
+    "maximumEnrollment": 46,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370640",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "351",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2337",
+    "courseNumber": "102",
+    "sequenceNumber": "L1",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physical Science Survey Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370640",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "251",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2338",
+    "courseNumber": "102",
+    "sequenceNumber": "L2",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physical Science Survey Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370640",
+        "displayName": "Pichaj, Mark",
+        "emailAddress": "mark.pichaj@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "251",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2343",
+    "courseNumber": "110",
+    "sequenceNumber": "03",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Astronomy",
+    "creditHours": null,
+    "maximumEnrollment": 46,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370537",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1600",
+      "endTime": "1715",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "351",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2344",
+    "courseNumber": "111",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physics I",
+    "creditHours": 3,
+    "maximumEnrollment": 46,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370761",
+        "displayName": "Wong, Elaine",
+        "emailAddress": "elaine.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 3.75,
+      "room": "351",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2345",
+    "courseNumber": "111",
+    "sequenceNumber": "02",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physics I",
+    "creditHours": 3,
+    "maximumEnrollment": 46,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370879",
+        "displayName": "Kim, Bum Sang",
+        "emailAddress": "bumsang.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 3.75,
+      "room": "351",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2346",
+    "courseNumber": "111",
+    "sequenceNumber": "R1",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Physics I: Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 36,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370761",
+        "displayName": "Wong, Elaine",
+        "emailAddress": "elaine.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "2100",
+      "endTime": "2230",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "042",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2347",
+    "courseNumber": "111",
+    "sequenceNumber": "R2",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Physics I: Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 36,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370761",
+        "displayName": "Wong, Elaine",
+        "emailAddress": "elaine.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "2100",
+      "endTime": "2230",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "042",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2348",
+    "courseNumber": "117",
+    "sequenceNumber": "L1",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physics I Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370880",
+        "displayName": "Beck, Griffin",
+        "emailAddress": "griffin.t.beck@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2349",
+    "courseNumber": "117",
+    "sequenceNumber": "L2",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physics I Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370881",
+        "displayName": "Pence, Jeffrey",
+        "emailAddress": "jeffrey.pence@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2350",
+    "courseNumber": "117",
+    "sequenceNumber": "L3",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physics I Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370881",
+        "displayName": "Pence, Jeffrey",
+        "emailAddress": "jeffrey.pence@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "3009",
+    "courseNumber": "117",
+    "sequenceNumber": "L5",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physics I Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 23,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370885",
+        "displayName": "Ng, Stanley",
+        "emailAddress": "stan.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2352",
+    "courseNumber": "124",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Data Analysis and Presentation",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370882",
+        "displayName": "Ulrich, Thomas",
+        "emailAddress": "thomas.ulrich@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1450",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "209",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2353",
+    "courseNumber": "124",
+    "sequenceNumber": "02",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Data Analysis and Presentation",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370882",
+        "displayName": "Ulrich, Thomas",
+        "emailAddress": "thomas.ulrich@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1550",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "209",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2355",
+    "courseNumber": "132",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Physics I: Mechanics and Heat",
+    "creditHours": 3,
+    "maximumEnrollment": 54,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1250",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "002",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2356",
+    "courseNumber": "132",
+    "sequenceNumber": "R1",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Gen Physics I: Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "2100",
+      "endTime": "2230",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "041",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2357",
+    "courseNumber": "132",
+    "sequenceNumber": "R2",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Gen Physics I: Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "2100",
+      "endTime": "2230",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "041",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2359",
+    "courseNumber": "134",
+    "sequenceNumber": "L2",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Physics I Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370884",
+        "displayName": "Johansen, James",
+        "emailAddress": "james.d.johansen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2360",
+    "courseNumber": "134",
+    "sequenceNumber": "L3",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "General Physics I Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370884",
+        "displayName": "Johansen, James",
+        "emailAddress": "james.d.johansen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "253",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2361",
+    "courseNumber": "234",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Physics III: Waves, Optics and Modern Physics",
+    "creditHours": 4,
+    "maximumEnrollment": 40,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2363",
+    "courseNumber": "234",
+    "sequenceNumber": "L2",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Phys III: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1630",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2364",
+    "courseNumber": "234",
+    "sequenceNumber": "L3",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Gen Phys III: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 18,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1630",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "253",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2365",
+    "courseNumber": "234",
+    "sequenceNumber": "R1",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Gen Phys III: Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 20,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1700",
+      "endTime": "1830",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "351",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2366",
+    "courseNumber": "234",
+    "sequenceNumber": "R2",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Recitation",
+    "courseTitle": "Gen Phys III: Recitation",
+    "creditHours": 0,
+    "maximumEnrollment": 20,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370883",
+        "displayName": "Chen, Xidong",
+        "emailAddress": "xidong.chen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1700",
+      "endTime": "1830",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "351",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2368",
+    "courseNumber": "250",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Science and Origins",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 3,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370537",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "203",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2990",
+    "courseNumber": "311",
+    "sequenceNumber": "02",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Computer Techniques in Science and Engineering",
+    "creditHours": null,
+    "maximumEnrollment": 36,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370882",
+        "displayName": "Ulrich, Thomas",
+        "emailAddress": "thomas.ulrich@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2370",
+    "courseNumber": "313",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Statics",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370761",
+        "displayName": "Wong, Elaine",
+        "emailAddress": "elaine.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "004",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2903",
+    "courseNumber": "420",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Research: Applications in Biomedical Engineering",
+    "creditHours": 2,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370885",
+        "displayName": "Ng, Stanley",
+        "emailAddress": "stan.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "045",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2941",
+    "courseNumber": "420",
+    "sequenceNumber": "02",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Research: Applications in STEM Education",
+    "creditHours": 1,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370885",
+        "displayName": "Ng, Stanley",
+        "emailAddress": "stan.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1345",
+      "endTime": "1645",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "045",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHSC",
+    "CRN": "2942",
+    "courseNumber": "420",
+    "sequenceNumber": "03",
+    "subjectDescription": "PHSC Physical Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Directed Research: Water Defluoridation Project",
+    "creditHours": 1,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370761",
+        "displayName": "Wong, Elaine",
+        "emailAddress": "elaine.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1430",
+      "endTime": "1730",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "323",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2540 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2764",
+    "courseNumber": "201",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Macroeconomics",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370635",
+        "displayName": "Xavier, Wlamir",
+        "emailAddress": "wlamir.xavier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "102",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2765",
+    "courseNumber": "201",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Macroeconomics",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370635",
+        "displayName": "Xavier, Wlamir",
+        "emailAddress": "wlamir.xavier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "203",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2766",
+    "courseNumber": "202",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Microeconomics",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370624",
+        "displayName": "Ware, Brandon",
+        "emailAddress": "brandon.ware@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "043",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2767",
+    "courseNumber": "202",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Microeconomics",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370624",
+        "displayName": "Ware, Brandon",
+        "emailAddress": "brandon.ware@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "043",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1365",
+    "courseNumber": "211",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Accounting I",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370615",
+        "displayName": "Marrero, Andrea",
+        "emailAddress": "andrea.marrero@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1367",
+    "courseNumber": "211",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Accounting I",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370616",
+        "displayName": "Stanley, Rachel",
+        "emailAddress": "rachel.j.stanley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "201",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1369",
+    "courseNumber": "211",
+    "sequenceNumber": "04",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Accounting I",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370615",
+        "displayName": "Marrero, Andrea",
+        "emailAddress": "andrea.marrero@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "201",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1370",
+    "courseNumber": "211",
+    "sequenceNumber": "05",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Accounting I",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370615",
+        "displayName": "Marrero, Andrea",
+        "emailAddress": "andrea.marrero@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2670",
+    "courseNumber": "211",
+    "sequenceNumber": "06",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Principles of Accounting I",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370633",
+        "displayName": "Rodriguez, Michael",
+        "emailAddress": "michael.rodriguez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1371",
+    "courseNumber": "212",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Accounting II",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370617",
+        "displayName": "McHugh, John",
+        "emailAddress": "jeff.mchugh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2768",
+    "courseNumber": "220",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Management Information Systems",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370636",
+        "displayName": "Turner, Eric",
+        "emailAddress": "eric.turner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2769",
+    "courseNumber": "220",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Management Information Systems",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370636",
+        "displayName": "Turner, Eric",
+        "emailAddress": "eric.turner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2770",
+    "courseNumber": "220",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Management Information Systems",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370630",
+        "displayName": "Bourgeois, David",
+        "emailAddress": "dave.bourgeois@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2771",
+    "courseNumber": "230",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Marketing",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370626",
+        "displayName": "Mgrdichian, Laureen",
+        "emailAddress": "laureen.mgrdichian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "206",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2772",
+    "courseNumber": "230",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Marketing",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370626",
+        "displayName": "Mgrdichian, Laureen",
+        "emailAddress": "laureen.mgrdichian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "206",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1372",
+    "courseNumber": "231",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Marketing: Practical Application",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370618",
+        "displayName": "Harman III, Lester",
+        "emailAddress": "les.harman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "201",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1374",
+    "courseNumber": "240",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Management",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370619",
+        "displayName": "Aguas, Mario",
+        "emailAddress": "jake.aguas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1375",
+    "courseNumber": "240",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Management",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370619",
+        "displayName": "Aguas, Mario",
+        "emailAddress": "jake.aguas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1376",
+    "courseNumber": "240",
+    "sequenceNumber": "04",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Management",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370619",
+        "displayName": "Aguas, Mario",
+        "emailAddress": "jake.aguas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "206",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2841",
+    "courseNumber": "243",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Financial Planning",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370638",
+        "displayName": "Enete, Shane",
+        "emailAddress": "shane.d.enete@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "207",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2842",
+    "courseNumber": "243",
+    "sequenceNumber": "04",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Financial Planning",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370638",
+        "displayName": "Enete, Shane",
+        "emailAddress": "shane.d.enete@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1945",
+    "courseNumber": "301",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Writing and Case Analysis",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370631",
+        "displayName": "Shober, Gladys",
+        "emailAddress": "dianne.shober@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1947",
+    "courseNumber": "301",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Writing and Case Analysis",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370631",
+        "displayName": "Shober, Gladys",
+        "emailAddress": "dianne.shober@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1957",
+    "courseNumber": "301",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Writing and Case Analysis",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370632",
+        "displayName": "Mauzey, Andrew",
+        "emailAddress": "andrew.mauzey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "110",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1378",
+    "courseNumber": "311",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Accounting I",
+    "creditHours": null,
+    "maximumEnrollment": 43,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370615",
+        "displayName": "Marrero, Andrea",
+        "emailAddress": "andrea.marrero@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1380",
+    "courseNumber": "313",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cost Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 43,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370620",
+        "displayName": "Massey, Philip",
+        "emailAddress": "philip.massey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1382",
+    "courseNumber": "316",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Federal Income Tax for Partnerships, Corporations and Estates",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370621",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1384",
+    "courseNumber": "318",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Human Resource Management",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370622",
+        "displayName": "Wilson, Thomas",
+        "emailAddress": "thomas.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "200",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1386",
+    "courseNumber": "319",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organizational Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370623",
+        "displayName": "Rae, Scott",
+        "emailAddress": "scott.rae@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370622",
+        "displayName": "Wilson, Thomas",
+        "emailAddress": "thomas.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2672",
+    "courseNumber": "319",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Organizational Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370634",
+        "displayName": "Mitchell, Helen",
+        "emailAddress": "helen.m.mitchell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2671",
+    "courseNumber": "320",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Human Capital Management",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370619",
+        "displayName": "Aguas, Mario",
+        "emailAddress": "jake.aguas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1390",
+    "courseNumber": "323",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Analytics",
+    "creditHours": null,
+    "maximumEnrollment": 39,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370624",
+        "displayName": "Ware, Brandon",
+        "emailAddress": "brandon.ware@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0845",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1391",
+    "courseNumber": "323",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Analytics",
+    "creditHours": null,
+    "maximumEnrollment": 39,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370624",
+        "displayName": "Ware, Brandon",
+        "emailAddress": "brandon.ware@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2775",
+    "courseNumber": "334",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Promotions",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370637",
+        "displayName": "Mobley, Lari",
+        "emailAddress": "lari.mobley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "220",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1392",
+    "courseNumber": "338",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Entrepreneurship Practicum",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370625",
+        "displayName": "Terranova, Jordan",
+        "emailAddress": "jordan.a.terranova@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "142",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2776",
+    "courseNumber": "339",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Estate Planning",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370638",
+        "displayName": "Enete, Shane",
+        "emailAddress": "shane.d.enete@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "220",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2954",
+    "courseNumber": "339",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Estate Planning",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370638",
+        "displayName": "Enete, Shane",
+        "emailAddress": "shane.d.enete@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2779",
+    "courseNumber": "347",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Global Business Environment",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370635",
+        "displayName": "Xavier, Wlamir",
+        "emailAddress": "wlamir.xavier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "125",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2780",
+    "courseNumber": "347",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Global Business Environment",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370635",
+        "displayName": "Xavier, Wlamir",
+        "emailAddress": "wlamir.xavier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "125",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1394",
+    "courseNumber": "361",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Law",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370622",
+        "displayName": "Wilson, Thomas",
+        "emailAddress": "thomas.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1395",
+    "courseNumber": "361",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Law",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370622",
+        "displayName": "Wilson, Thomas",
+        "emailAddress": "thomas.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "203",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1396",
+    "courseNumber": "364",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Entrepreneurship and New Venture Formation",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370626",
+        "displayName": "Mgrdichian, Laureen",
+        "emailAddress": "laureen.mgrdichian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "207",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1397",
+    "courseNumber": "370",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Finance",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370627",
+        "displayName": "Markley, Randall",
+        "emailAddress": "randy.markley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1399",
+    "courseNumber": "370",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Finance",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370627",
+        "displayName": "Markley, Randall",
+        "emailAddress": "randy.markley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1400",
+    "courseNumber": "410",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Customer Relationship Management",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370628",
+        "displayName": "Sherwin, Nicholas",
+        "emailAddress": "nick.sherwin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1401",
+    "courseNumber": "411",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 43,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370629",
+        "displayName": "Davis, Letitia",
+        "emailAddress": "letitia.d.davis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1403",
+    "courseNumber": "418",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Consumer Behavior",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370626",
+        "displayName": "Mgrdichian, Laureen",
+        "emailAddress": "laureen.mgrdichian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1404",
+    "courseNumber": "421",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Leadership and Change",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370617",
+        "displayName": "McHugh, John",
+        "emailAddress": "jeff.mchugh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2673",
+    "courseNumber": "422",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: High-Performance Leadership",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370617",
+        "displayName": "McHugh, John",
+        "emailAddress": "jeff.mchugh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1405",
+    "courseNumber": "423",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Business Analytics",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370630",
+        "displayName": "Bourgeois, David",
+        "emailAddress": "dave.bourgeois@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "102",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1406",
+    "courseNumber": "432",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Marketing Research",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370618",
+        "displayName": "Harman III, Lester",
+        "emailAddress": "les.harman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "201",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1407",
+    "courseNumber": "435",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business to Business Marketing",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370618",
+        "displayName": "Harman III, Lester",
+        "emailAddress": "les.harman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1408",
+    "courseNumber": "443",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "International Supply Chain Management",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370635",
+        "displayName": "Xavier, Wlamir",
+        "emailAddress": "wlamir.xavier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.25,
+      "room": "105",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1409",
+    "courseNumber": "450",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "DS: Career &amp; Calling",
+    "creditHours": 3,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370953",
+        "displayName": "Sohn, Paul",
+        "emailAddress": "paul.sohn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "125",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2064",
+    "courseNumber": "450",
+    "sequenceNumber": "06",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "DS: Navigating the Creatv Proj",
+    "creditHours": 3,
+    "maximumEnrollment": 3,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370563",
+        "displayName": "Zalk, Robert",
+        "emailAddress": "bob.zalk@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2980",
+    "courseNumber": "450",
+    "sequenceNumber": "07",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "DS: Managing Emerging Enterpr",
+    "creditHours": 3,
+    "maximumEnrollment": 1,
+    "waitCapacity": 25,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370637",
+        "displayName": "Mobley, Lari",
+        "emailAddress": "lari.mobley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1414",
+    "courseNumber": "460",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Business Internship",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370618",
+        "displayName": "Harman III, Lester",
+        "emailAddress": "les.harman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2781",
+    "courseNumber": "462",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Investments",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370638",
+        "displayName": "Enete, Shane",
+        "emailAddress": "shane.d.enete@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "109",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "2955",
+    "courseNumber": "462",
+    "sequenceNumber": "04",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Investments",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370638",
+        "displayName": "Enete, Shane",
+        "emailAddress": "shane.d.enete@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1415",
+    "courseNumber": "463",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Corporate Finance",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370635",
+        "displayName": "Xavier, Wlamir",
+        "emailAddress": "wlamir.xavier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1416",
+    "courseNumber": "470",
+    "sequenceNumber": "01",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Strategic Management",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370628",
+        "displayName": "Sherwin, Nicholas",
+        "emailAddress": "nick.sherwin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1417",
+    "courseNumber": "470",
+    "sequenceNumber": "02",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Strategic Management",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370628",
+        "displayName": "Sherwin, Nicholas",
+        "emailAddress": "nick.sherwin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0845",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BUSN",
+    "CRN": "1418",
+    "courseNumber": "470",
+    "sequenceNumber": "03",
+    "subjectDescription": "BUSN Business Administration",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Strategic Management",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370628",
+        "displayName": "Sherwin, Nicholas",
+        "emailAddress": "nick.sherwin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

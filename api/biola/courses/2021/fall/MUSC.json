@@ -1,0 +1,4412 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1667",
+    "courseNumber": "001",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Biola Chorale",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370845",
+        "displayName": "Stewart, Shawna",
+        "emailAddress": "shawna.cross.stewart@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3.66,
+      "room": "122",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1668",
+    "courseNumber": "002",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Brass Ensemble",
+    "courseTitle": "Ensemble: Brass Ensemble",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1669",
+    "courseNumber": "002",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Brass Quintet",
+    "courseTitle": "Ensemble: Brass Quintet",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1670",
+    "courseNumber": "002",
+    "sequenceNumber": "03",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Jazz Combo",
+    "courseTitle": "Ensemble: Jazz Combo",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370847",
+        "displayName": "Kobayashi, Ron",
+        "emailAddress": "ron.kobayashi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1320",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "ANNEX 1",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1676",
+    "courseNumber": "002",
+    "sequenceNumber": "09",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Mixed Winds",
+    "courseTitle": "Ensemble: Mixed Winds",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1677",
+    "courseNumber": "002",
+    "sequenceNumber": "10",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: New Music",
+    "courseTitle": "Ensemble: New Music",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1900",
+      "endTime": "2200",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "LANSING",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1678",
+    "courseNumber": "002",
+    "sequenceNumber": "11",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Percussion",
+    "courseTitle": "Ensemble: Percussion",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1320",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.83,
+      "room": "124",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1679",
+    "courseNumber": "002",
+    "sequenceNumber": "12",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Piano Accompanying",
+    "courseTitle": "Ensemble: Piano Accompanying",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370849",
+        "displayName": "Kawamura, Manami",
+        "emailAddress": "manami.kawamura@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1682",
+    "courseNumber": "002",
+    "sequenceNumber": "15",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: String Chamber Music",
+    "courseTitle": "Ensemble: String Chamber Music",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1683",
+    "courseNumber": "002",
+    "sequenceNumber": "16",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Woodwind Quintet",
+    "courseTitle": "Ensemble: Woodwind Qunitet",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1685",
+    "courseNumber": "002",
+    "sequenceNumber": "18",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: String Quartet",
+    "courseTitle": "Ensemble: String Quartet",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1700",
+      "endTime": "1830",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "106",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1686",
+    "courseNumber": "002",
+    "sequenceNumber": "19",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Commercial Music",
+    "courseTitle": "Ensemble: Commercial Music",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "MUSWOR",
+      "buildingDescription": "Music in Worship",
+      "creditHourSession": 0,
+      "hoursWeek": 0.83,
+      "room": "1",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1687",
+    "courseNumber": "002",
+    "sequenceNumber": "20",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble: Secondary Pop",
+    "courseTitle": "Ensemble: Secondary Pop",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1688",
+    "courseNumber": "003",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Symphony Orchestra",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1830",
+      "endTime": "2030",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "LANSING",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1689",
+    "courseNumber": "007",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Jazz Ensemble",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1700",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "124",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1690",
+    "courseNumber": "008",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Symphonic Winds",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1500",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "124",
+      "days": [
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1692",
+    "courseNumber": "010",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Vocal Jazz Ensemble",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370845",
+        "displayName": "Stewart, Shawna",
+        "emailAddress": "shawna.cross.stewart@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1830",
+      "endTime": "2000",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "122",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1693",
+    "courseNumber": "012",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Women&#39;s Chorus",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370852",
+        "displayName": "Tebay, John",
+        "emailAddress": "john.tebay@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1150",
+      "endTime": "1320",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "LANSING",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1694",
+    "courseNumber": "013",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Worship and Popular Music Ensemble",
+    "creditHours": null,
+    "maximumEnrollment": 75,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1695",
+    "courseNumber": "014",
+    "sequenceNumber": "18",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Ensemble",
+    "courseTitle": "Men&#39;s Chorus",
+    "creditHours": null,
+    "maximumEnrollment": 55,
+    "waitCapacity": 0,
+    "creditHourHigh": 1,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370852",
+        "displayName": "Tebay, John",
+        "emailAddress": "john.tebay@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1146",
+      "endTime": "1320",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3.13,
+      "room": "124",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "2736",
+    "courseNumber": "098",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Music Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1697",
+    "courseNumber": "100",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Keyboard I",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370853",
+        "displayName": "Lee, Hee-Seung",
+        "emailAddress": "hee.seung.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "105",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1698",
+    "courseNumber": "100",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Keyboard I",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370854",
+        "displayName": "Pak, Beth",
+        "emailAddress": "beth.nam@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1699",
+    "courseNumber": "101",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 70,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370739",
+        "displayName": "Park, Angela",
+        "emailAddress": "angela.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "MAYERS",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "2989",
+    "courseNumber": "101",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370739",
+        "displayName": "Park, Angela",
+        "emailAddress": "angela.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1700",
+    "courseNumber": "102",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Voice Class",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370855",
+        "displayName": "Balzun, Joel",
+        "emailAddress": "joel.d.balzun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "ANNEX 1",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1701",
+    "courseNumber": "102",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Voice Class",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370855",
+        "displayName": "Balzun, Joel",
+        "emailAddress": "joel.d.balzun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1220",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "ANNEX 1",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "2976",
+    "courseNumber": "105",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations and Principles of Music Therapy",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370858",
+        "displayName": "Borczon, Ronald",
+        "emailAddress": "ronald.borczon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "THIRTS",
+      "buildingDescription": "South Campus Thirties Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "32",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1702",
+    "courseNumber": "118",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Keyboard II",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370854",
+        "displayName": "Pak, Beth",
+        "emailAddress": "beth.nam@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1220",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1704",
+    "courseNumber": "119",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Keyboard III",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370853",
+        "displayName": "Lee, Hee-Seung",
+        "emailAddress": "hee.seung.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1320",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1706",
+    "courseNumber": "126",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Music Technology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1510",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "140",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1707",
+    "courseNumber": "126",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Music Technology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "140",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1756",
+    "courseNumber": "145",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Bassoon",
+    "courseTitle": "AppMus: Bassoon",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1757",
+    "courseNumber": "145",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Cello",
+    "courseTitle": "AppMus: Cello",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1758",
+    "courseNumber": "145",
+    "sequenceNumber": "03",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Clarinet",
+    "courseTitle": "AppMus: Clarinet",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1759",
+    "courseNumber": "145",
+    "sequenceNumber": "04",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Composition",
+    "courseTitle": "AppMus: Composition",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1760",
+    "courseNumber": "145",
+    "sequenceNumber": "05",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Contemporary Piano",
+    "courseTitle": "AppMus: Contemp Piano",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1762",
+    "courseNumber": "145",
+    "sequenceNumber": "06",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Contemporary Voice",
+    "courseTitle": "AppMus: Contemp Voice",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1763",
+    "courseNumber": "145",
+    "sequenceNumber": "07",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Drumset",
+    "courseTitle": "AppMus: Drumset",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1764",
+    "courseNumber": "145",
+    "sequenceNumber": "08",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Electric Bass",
+    "courseTitle": "AppMus: Electric Bass",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1765",
+    "courseNumber": "145",
+    "sequenceNumber": "09",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Electric Guitar",
+    "courseTitle": "AppMus: Electric Guitar",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1767",
+    "courseNumber": "145",
+    "sequenceNumber": "11",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Flute",
+    "courseTitle": "AppMus: Flute",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1768",
+    "courseNumber": "145",
+    "sequenceNumber": "12",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "French Horn",
+    "courseTitle": "AppMus: French Horm",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1769",
+    "courseNumber": "145",
+    "sequenceNumber": "13",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Guitar",
+    "courseTitle": "AppMus: Guitar",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1773",
+    "courseNumber": "145",
+    "sequenceNumber": "16",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Organ",
+    "courseTitle": "AppMus: Organ",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370856",
+        "displayName": "Hung, Li-Shan",
+        "emailAddress": "lishan.hung@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1774",
+    "courseNumber": "145",
+    "sequenceNumber": "17",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Percussion",
+    "courseTitle": "AppMus: Percussion",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1775",
+    "courseNumber": "145",
+    "sequenceNumber": "18",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Piano",
+    "courseTitle": "AppMus: Piano",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370856",
+        "displayName": "Hung, Li-Shan",
+        "emailAddress": "lishan.hung@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1776",
+    "courseNumber": "145",
+    "sequenceNumber": "19",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Saxophone",
+    "courseTitle": "AppMus: Saxophone",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370857",
+        "displayName": "Babad, Bruce",
+        "emailAddress": "bruce.babad@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1777",
+    "courseNumber": "145",
+    "sequenceNumber": "20",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Song Writing",
+    "courseTitle": "AppMus: Song Writing",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1779",
+    "courseNumber": "145",
+    "sequenceNumber": "23",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Trombone",
+    "courseTitle": "AppMus: Trombone",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1780",
+    "courseNumber": "145",
+    "sequenceNumber": "24",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Trumpet",
+    "courseTitle": "AppMus: Trumpet",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1782",
+    "courseNumber": "145",
+    "sequenceNumber": "26",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Viola",
+    "courseTitle": "AppMus: Viola",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370959",
+        "displayName": "Freeman, Elizabeth",
+        "emailAddress": "elizabeth.larson@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1783",
+    "courseNumber": "145",
+    "sequenceNumber": "27",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Violin",
+    "courseTitle": "AppMus: Violin",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1784",
+    "courseNumber": "145",
+    "sequenceNumber": "28",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Voice",
+    "courseTitle": "AppMus: Voice",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370960",
+        "displayName": "Robison, Carol",
+        "emailAddress": "jeanne.robison@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1785",
+    "courseNumber": "145",
+    "sequenceNumber": "29",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "MusEdSrRecitlCondctg-Instrmntl",
+    "courseTitle": "AppMus:MusEdSrRectlCndctg-Inst",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1786",
+    "courseNumber": "145",
+    "sequenceNumber": "30",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "MusEdSrRecitalConductng-Choral",
+    "courseTitle": "AppMus:MsEdSrRctlCndctg-Choral",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370845",
+        "displayName": "Stewart, Shawna",
+        "emailAddress": "shawna.cross.stewart@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1709",
+    "courseNumber": "153",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sight-Singing and Dictation I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370961",
+        "displayName": "Wills, Christopher",
+        "emailAddress": "christopher.wills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1720",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1710",
+    "courseNumber": "153",
+    "sequenceNumber": "03",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sight-Singing and Dictation I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370961",
+        "displayName": "Wills, Christopher",
+        "emailAddress": "christopher.wills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1620",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1712",
+    "courseNumber": "154",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Theory I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "124",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1713",
+    "courseNumber": "154",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Theory I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "124",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1714",
+    "courseNumber": "156",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Lyric Diction I",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370962",
+        "displayName": "Ali, Susan",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1450",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "122",
+      "days": [
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1716",
+    "courseNumber": "181",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Composition",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1220",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "ANNEX 1",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1717",
+    "courseNumber": "185",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Worship Foundations",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370963",
+        "displayName": "Cablay, Noelle",
+        "emailAddress": "noelle.cablay@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1720",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "ANNEX 1",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1718",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Concert Music",
+    "creditHours": null,
+    "maximumEnrollment": 100,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0930",
+      "endTime": "1015",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0.75,
+      "room": "LANSING",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1720",
+    "courseNumber": "205",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Music Education",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370739",
+        "displayName": "Park, Angela",
+        "emailAddress": "angela.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "ANNEX 1",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1721",
+    "courseNumber": "211",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Improvisation for Non Keyboardists: Concepts/Practices",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370847",
+        "displayName": "Kobayashi, Ron",
+        "emailAddress": "ron.kobayashi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1510",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "124",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "2977",
+    "courseNumber": "218",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Therapy Methods and Techniques",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370858",
+        "displayName": "Borczon, Ronald",
+        "emailAddress": "ronald.borczon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "THIRTS",
+      "buildingDescription": "South Campus Thirties Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "32",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1722",
+    "courseNumber": "261",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Keyboard Sight Reading I",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370849",
+        "displayName": "Kawamura, Manami",
+        "emailAddress": "manami.kawamura@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1830",
+      "endTime": "1920",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "105",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1719",
+    "courseNumber": "300",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Concert Music",
+    "creditHours": null,
+    "maximumEnrollment": 60,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0930",
+      "endTime": "1015",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 0.75,
+      "room": "LANSING",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1725",
+    "courseNumber": "309",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music History and Literature: Late Romantic Through Early 20th Century",
+    "creditHours": null,
+    "maximumEnrollment": 45,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1515",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "122",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1726",
+    "courseNumber": "310",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Music Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 7,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370739",
+        "displayName": "Park, Angela",
+        "emailAddress": "angela.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/18/2021",
+      "endDate": "09/18/2021",
+      "beginTime": "0830",
+      "endTime": "1430",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 6,
+      "room": "124",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1728",
+    "courseNumber": "310",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Music Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370739",
+        "displayName": "Park, Angela",
+        "emailAddress": "angela.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1310",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "124",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1729",
+    "courseNumber": "314",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Film Music",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370961",
+        "displayName": "Wills, Christopher",
+        "emailAddress": "christopher.wills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1730",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "122",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1730",
+    "courseNumber": "317",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Survey of Western Music I: Classical thru Mid-Twentieth Century",
+    "creditHours": null,
+    "maximumEnrollment": 45,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370964",
+        "displayName": "Wagner, Leonora",
+        "emailAddress": "leonora.k.wagner@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1700",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "122",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1731",
+    "courseNumber": "323",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Basic Conducting",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1300",
+      "endTime": "1350",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "ANNEX 1",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1732",
+    "courseNumber": "330",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Contemporary Music Issues",
+    "creditHours": 2,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1210",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "55",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "3018",
+    "courseNumber": "330",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Contemporary Music Issues",
+    "creditHours": 2,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1410",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "55",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1733",
+    "courseNumber": "338",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Music Methods",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370965",
+        "displayName": "Jordan, Craig",
+        "emailAddress": "craig.jordan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1930",
+      "endTime": "2110",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "124",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1734",
+    "courseNumber": "341",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Counterpoint",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1710",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "124",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1735",
+    "courseNumber": "347",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Technology and Production",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370961",
+        "displayName": "Wills, Christopher",
+        "emailAddress": "christopher.wills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1320",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "140",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1736",
+    "courseNumber": "353",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sight-Singing and Dictation III",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "124",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1737",
+    "courseNumber": "353",
+    "sequenceNumber": "02",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sight-Singing and Dictation III",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "124",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1739",
+    "courseNumber": "354",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Theory III",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "122",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1740",
+    "courseNumber": "354",
+    "sequenceNumber": "03",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Theory III",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "122",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1742",
+    "courseNumber": "359",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Education: Woodwinds",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370971",
+        "displayName": "Mason, James",
+        "emailAddress": "jay.mason@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1700",
+      "endTime": "1840",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "122",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1743",
+    "courseNumber": "368",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Pop Theory II for Worship and Commercial Music",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1701",
+      "endTime": "1840",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.65,
+      "room": "124",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1744",
+    "courseNumber": "370",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Junior Recital",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1745",
+    "courseNumber": "371",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Composing for New Media I: Film, TV, and Audio Production",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370972",
+        "displayName": "Watts, Michael",
+        "emailAddress": "michael.watts@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1900",
+      "endTime": "2040",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "123",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1747",
+    "courseNumber": "386",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Spiritual Formation and Worship",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370973",
+        "displayName": "Ahn, Michael",
+        "emailAddress": "mike.ahn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1120",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "122",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1748",
+    "courseNumber": "388",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Calling, Character, Competencies of the Worship Leader",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370974",
+        "displayName": "Alden, Sherri",
+        "emailAddress": "sherri.alden@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1510",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "102",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1749",
+    "courseNumber": "390",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Opera Theatre",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370960",
+        "displayName": "Robison, Carol",
+        "emailAddress": "jeanne.robison@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1659",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.48,
+      "room": "122",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1804",
+    "courseNumber": "423",
+    "sequenceNumber": "18",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Voice",
+    "courseTitle": "AppMus: Voice",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370960",
+        "displayName": "Robison, Carol",
+        "emailAddress": "jeanne.robison@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1750",
+    "courseNumber": "430",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Pedagogy: Voice",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370962",
+        "displayName": "Ali, Susan",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1300",
+      "endTime": "1350",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "122",
+      "days": [
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1807",
+    "courseNumber": "445",
+    "sequenceNumber": "03",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Clarinet",
+    "courseTitle": "AppMus: Clarinet",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1808",
+    "courseNumber": "445",
+    "sequenceNumber": "04",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Composition",
+    "courseTitle": "AppMus: Composition",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370790",
+        "displayName": "Denham, Robert",
+        "emailAddress": "robert.denham@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1809",
+    "courseNumber": "445",
+    "sequenceNumber": "05",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Contemporary Piano",
+    "courseTitle": "AppMus: Contemp Piano",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1810",
+    "courseNumber": "445",
+    "sequenceNumber": "06",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Contemporary Voice",
+    "courseTitle": "AppMus: Contemp Voice",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1812",
+    "courseNumber": "445",
+    "sequenceNumber": "08",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Electric Bass",
+    "courseTitle": "AppMus: Electric Bass",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1813",
+    "courseNumber": "445",
+    "sequenceNumber": "09",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Electric Guitar",
+    "courseTitle": "AppMus: Electric Guitar",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1814",
+    "courseNumber": "445",
+    "sequenceNumber": "10",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Euphonium",
+    "courseTitle": "AppMus: Euphonium",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1815",
+    "courseNumber": "445",
+    "sequenceNumber": "11",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Flute",
+    "courseTitle": "AppMus: Flute",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370846",
+        "displayName": "Feller, Robert",
+        "emailAddress": "robert.feller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1817",
+    "courseNumber": "445",
+    "sequenceNumber": "13",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Guitar",
+    "courseTitle": "AppMus: Guitar",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1820",
+    "courseNumber": "445",
+    "sequenceNumber": "16",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Percussion",
+    "courseTitle": "AppMus: Percussion",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370848",
+        "displayName": "Hulling, Cliff",
+        "emailAddress": "cliff.hulling@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1821",
+    "courseNumber": "445",
+    "sequenceNumber": "17",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Piano",
+    "courseTitle": "AppMus: Piano",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370856",
+        "displayName": "Hung, Li-Shan",
+        "emailAddress": "lishan.hung@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1822",
+    "courseNumber": "445",
+    "sequenceNumber": "18",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Saxophone",
+    "courseTitle": "AppMus: Saxophone",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370857",
+        "displayName": "Babad, Bruce",
+        "emailAddress": "bruce.babad@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1823",
+    "courseNumber": "445",
+    "sequenceNumber": "19",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Song Writing",
+    "courseTitle": "AppMus: Song Writing",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1828",
+    "courseNumber": "445",
+    "sequenceNumber": "24",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Viola",
+    "courseTitle": "AppMus: Viola",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370959",
+        "displayName": "Freeman, Elizabeth",
+        "emailAddress": "elizabeth.larson@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1829",
+    "courseNumber": "445",
+    "sequenceNumber": "25",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Violin",
+    "courseTitle": "AppMus: Violin",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370850",
+        "displayName": "Owen, Marlin",
+        "emailAddress": "marlin.owen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1830",
+    "courseNumber": "445",
+    "sequenceNumber": "26",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Voice",
+    "courseTitle": "AppMus: Voice",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370960",
+        "displayName": "Robison, Carol",
+        "emailAddress": "jeanne.robison@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1751",
+    "courseNumber": "452",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Worship Arts Forum",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370963",
+        "displayName": "Cablay, Noelle",
+        "emailAddress": "noelle.cablay@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1450",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "124",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "2785",
+    "courseNumber": "453",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Worship Internship",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 5,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370963",
+        "displayName": "Cablay, Noelle",
+        "emailAddress": "noelle.cablay@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1753",
+    "courseNumber": "470",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Senior Recital/Final Project",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1754",
+    "courseNumber": "472",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Senior Worship Recital/Portfolio",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370963",
+        "displayName": "Cablay, Noelle",
+        "emailAddress": "noelle.cablay@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MUSC",
+    "CRN": "1755",
+    "courseNumber": "490",
+    "sequenceNumber": "01",
+    "subjectDescription": "MUSC Music",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Senior Recital",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370851",
+        "displayName": "Askew, Jeffrey",
+        "emailAddress": "jeff.g.askew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

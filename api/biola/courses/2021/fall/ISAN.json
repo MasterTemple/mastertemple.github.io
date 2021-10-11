@@ -1,0 +1,156 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISAN",
+    "CRN": "2639",
+    "courseNumber": "507",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cultural Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 31,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370520",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISAN",
+    "CRN": "2376",
+    "courseNumber": "507",
+    "sequenceNumber": "02",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cultural Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370520",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "15B",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISAN",
+    "CRN": "2410",
+    "courseNumber": "751",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Social Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370522",
+        "displayName": "Greene, Katrina",
+        "emailAddress": "katrina.greene@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/23/2021",
+      "endDate": "10/30/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 9,
+      "room": "043",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISAN",
+    "CRN": "2643",
+    "courseNumber": "761",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISAN Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Culture and Transformation",
+    "creditHours": null,
+    "maximumEnrollment": 19,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370523",
+        "displayName": "Yeh, Allen",
+        "emailAddress": "allen.yeh@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1831",
+    "courseNumber": "711",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Doctoral Research Seminar I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370893",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0900",
+      "endTime": "0950",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "106",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1832",
+    "courseNumber": "712",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Doctoral Research Seminar II",
+    "creditHours": 3,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370893",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0800",
+      "endTime": "1020",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "106",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1833",
+    "courseNumber": "721",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370895",
+        "displayName": "Abouezzeddine, Tania",
+        "emailAddress": "tania.abouezzeddine@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1835",
+    "courseNumber": "721",
+    "sequenceNumber": "02",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370918",
+        "displayName": "Anderson, Tamara",
+        "emailAddress": "tamara.anderson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1837",
+    "courseNumber": "721",
+    "sequenceNumber": "04",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370550",
+        "displayName": "Brunt, Richard",
+        "emailAddress": "jason.brunt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1838",
+    "courseNumber": "721",
+    "sequenceNumber": "05",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370901",
+        "displayName": "Canada, Andrea",
+        "emailAddress": "andrea.canada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1842",
+    "courseNumber": "721",
+    "sequenceNumber": "09",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370893",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1843",
+    "courseNumber": "721",
+    "sequenceNumber": "10",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370908",
+        "displayName": "Hall, Miriam",
+        "emailAddress": "liz.hall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1844",
+    "courseNumber": "721",
+    "sequenceNumber": "11",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370896",
+        "displayName": "Hall, Todd",
+        "emailAddress": "todd.hall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1847",
+    "courseNumber": "721",
+    "sequenceNumber": "14",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370898",
+        "displayName": "Wang, David",
+        "emailAddress": "david.wang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1848",
+    "courseNumber": "721",
+    "sequenceNumber": "15",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 10,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370915",
+        "displayName": "Williams, John",
+        "emailAddress": "john.williams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSDS",
+    "CRN": "1850",
+    "courseNumber": "723",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSDS Psych: Research/Dissert",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "ABD Dissertation Completion",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370893",
+        "displayName": "Eltiti, Stacy",
+        "emailAddress": "stacy.eltiti@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

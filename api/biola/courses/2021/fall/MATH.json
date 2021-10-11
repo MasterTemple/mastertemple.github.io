@@ -1,0 +1,1038 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1167",
+    "courseNumber": "117",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Mathematics for Elementary Teachers I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "203",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1168",
+    "courseNumber": "117",
+    "sequenceNumber": "02",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Mathematics for Elementary Teachers I",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "203",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1169",
+    "courseNumber": "121",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Math Modeling",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370736",
+        "displayName": "Mills, Michael",
+        "emailAddress": "michael.mills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1850",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "042",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1170",
+    "courseNumber": "121",
+    "sequenceNumber": "02",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Math Modeling",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370736",
+        "displayName": "Mills, Michael",
+        "emailAddress": "michael.mills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1900",
+      "endTime": "1950",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "042",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1172",
+    "courseNumber": "122",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR: Real-World Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370838",
+        "displayName": "Weathers, Matthew",
+        "emailAddress": "matthew.weathers@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1420",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "042",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1178",
+    "courseNumber": "123",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR Topics in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1430",
+      "endTime": "1520",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1179",
+    "courseNumber": "123",
+    "sequenceNumber": "02",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "QR Topics in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1420",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.66,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "2037",
+    "courseNumber": "140",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Calculus",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370843",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "2038",
+    "courseNumber": "150",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Calculus I",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370788",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0910",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.5,
+      "room": "220",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "2039",
+    "courseNumber": "150",
+    "sequenceNumber": "02",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Calculus I",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370788",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1140",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.5,
+      "room": "220",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "2040",
+    "courseNumber": "150",
+    "sequenceNumber": "03",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Calculus I",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370843",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1440",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.5,
+      "room": "220",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "2871",
+    "courseNumber": "180",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Topics in Mathematics: QR for All Majors",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1180",
+    "courseNumber": "190",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370839",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1181",
+    "courseNumber": "190",
+    "sequenceNumber": "02",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370839",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "2726",
+    "courseNumber": "190",
+    "sequenceNumber": "03",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Business Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370709",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1183",
+    "courseNumber": "210",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Probability and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370788",
+        "displayName": "Yan, Yu",
+        "emailAddress": "yu.yan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1184",
+    "courseNumber": "210",
+    "sequenceNumber": "02",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Probability and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370840",
+        "displayName": "Ho, Long",
+        "emailAddress": "long.v.ho@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "04A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1185",
+    "courseNumber": "210",
+    "sequenceNumber": "03",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Probability and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370840",
+        "displayName": "Ho, Long",
+        "emailAddress": "long.v.ho@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "2041",
+    "courseNumber": "250",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Calculus III",
+    "creditHours": null,
+    "maximumEnrollment": 48,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370843",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0910",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1186",
+    "courseNumber": "291",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Linear Algebra",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370839",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1187",
+    "courseNumber": "291",
+    "sequenceNumber": "02",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Linear Algebra",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370839",
+        "displayName": "Marks, Justin",
+        "emailAddress": "justin.marks@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1188",
+    "courseNumber": "318",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biostatistics",
+    "creditHours": null,
+    "maximumEnrollment": 32,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370841",
+        "displayName": "Nelson, Gregory",
+        "emailAddress": "gregory.d.nelson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1189",
+    "courseNumber": "331",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Probability",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370842",
+        "displayName": "Wilson, Jason",
+        "emailAddress": "jason.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1190",
+    "courseNumber": "370",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Readings in Mathematics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370843",
+        "displayName": "DiMuro, Joseph",
+        "emailAddress": "joseph.dimuro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1550",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "041",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MATH",
+    "CRN": "1193",
+    "courseNumber": "415",
+    "sequenceNumber": "01",
+    "subjectDescription": "MATH Mathematics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Number Theory and the History of Mathematics",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 8,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370844",
+        "displayName": "Wolfe, David",
+        "emailAddress": "david.wolfe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

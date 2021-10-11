@@ -1,0 +1,2274 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2665",
+    "courseNumber": "100",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biological Principles",
+    "creditHours": null,
+    "maximumEnrollment": 21,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370610",
+        "displayName": "Lee, Hyuna",
+        "emailAddress": "hyuna.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2870",
+    "courseNumber": "100",
+    "sequenceNumber": "02",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biological Principles",
+    "creditHours": null,
+    "maximumEnrollment": 21,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370610",
+        "displayName": "Lee, Hyuna",
+        "emailAddress": "hyuna.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2138",
+    "courseNumber": "105",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biology for Educators",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370596",
+        "displayName": "McReynolds, Karen",
+        "emailAddress": "karen.mcreynolds@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 4,
+      "hoursWeek": 3.83,
+      "room": "159",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2139",
+    "courseNumber": "105",
+    "sequenceNumber": "02",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Biology for Educators",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370596",
+        "displayName": "McReynolds, Karen",
+        "emailAddress": "karen.mcreynolds@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 4,
+      "hoursWeek": 3.83,
+      "room": "159",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2140",
+    "courseNumber": "112",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Organismal Biology",
+    "creditHours": null,
+    "maximumEnrollment": 120,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370597",
+        "displayName": "Billock, Wendy",
+        "emailAddress": "wendy.billock@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2141",
+    "courseNumber": "114",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Fundamentals of Organismal Biology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370598",
+        "displayName": "Navarro, Chelsey",
+        "emailAddress": "chelsey.navarro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "156",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2142",
+    "courseNumber": "114",
+    "sequenceNumber": "L2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Fundamentals of Organismal Biology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370599",
+        "displayName": "Sun, Patrick",
+        "emailAddress": "patrick.sun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "156",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2143",
+    "courseNumber": "114",
+    "sequenceNumber": "L3",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Fundamentals of Organismal Biology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370600",
+        "displayName": "Vivanco, Caleb",
+        "emailAddress": "caleb.j.vivanco@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "156",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2144",
+    "courseNumber": "114",
+    "sequenceNumber": "L4",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Fundamentals of Organismal Biology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370598",
+        "displayName": "Navarro, Chelsey",
+        "emailAddress": "chelsey.navarro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "156",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2145",
+    "courseNumber": "114",
+    "sequenceNumber": "L5",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Fundamentals of Organismal Biology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370601",
+        "displayName": "Mayweather, Hailey",
+        "emailAddress": "hailey.a.mayweather@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "156",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2146",
+    "courseNumber": "114",
+    "sequenceNumber": "L6",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Fundamentals of Organismal Biology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370602",
+        "displayName": "Salcido, Ryan",
+        "emailAddress": "ryan.t.salcido@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "156",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2150",
+    "courseNumber": "114",
+    "sequenceNumber": "L9",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Fundamentals of Organismal Biology Laboratory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370598",
+        "displayName": "Navarro, Chelsey",
+        "emailAddress": "chelsey.navarro@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "159",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2668",
+    "courseNumber": "121",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nutrition",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370607",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2669",
+    "courseNumber": "121",
+    "sequenceNumber": "02",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nutrition",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370607",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2152",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sophomore Writing Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370597",
+        "displayName": "Billock, Wendy",
+        "emailAddress": "wendy.billock@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1430",
+      "endTime": "1529",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.98,
+      "room": "245",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2154",
+    "courseNumber": "236",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Human Anatomy and Physiology",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370603",
+        "displayName": "Galbadage, Don Thushara",
+        "emailAddress": "don.galbadage@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.75,
+      "room": "175",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2156",
+    "courseNumber": "254",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Human Anatomy",
+    "creditHours": 4,
+    "maximumEnrollment": 120,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "CALCHAPEL",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2157",
+    "courseNumber": "254",
+    "sequenceNumber": "KB1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Human Anatomy: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 12,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370605",
+        "displayName": "Havoonjian, Harvey",
+        "emailAddress": "harvey.havoonjian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0845",
+      "endTime": "1020",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.58,
+      "room": "043",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2159",
+    "courseNumber": "254",
+    "sequenceNumber": "KB3",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Human Anatomy: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 12,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370605",
+        "displayName": "Havoonjian, Harvey",
+        "emailAddress": "harvey.havoonjian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0845",
+      "endTime": "1020",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.58,
+      "room": "043",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2161",
+    "courseNumber": "254",
+    "sequenceNumber": "NB1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Human Anatomy: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 12,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370606",
+        "displayName": "Gray, Caleb",
+        "emailAddress": "caleb.m.gray@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1150",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "CALCHAPEL",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2162",
+    "courseNumber": "254",
+    "sequenceNumber": "NB2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Human Anatomy: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 12,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370606",
+        "displayName": "Gray, Caleb",
+        "emailAddress": "caleb.m.gray@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1150",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "CALCHAPEL",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2163",
+    "courseNumber": "254",
+    "sequenceNumber": "NB3",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Human Anatomy: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 12,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370606",
+        "displayName": "Gray, Caleb",
+        "emailAddress": "caleb.m.gray@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1150",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "CALCHAPEL",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2164",
+    "courseNumber": "254",
+    "sequenceNumber": "NB4",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Human Anatomy: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 12,
+    "waitCapacity": 8,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1150",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 1.33,
+      "room": "CALCHAPEL",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2166",
+    "courseNumber": "281",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physiology",
+    "creditHours": 4,
+    "maximumEnrollment": 112,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370607",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "MAYERS",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2168",
+    "courseNumber": "281",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 4,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2169",
+    "courseNumber": "281",
+    "sequenceNumber": "L2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370608",
+        "displayName": "Schacht, Kaelin",
+        "emailAddress": "kaelin.d.henry@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2170",
+    "courseNumber": "281",
+    "sequenceNumber": "L3",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2171",
+    "courseNumber": "281",
+    "sequenceNumber": "L4",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370608",
+        "displayName": "Schacht, Kaelin",
+        "emailAddress": "kaelin.d.henry@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2172",
+    "courseNumber": "281",
+    "sequenceNumber": "L5",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2174",
+    "courseNumber": "281",
+    "sequenceNumber": "L7",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Physiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370608",
+        "displayName": "Schacht, Kaelin",
+        "emailAddress": "kaelin.d.henry@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2167",
+    "courseNumber": "281",
+    "sequenceNumber": "PL",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Pre-Lab",
+    "courseTitle": "Physiology: Pre Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 112,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370607",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2175",
+    "courseNumber": "282",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Microbiology",
+    "creditHours": 4,
+    "maximumEnrollment": 80,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370609",
+        "displayName": "Collier, Logan",
+        "emailAddress": "logan.a.collier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2176",
+    "courseNumber": "282",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Microbiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370609",
+        "displayName": "Collier, Logan",
+        "emailAddress": "logan.a.collier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3.66,
+      "room": "241",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2177",
+    "courseNumber": "282",
+    "sequenceNumber": "L2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Microbiology: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370609",
+        "displayName": "Collier, Logan",
+        "emailAddress": "logan.a.collier@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3.66,
+      "room": "241",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2182",
+    "courseNumber": "310",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Prosection",
+    "creditHours": 1,
+    "maximumEnrollment": 6,
+    "waitCapacity": 4,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370606",
+        "displayName": "Gray, Caleb",
+        "emailAddress": "caleb.m.gray@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.83,
+      "room": "144",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2184",
+    "courseNumber": "311",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Neurobiology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370610",
+        "displayName": "Lee, Hyuna",
+        "emailAddress": "hyuna.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "351",
+      "days": [
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2185",
+    "courseNumber": "312",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cell and Molecular Biology",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370611",
+        "displayName": "Kim, Jinsil",
+        "emailAddress": "jinsil.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/29/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.5,
+      "room": "247",
+      "days": [
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2186",
+    "courseNumber": "322",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Cell and Molecular Biology",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370611",
+        "displayName": "Kim, Jinsil",
+        "emailAddress": "jinsil.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "243",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2187",
+    "courseNumber": "322",
+    "sequenceNumber": "L2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Laboratory in Cell and Molecular Biology",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 7,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370611",
+        "displayName": "Kim, Jinsil",
+        "emailAddress": "jinsil.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3.83,
+      "room": "243",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2189",
+    "courseNumber": "332",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Genetics",
+    "creditHours": 4,
+    "maximumEnrollment": 36,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370612",
+        "displayName": "Tresser, Jason",
+        "emailAddress": "jason.tresser@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2190",
+    "courseNumber": "332",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Genetics: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 14,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370612",
+        "displayName": "Tresser, Jason",
+        "emailAddress": "jason.tresser@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3.83,
+      "room": "353",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2191",
+    "courseNumber": "332",
+    "sequenceNumber": "L2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Genetics: Lab",
+    "creditHours": 0,
+    "maximumEnrollment": 14,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370612",
+        "displayName": "Tresser, Jason",
+        "emailAddress": "jason.tresser@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3.83,
+      "room": "353",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2193",
+    "courseNumber": "355",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Environmental Health: An Ecological Perspective",
+    "creditHours": 4,
+    "maximumEnrollment": 27,
+    "waitCapacity": 6,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370599",
+        "displayName": "Sun, Patrick",
+        "emailAddress": "patrick.sun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 4,
+      "hoursWeek": 2.5,
+      "room": "251",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "3071",
+    "courseNumber": "355",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Environmental Health: An Ecological Perspective",
+    "creditHours": 0,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370599",
+        "displayName": "Sun, Patrick",
+        "emailAddress": "patrick.sun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3.83,
+      "room": "245",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "3072",
+    "courseNumber": "355",
+    "sequenceNumber": "L2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Environmental Health: An Ecological Perspective",
+    "creditHours": 0,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370599",
+        "displayName": "Sun, Patrick",
+        "emailAddress": "patrick.sun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 3.83,
+      "room": "350",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2194",
+    "courseNumber": "411",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "General Biochemistry I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370612",
+        "displayName": "Tresser, Jason",
+        "emailAddress": "jason.tresser@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370613",
+        "displayName": "Johnson, Dana",
+        "emailAddress": "dana.johnson@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "0920",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2196",
+    "courseNumber": "431",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Developmental Biology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370612",
+        "displayName": "Tresser, Jason",
+        "emailAddress": "jason.tresser@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "245",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2197",
+    "courseNumber": "440",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Tp in Adv Bio: Design of Life",
+    "creditHours": 3,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370614",
+        "displayName": "Axe, Douglas",
+        "emailAddress": "douglas.axe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/28/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 2.5,
+      "room": "247",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2198",
+    "courseNumber": "450",
+    "sequenceNumber": "L1",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Dir Res: Zebra Fish",
+    "creditHours": 2,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370610",
+        "displayName": "Lee, Hyuna",
+        "emailAddress": "hyuna.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "124",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2199",
+    "courseNumber": "450",
+    "sequenceNumber": "L2",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Dir Res: Kidney Cannulation",
+    "creditHours": 1,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2200",
+    "courseNumber": "450",
+    "sequenceNumber": "L3",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Dir Res: Computational Biology",
+    "creditHours": 2,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370614",
+        "displayName": "Axe, Douglas",
+        "emailAddress": "douglas.axe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1600",
+      "endTime": "1800",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 6,
+      "room": "279",
+      "days": [
+        "M",
+        "W",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2201",
+    "courseNumber": "450",
+    "sequenceNumber": "L4",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Dir Res: Cell Signaling",
+    "creditHours": 2,
+    "maximumEnrollment": 6,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370611",
+        "displayName": "Kim, Jinsil",
+        "emailAddress": "jinsil.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 5.83,
+      "room": "275",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2202",
+    "courseNumber": "450",
+    "sequenceNumber": "L5",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Dir Res: Environmental Stress",
+    "creditHours": 1,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370599",
+        "displayName": "Sun, Patrick",
+        "emailAddress": "patrick.sun@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "279",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2999",
+    "courseNumber": "450",
+    "sequenceNumber": "L7",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Dir Res: Diet &amp; Thyroid",
+    "creditHours": 1,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370604",
+        "displayName": "Ng, Kit",
+        "emailAddress": "kit.ng@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "175",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2204",
+    "courseNumber": "460",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "AR: Clinical Observation Prac",
+    "creditHours": 1,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370605",
+        "displayName": "Havoonjian, Harvey",
+        "emailAddress": "harvey.havoonjian@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BIOS",
+    "CRN": "2205",
+    "courseNumber": "470",
+    "sequenceNumber": "01",
+    "subjectDescription": "BIOS Biological Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Seminar in Advanced Biology",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370607",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1220",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "05B",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

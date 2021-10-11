@@ -1,0 +1,128 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSTH",
+    "CRN": "1906",
+    "courseNumber": "515",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSTH Psych: Theo/Biblical Std",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theological and Psychological Anthropology I",
+    "creditHours": null,
+    "maximumEnrollment": 32,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370896",
+        "displayName": "Hall, Todd",
+        "emailAddress": "todd.hall@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370713",
+        "displayName": "Porter, Steven",
+        "emailAddress": "steve.porter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1400",
+      "endTime": "1540",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "101",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSTH",
+    "CRN": "1907",
+    "courseNumber": "540",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSTH Psych: Theo/Biblical Std",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology I: Theoretical Foundations of Integration",
+    "creditHours": null,
+    "maximumEnrollment": 32,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370713",
+        "displayName": "Porter, Steven",
+        "emailAddress": "steve.porter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1530",
+      "endTime": "1710",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.66,
+      "room": "101",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSTH",
+    "CRN": "1908",
+    "courseNumber": "614",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSTH Psych: Theo/Biblical Std",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theology IV: Biblical Interpretation and New Testament Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 32,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370909",
+        "displayName": "McMartin, Jason",
+        "emailAddress": "jason.mcmartin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "008",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SHNR",
+    "CRN": "1425",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "SHNR Stewart Honors",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Stewart Science Honors Seminar I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0.5,
+    "faculty": [
+      {
+        "bannerId": "370607",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1630",
+      "endTime": "1720",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0.5,
+      "hoursWeek": 0.83,
+      "room": "042",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SHNR",
+    "CRN": "1426",
+    "courseNumber": "400",
+    "sequenceNumber": "01",
+    "subjectDescription": "SHNR Stewart Honors",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "StewartSciHnrsSem II: TopicTBA",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 0.5,
+    "faculty": [
+      {
+        "bannerId": "370607",
+        "displayName": "Varamini, Behzad",
+        "emailAddress": "behzad.varamini@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1630",
+      "endTime": "1720",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0.5,
+      "hoursWeek": 0.83,
+      "room": "109",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

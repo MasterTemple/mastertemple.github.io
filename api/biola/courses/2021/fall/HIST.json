@@ -1,0 +1,796 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1104",
+    "courseNumber": "100",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations I",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370793",
+        "displayName": "Lenz, Darin",
+        "emailAddress": "darin.lenz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "117",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1105",
+    "courseNumber": "100",
+    "sequenceNumber": "02",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations I",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370794",
+        "displayName": "Mills-Robbins, Ruth",
+        "emailAddress": "ruth.mills-robbins@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "125",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1106",
+    "courseNumber": "100",
+    "sequenceNumber": "03",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations I",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370794",
+        "displayName": "Mills-Robbins, Ruth",
+        "emailAddress": "ruth.mills-robbins@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "214",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1107",
+    "courseNumber": "100",
+    "sequenceNumber": "04",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations I",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370795",
+        "displayName": "Jimenez, Michael",
+        "emailAddress": "michael.jimenez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "117",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1108",
+    "courseNumber": "101",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations II",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370796",
+        "displayName": "Katin, William",
+        "emailAddress": "bill.katin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "125",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1109",
+    "courseNumber": "101",
+    "sequenceNumber": "02",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations II",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370797",
+        "displayName": "Chae, Andrew",
+        "emailAddress": "andrew.j.chae@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "118",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1110",
+    "courseNumber": "101",
+    "sequenceNumber": "03",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations II",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370796",
+        "displayName": "Katin, William",
+        "emailAddress": "bill.katin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1111",
+    "courseNumber": "101",
+    "sequenceNumber": "04",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Civilizations II",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370797",
+        "displayName": "Chae, Andrew",
+        "emailAddress": "andrew.j.chae@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "118",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1112",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "United States History To 1865",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370794",
+        "displayName": "Mills-Robbins, Ruth",
+        "emailAddress": "ruth.mills-robbins@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "128",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1113",
+    "courseNumber": "200",
+    "sequenceNumber": "02",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "United States History To 1865",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370798",
+        "displayName": "McMullen, Kenneth",
+        "emailAddress": "ken.mcmullen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "125",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "2967",
+    "courseNumber": "200",
+    "sequenceNumber": "03",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "United States History To 1865",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370798",
+        "displayName": "McMullen, Kenneth",
+        "emailAddress": "ken.mcmullen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1114",
+    "courseNumber": "201",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "United States History Since 1865",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370799",
+        "displayName": "Riggin, Lisa",
+        "emailAddress": "lisa.riggin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "118",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1115",
+    "courseNumber": "201",
+    "sequenceNumber": "02",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "United States History Since 1865",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370793",
+        "displayName": "Lenz, Darin",
+        "emailAddress": "darin.lenz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "207",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1116",
+    "courseNumber": "201",
+    "sequenceNumber": "03",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "United States History Since 1865",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370800",
+        "displayName": "Esau, Joshua",
+        "emailAddress": "joshua.esau@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1117",
+    "courseNumber": "201",
+    "sequenceNumber": "04",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "United States History Since 1865",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370799",
+        "displayName": "Riggin, Lisa",
+        "emailAddress": "lisa.riggin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1118",
+    "courseNumber": "290",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research Methods in History",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370793",
+        "displayName": "Lenz, Darin",
+        "emailAddress": "darin.lenz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1119",
+    "courseNumber": "307",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Colonial Period, American Revolution, 1607&ndash;1800",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370801",
+        "displayName": "Lim, Susan",
+        "emailAddress": "susan.lim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "114",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "2864",
+    "courseNumber": "424",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Twentieth Century Europe",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370793",
+        "displayName": "Lenz, Darin",
+        "emailAddress": "darin.lenz@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "128",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HIST",
+    "CRN": "1123",
+    "courseNumber": "480",
+    "sequenceNumber": "01",
+    "subjectDescription": "HIST History",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Research Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370801",
+        "displayName": "Lim, Susan",
+        "emailAddress": "susan.lim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "125",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

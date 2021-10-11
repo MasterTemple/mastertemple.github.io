@@ -1,0 +1,31 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTTS",
+    "CRN": "3197",
+    "courseNumber": "718",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTTS Theo Studies Digital-ITS",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "The Gospel of Luke",
+    "creditHours": null,
+    "maximumEnrollment": 50,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1092",
+    "courseNumber": "208",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Politics",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370886",
+        "displayName": "Milosch, Timothy",
+        "emailAddress": "timothy.a.milosch@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1094",
+    "courseNumber": "225",
+    "sequenceNumber": "02",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Survey of American Government",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370886",
+        "displayName": "Milosch, Timothy",
+        "emailAddress": "timothy.a.milosch@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "05A",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1095",
+    "courseNumber": "225",
+    "sequenceNumber": "03",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Survey of American Government",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370887",
+        "displayName": "Lake, Joseph",
+        "emailAddress": "joseph.j.lake@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "06C",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "3127",
+    "courseNumber": "225",
+    "sequenceNumber": "04",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Survey of American Government",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370783",
+        "displayName": "Waller, Scott",
+        "emailAddress": "scott.waller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1096",
+    "courseNumber": "250",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of the American Political System",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370783",
+        "displayName": "Waller, Scott",
+        "emailAddress": "scott.waller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "108",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1098",
+    "courseNumber": "301",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Fundamentals of Public Administration",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370888",
+        "displayName": "Lanning, Paul",
+        "emailAddress": "paul.lanning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "113",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1099",
+    "courseNumber": "351",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Political Philosophy &ndash; Modern",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370783",
+        "displayName": "Waller, Scott",
+        "emailAddress": "scott.waller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "109",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1102",
+    "courseNumber": "409",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Strategic Intelligence",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370889",
+        "displayName": "Castile, Christopher",
+        "emailAddress": "chris.castile@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "114",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1100",
+    "courseNumber": "430",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Church and State Relations",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370783",
+        "displayName": "Waller, Scott",
+        "emailAddress": "scott.waller@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "116",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "2732",
+    "courseNumber": "490",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship in Political Science",
+    "creditHours": 3,
+    "maximumEnrollment": 7,
+    "waitCapacity": 5,
+    "creditHourHigh": 9,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "POSC",
+    "CRN": "1103",
+    "courseNumber": "499",
+    "sequenceNumber": "01",
+    "subjectDescription": "POSC Political Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370890",
+        "displayName": "Guerra, Darren",
+        "emailAddress": "darren.guerra@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "116",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  }
+]

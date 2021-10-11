@@ -1,0 +1,84 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BLHE",
+    "CRN": "2453",
+    "courseNumber": "101",
+    "sequenceNumber": "01",
+    "subjectDescription": "BLHE Hebrew",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Hebrew Grammar I",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370791",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "108",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BLHE",
+    "CRN": "3196",
+    "courseNumber": "202",
+    "sequenceNumber": "01",
+    "subjectDescription": "BLHE Hebrew",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Hebrew Grammar II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370792",
+        "displayName": "Mosbarger, Joy",
+        "emailAddress": "joy.mosbarger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  }
+]

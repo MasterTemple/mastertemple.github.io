@@ -1,0 +1,74 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSTN",
+    "CRN": "1909",
+    "courseNumber": "731",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSTN Psych: Internship",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Full-Time Internship in Clinical Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370899",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSTN",
+    "CRN": "3144",
+    "courseNumber": "734",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSTN Psych: Internship",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Internship in Clinical Psychology - Fall Continuation",
+    "creditHours": null,
+    "maximumEnrollment": 1,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370899",
+        "displayName": "Crawford, Nancy",
+        "emailAddress": "nancy.crawford@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

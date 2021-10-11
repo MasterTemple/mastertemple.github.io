@@ -1,0 +1,2760 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1911",
+    "courseNumber": "100",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing with Studio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370670",
+        "displayName": "Alura, Aarika Leigh",
+        "emailAddress": "aarika.alura@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5,
+      "room": "114",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1912",
+    "courseNumber": "100",
+    "sequenceNumber": "02",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing with Studio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370670",
+        "displayName": "Alura, Aarika Leigh",
+        "emailAddress": "aarika.alura@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5,
+      "room": "200",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1913",
+    "courseNumber": "100",
+    "sequenceNumber": "03",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing with Studio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370749",
+        "displayName": "Watson, Christine",
+        "emailAddress": "christine.watson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5,
+      "room": "116",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1914",
+    "courseNumber": "100",
+    "sequenceNumber": "04",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing with Studio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370749",
+        "displayName": "Watson, Christine",
+        "emailAddress": "christine.watson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5,
+      "room": "114",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1915",
+    "courseNumber": "100",
+    "sequenceNumber": "05",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing with Studio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370750",
+        "displayName": "Song, Alice",
+        "emailAddress": "alice.song@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5,
+      "room": "114",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1916",
+    "courseNumber": "100",
+    "sequenceNumber": "06",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing with Studio",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370750",
+        "displayName": "Song, Alice",
+        "emailAddress": "alice.song@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5,
+      "room": "115",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1918",
+    "courseNumber": "112",
+    "sequenceNumber": "02",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370751",
+        "displayName": "Springer, Leanne",
+        "emailAddress": "leanne.e.springer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "114",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1919",
+    "courseNumber": "112",
+    "sequenceNumber": "03",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370752",
+        "displayName": "Sprowl, Dale",
+        "emailAddress": "dale.sprowl@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "200",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1920",
+    "courseNumber": "112",
+    "sequenceNumber": "04",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370752",
+        "displayName": "Sprowl, Dale",
+        "emailAddress": "dale.sprowl@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "200",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1921",
+    "courseNumber": "112",
+    "sequenceNumber": "05",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370753",
+        "displayName": "Buchanan, Paul",
+        "emailAddress": "paul.buchanan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "214",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1923",
+    "courseNumber": "112",
+    "sequenceNumber": "07",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370754",
+        "displayName": "Warde, Ariana",
+        "emailAddress": "ariana.warde@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "07B",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1925",
+    "courseNumber": "112",
+    "sequenceNumber": "09",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370753",
+        "displayName": "Buchanan, Paul",
+        "emailAddress": "paul.buchanan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1926",
+    "courseNumber": "112",
+    "sequenceNumber": "10",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370755",
+        "displayName": "McKowan, Chante",
+        "emailAddress": "chante.mckowan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "003",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1927",
+    "courseNumber": "112",
+    "sequenceNumber": "11",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370754",
+        "displayName": "Warde, Ariana",
+        "emailAddress": "ariana.warde@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "110",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1934",
+    "courseNumber": "112",
+    "sequenceNumber": "17",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I: CMA",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370756",
+        "displayName": "Grothe, Katherine",
+        "emailAddress": "katherine.grothe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "114",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1935",
+    "courseNumber": "112",
+    "sequenceNumber": "18",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370755",
+        "displayName": "McKowan, Chante",
+        "emailAddress": "chante.mckowan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1936",
+    "courseNumber": "112",
+    "sequenceNumber": "19",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370756",
+        "displayName": "Grothe, Katherine",
+        "emailAddress": "katherine.grothe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1938",
+    "courseNumber": "112",
+    "sequenceNumber": "21",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370757",
+        "displayName": "Barraza, Gregory",
+        "emailAddress": "gregory.barraza@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1940",
+    "courseNumber": "112",
+    "sequenceNumber": "23",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370758",
+        "displayName": "Salisberry, Jamila",
+        "emailAddress": "jamila.salisberry@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "114",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1941",
+    "courseNumber": "112",
+    "sequenceNumber": "24",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Critical Thinking and Writing",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370758",
+        "displayName": "Salisberry, Jamila",
+        "emailAddress": "jamila.salisberry@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1930",
+      "endTime": "2045",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "114",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2834",
+    "courseNumber": "112",
+    "sequenceNumber": "25",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Studies in Critical Thinking and Writing",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370770",
+        "displayName": "Spencer, Kasey",
+        "emailAddress": "kasey.spencer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "3095",
+    "courseNumber": "220",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Literature and Film",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370632",
+        "displayName": "Mauzey, Andrew",
+        "emailAddress": "andrew.mauzey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1988",
+    "courseNumber": "230",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TDL: Dystopian Lit &amp; Film",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370765",
+        "displayName": "Kleist, Aaron",
+        "emailAddress": "aaron.kleist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "214",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1989",
+    "courseNumber": "230",
+    "sequenceNumber": "02",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TDL: Dystopian Lit &amp; Film",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370765",
+        "displayName": "Kleist, Aaron",
+        "emailAddress": "aaron.kleist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "214",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1992",
+    "courseNumber": "245",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Composition",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370753",
+        "displayName": "Buchanan, Paul",
+        "emailAddress": "paul.buchanan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "214",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1993",
+    "courseNumber": "252",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "British Literature II",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370766",
+        "displayName": "Williamson, Bethany",
+        "emailAddress": "bethany.williamson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1995",
+    "courseNumber": "283",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Race and Ethnicity in American Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370767",
+        "displayName": "Garcia, Shelley",
+        "emailAddress": "shelley.garcia@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1996",
+    "courseNumber": "283",
+    "sequenceNumber": "02",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Race and Ethnicity in American Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370767",
+        "displayName": "Garcia, Shelley",
+        "emailAddress": "shelley.garcia@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1997",
+    "courseNumber": "283",
+    "sequenceNumber": "03",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Race and Ethnicity in American Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370768",
+        "displayName": "Park, Haein",
+        "emailAddress": "haein.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "13A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1998",
+    "courseNumber": "283",
+    "sequenceNumber": "04",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Race and Ethnicity in American Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370768",
+        "displayName": "Park, Haein",
+        "emailAddress": "haein.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "13A",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1999",
+    "courseNumber": "283",
+    "sequenceNumber": "05",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Race and Ethnicity in American Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370769",
+        "displayName": "Malandra, Marc",
+        "emailAddress": "marc.malandra@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2000",
+    "courseNumber": "283",
+    "sequenceNumber": "06",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Race and Ethnicity in American Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370769",
+        "displayName": "Malandra, Marc",
+        "emailAddress": "marc.malandra@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2001",
+    "courseNumber": "290",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370769",
+        "displayName": "Malandra, Marc",
+        "emailAddress": "marc.malandra@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2003",
+    "courseNumber": "290",
+    "sequenceNumber": "03",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370766",
+        "displayName": "Williamson, Bethany",
+        "emailAddress": "bethany.williamson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2004",
+    "courseNumber": "290",
+    "sequenceNumber": "04",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370766",
+        "displayName": "Williamson, Bethany",
+        "emailAddress": "bethany.williamson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "3029",
+    "courseNumber": "290",
+    "sequenceNumber": "05",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370765",
+        "displayName": "Kleist, Aaron",
+        "emailAddress": "aaron.kleist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "118",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "3140",
+    "courseNumber": "290",
+    "sequenceNumber": "06",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Literature",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370765",
+        "displayName": "Kleist, Aaron",
+        "emailAddress": "aaron.kleist@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1943",
+    "courseNumber": "313",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 12,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370759",
+        "displayName": "Holbrook, Taylor",
+        "emailAddress": "taylor.j.holbrook@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1944",
+    "courseNumber": "313",
+    "sequenceNumber": "02",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines: BUSN &amp; ACCT",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370631",
+        "displayName": "Shober, Gladys",
+        "emailAddress": "dianne.shober@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1946",
+    "courseNumber": "313",
+    "sequenceNumber": "03",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines: BUSN &amp; ACCT",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370631",
+        "displayName": "Shober, Gladys",
+        "emailAddress": "dianne.shober@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "111",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1949",
+    "courseNumber": "313",
+    "sequenceNumber": "05",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370760",
+        "displayName": "Davidson, Christopher",
+        "emailAddress": "christopher.davidson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "200",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1950",
+    "courseNumber": "313",
+    "sequenceNumber": "06",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines: Science &amp; Engineering",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370761",
+        "displayName": "Wong, Elaine",
+        "emailAddress": "elaine.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "11C",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1951",
+    "courseNumber": "313",
+    "sequenceNumber": "07",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370760",
+        "displayName": "Davidson, Christopher",
+        "emailAddress": "christopher.davidson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "106",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1952",
+    "courseNumber": "313",
+    "sequenceNumber": "08",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370762",
+        "displayName": "Bell, Korey",
+        "emailAddress": "korey.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "114",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1953",
+    "courseNumber": "313",
+    "sequenceNumber": "09",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370757",
+        "displayName": "Barraza, Gregory",
+        "emailAddress": "gregory.barraza@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "111",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1954",
+    "courseNumber": "313",
+    "sequenceNumber": "10",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines: CMA",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370762",
+        "displayName": "Bell, Korey",
+        "emailAddress": "korey.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "116",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1955",
+    "courseNumber": "313",
+    "sequenceNumber": "11",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370763",
+        "displayName": "Banez, Allen",
+        "emailAddress": "allen.banez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "116",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1956",
+    "courseNumber": "313",
+    "sequenceNumber": "12",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines: BUSN &amp; ACCT",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370632",
+        "displayName": "Mauzey, Andrew",
+        "emailAddress": "andrew.mauzey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1115",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 1.5,
+      "room": "110",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "1958",
+    "courseNumber": "313",
+    "sequenceNumber": "13",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines: Journalism",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370764",
+        "displayName": "Longinow, Michael",
+        "emailAddress": "michael.longinow@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "200",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2836",
+    "courseNumber": "313",
+    "sequenceNumber": "14",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Post Trad Program: Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370771",
+        "displayName": "Stryffeler, Christina",
+        "emailAddress": "christina.stryffeler@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2837",
+    "courseNumber": "313",
+    "sequenceNumber": "15",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Post Trad Program: Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370632",
+        "displayName": "Mauzey, Andrew",
+        "emailAddress": "andrew.mauzey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2970",
+    "courseNumber": "313",
+    "sequenceNumber": "16",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines: Liberal Studies",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370733",
+        "displayName": "Lewis, Dawn",
+        "emailAddress": "dawn.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "3003",
+    "courseNumber": "313",
+    "sequenceNumber": "17",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370763",
+        "displayName": "Banez, Allen",
+        "emailAddress": "allen.banez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "103",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "3004",
+    "courseNumber": "313",
+    "sequenceNumber": "18",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370759",
+        "displayName": "Holbrook, Taylor",
+        "emailAddress": "taylor.j.holbrook@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "3006",
+    "courseNumber": "313",
+    "sequenceNumber": "20",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Writing in the Disciplines",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370632",
+        "displayName": "Mauzey, Andrew",
+        "emailAddress": "andrew.mauzey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2005",
+    "courseNumber": "320",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Grammar and Language",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "115",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2006",
+    "courseNumber": "343",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Creative Writing: Poetry",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370760",
+        "displayName": "Davidson, Christopher",
+        "emailAddress": "christopher.davidson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2007",
+    "courseNumber": "344",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Creative Writing: Fiction",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370753",
+        "displayName": "Buchanan, Paul",
+        "emailAddress": "paul.buchanan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2009",
+    "courseNumber": "360",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SAL:Realism&amp;Naturlsm in Am Lit",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370768",
+        "displayName": "Park, Haein",
+        "emailAddress": "haein.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "116",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2010",
+    "courseNumber": "370",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SBL:Environment &amp; the18th Cent",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370766",
+        "displayName": "Williamson, Bethany",
+        "emailAddress": "bethany.williamson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "115",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2011",
+    "courseNumber": "390",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Critical Theory",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370769",
+        "displayName": "Malandra, Marc",
+        "emailAddress": "marc.malandra@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "115",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2012",
+    "courseNumber": "410",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSW: Digital Lit &amp; New Media",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2013",
+    "courseNumber": "415",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Technical and Digital Communication",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "3128",
+    "courseNumber": "433",
+    "sequenceNumber": "02",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "CSET Preparation Class",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370756",
+        "displayName": "Grothe, Katherine",
+        "emailAddress": "katherine.grothe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "04B",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2015",
+    "courseNumber": "440",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SMA: Toni Morrison",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 16,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370767",
+        "displayName": "Garcia, Shelley",
+        "emailAddress": "shelley.garcia@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "117",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ENGL",
+    "CRN": "2731",
+    "courseNumber": "490",
+    "sequenceNumber": "01",
+    "subjectDescription": "ENGL English",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "English Practicum",
+    "creditHours": 3,
+    "maximumEnrollment": 3,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

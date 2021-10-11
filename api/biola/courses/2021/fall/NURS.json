@@ -1,0 +1,1662 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1530",
+    "courseNumber": "112",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Professional Nursing",
+    "creditHours": null,
+    "maximumEnrollment": 115,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370782",
+        "displayName": "Gramatky, Shannon",
+        "emailAddress": "shannon.gramatky@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370860",
+        "displayName": "Campbell, Donell",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 1,
+      "hoursWeek": 1.25,
+      "room": "109",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "2496",
+    "courseNumber": "204",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Essentials of Clinical Nursing Pharmacology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370868",
+        "displayName": "Allen, Electra",
+        "emailAddress": "electra.allen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1531",
+    "courseNumber": "209",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nursing of the Patient/Family I - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370861",
+        "displayName": "Dixon, Maria",
+        "emailAddress": "maria.dixon@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370862",
+        "displayName": "Styffe, Glenn",
+        "emailAddress": "glenn.styffe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0930",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 4,
+      "hoursWeek": 2,
+      "room": "043",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1532",
+    "courseNumber": "212",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family I - Clinical",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370862",
+        "displayName": "Styffe, Glenn",
+        "emailAddress": "glenn.styffe@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 3,
+      "hoursWeek": 15,
+      "room": "LOCATION",
+      "days": [
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1533",
+    "courseNumber": "213",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family I - Nursing Application Lab",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370862",
+        "displayName": "Styffe, Glenn",
+        "emailAddress": "glenn.styffe@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370863",
+        "displayName": "Meadows, Lori",
+        "emailAddress": "lori.meadows@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1230",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "201",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1534",
+    "courseNumber": "213",
+    "sequenceNumber": "02",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family I - Nursing Application Lab",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370862",
+        "displayName": "Styffe, Glenn",
+        "emailAddress": "glenn.styffe@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370863",
+        "displayName": "Meadows, Lori",
+        "emailAddress": "lori.meadows@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1300",
+      "endTime": "1500",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "201",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1535",
+    "courseNumber": "213",
+    "sequenceNumber": "03",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family I - Nursing Application Lab",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370862",
+        "displayName": "Styffe, Glenn",
+        "emailAddress": "glenn.styffe@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370863",
+        "displayName": "Meadows, Lori",
+        "emailAddress": "lori.meadows@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1730",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "201",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1536",
+    "courseNumber": "216",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nursing of the Patient/Family II - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370864",
+        "displayName": "Henderson, Tammy",
+        "emailAddress": "tammy.henderson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "0920",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 0.83,
+      "room": "042",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1537",
+    "courseNumber": "218",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family II - Clinical",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370864",
+        "displayName": "Henderson, Tammy",
+        "emailAddress": "tammy.henderson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "LOCATION",
+      "days": [
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1538",
+    "courseNumber": "218",
+    "sequenceNumber": "D1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Discussion",
+    "courseTitle": "Nursing of the Patient/Family II - Clinical",
+    "creditHours": 0,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370864",
+        "displayName": "Henderson, Tammy",
+        "emailAddress": "tammy.henderson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1130",
+      "endTime": "1229",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 0.98,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1539",
+    "courseNumber": "218",
+    "sequenceNumber": "D2",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Discussion",
+    "courseTitle": "Nursing of the Patient/Family II - Clinical",
+    "creditHours": 0,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370864",
+        "displayName": "Henderson, Tammy",
+        "emailAddress": "tammy.henderson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1330",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1540",
+    "courseNumber": "219",
+    "sequenceNumber": "L1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family II - Nursing Application Lab",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370864",
+        "displayName": "Henderson, Tammy",
+        "emailAddress": "tammy.henderson@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370865",
+        "displayName": "Comer, Heidi",
+        "emailAddress": "heidi.comer@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1229",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 1.98,
+      "room": "051",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1541",
+    "courseNumber": "219",
+    "sequenceNumber": "L2",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family II - Nursing Application Lab",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370864",
+        "displayName": "Henderson, Tammy",
+        "emailAddress": "tammy.henderson@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370865",
+        "displayName": "Comer, Heidi",
+        "emailAddress": "heidi.comer@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1300",
+      "endTime": "1500",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "051",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1542",
+    "courseNumber": "219",
+    "sequenceNumber": "L3",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family II - Nursing Application Lab",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370864",
+        "displayName": "Henderson, Tammy",
+        "emailAddress": "tammy.henderson@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370865",
+        "displayName": "Comer, Heidi",
+        "emailAddress": "heidi.comer@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1730",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "051",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1543",
+    "courseNumber": "306",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nursing Assessment of the Patient - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370866",
+        "displayName": "Bacon, Penny",
+        "emailAddress": "penny.bacon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0920",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "042",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1544",
+    "courseNumber": "307",
+    "sequenceNumber": "L1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing Assessment of the Patient - Clinical",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370737",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1230",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "201",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1545",
+    "courseNumber": "307",
+    "sequenceNumber": "L2",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing Assessment of the Patient - Clinical",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370737",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1529",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 1.98,
+      "room": "201",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1546",
+    "courseNumber": "307",
+    "sequenceNumber": "L3",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing Assessment of the Patient - Clinical",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370737",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1730",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 2,
+      "room": "201",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1547",
+    "courseNumber": "341",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nursing of the Mental Health Patient/Family - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370737",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1700",
+      "endTime": "1850",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "043",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1548",
+    "courseNumber": "345",
+    "sequenceNumber": "L1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Mental Health Patient/Family - Clinical",
+    "creditHours": 1.5,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 1.5,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370737",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1.5,
+      "hoursWeek": 1.5,
+      "room": "LOCATION",
+      "days": [
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1549",
+    "courseNumber": "347",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Women&#39;s Health - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370866",
+        "displayName": "Bacon, Penny",
+        "emailAddress": "penny.bacon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "0730",
+      "endTime": "0920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "106",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1550",
+    "courseNumber": "347",
+    "sequenceNumber": "02",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Women&#39;s Health - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370866",
+        "displayName": "Bacon, Penny",
+        "emailAddress": "penny.bacon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "106",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1551",
+    "courseNumber": "349",
+    "sequenceNumber": "L01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Introduction to Women&#39;s Health - Clinical",
+    "creditHours": 1.5,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 1.5,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370866",
+        "displayName": "Bacon, Penny",
+        "emailAddress": "penny.bacon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1.5,
+      "hoursWeek": 25,
+      "room": "LOCATION",
+      "days": [
+        "M",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1552",
+    "courseNumber": "351",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nursing of the Older Adult Patient/Family - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370867",
+        "displayName": "Loyola, Ruby",
+        "emailAddress": "ruby.loyola@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0920",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "042",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1553",
+    "courseNumber": "353",
+    "sequenceNumber": "L1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Older Adult Patient/Family - Clinical",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370867",
+        "displayName": "Loyola, Ruby",
+        "emailAddress": "ruby.loyola@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "LOCATION",
+      "days": [
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1554",
+    "courseNumber": "355",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Pediatric Nursing - Theory",
+    "creditHours": 2,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370868",
+        "displayName": "Allen, Electra",
+        "emailAddress": "electra.allen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "0730",
+      "endTime": "0920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "003",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1555",
+    "courseNumber": "355",
+    "sequenceNumber": "02",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Pediatric Nursing - Theory",
+    "creditHours": 2,
+    "maximumEnrollment": 20,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370868",
+        "displayName": "Allen, Electra",
+        "emailAddress": "electra.allen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0730",
+      "endTime": "0920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "003",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1556",
+    "courseNumber": "357",
+    "sequenceNumber": "L01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Pediatric Nursing - Clinical",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1.5,
+    "faculty": [
+      {
+        "bannerId": "370868",
+        "displayName": "Allen, Electra",
+        "emailAddress": "electra.allen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 1.5,
+      "hoursWeek": 13,
+      "room": "LOCATION",
+      "days": [
+        "M",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1557",
+    "courseNumber": "358",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Nursing of the Patient/Family III - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370867",
+        "displayName": "Loyola, Ruby",
+        "emailAddress": "ruby.loyola@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1550",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "042",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1558",
+    "courseNumber": "359",
+    "sequenceNumber": "L01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Nursing of the Patient/Family III - Clinical",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370867",
+        "displayName": "Loyola, Ruby",
+        "emailAddress": "ruby.loyola@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 2,
+      "hoursWeek": 12.5,
+      "room": "LOCATION",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1559",
+    "courseNumber": "367",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Critical Care Nursing - Theory",
+    "creditHours": 2,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370861",
+        "displayName": "Dixon, Maria",
+        "emailAddress": "maria.dixon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1230",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1560",
+    "courseNumber": "441",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Nursing Research",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370833",
+        "displayName": "Kobayashi, Akiko",
+        "emailAddress": "akiko.kobayashi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1400",
+      "endTime": "1700",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "043",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1562",
+    "courseNumber": "450",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Leadership/Management in Nursing - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370869",
+        "displayName": "Flores, Sarah",
+        "emailAddress": "sarah.flores@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1229",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 2,
+      "hoursWeek": 1.98,
+      "room": "043",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1564",
+    "courseNumber": "451",
+    "sequenceNumber": "D1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Discussion",
+    "courseTitle": "Leadership/Management in Nursing: Transition to Practice - Clinical",
+    "creditHours": 0,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370869",
+        "displayName": "Flores, Sarah",
+        "emailAddress": "sarah.flores@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1329",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 0.98,
+      "room": "043",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1563",
+    "courseNumber": "451",
+    "sequenceNumber": "L01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Leadership/Management in Nursing: Transition to Practice - Clinical",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370869",
+        "displayName": "Flores, Sarah",
+        "emailAddress": "sarah.flores@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1566",
+    "courseNumber": "452",
+    "sequenceNumber": "D1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Discussion",
+    "courseTitle": "Leadership/Management in Nursing: Elective Setting - Clinical",
+    "creditHours": 0,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370869",
+        "displayName": "Flores, Sarah",
+        "emailAddress": "sarah.flores@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370861",
+        "displayName": "Dixon, Maria",
+        "emailAddress": "maria.dixon@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1600",
+      "endTime": "1730",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "042",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1565",
+    "courseNumber": "452",
+    "sequenceNumber": "L01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Leadership/Management in Nursing: Elective Setting - Clinical",
+    "creditHours": 2,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 2,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370869",
+        "displayName": "Flores, Sarah",
+        "emailAddress": "sarah.flores@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1567",
+    "courseNumber": "461",
+    "sequenceNumber": "01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Community and Public Health Nursing - Theory",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370860",
+        "displayName": "Campbell, Donell",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "1220",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1569",
+    "courseNumber": "463",
+    "sequenceNumber": "D1",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Discussion",
+    "courseTitle": "Community and Public Health Nursing - Clinical",
+    "creditHours": 0,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370860",
+        "displayName": "Campbell, Donell",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1329",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 0.98,
+      "room": "202",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "NURS",
+    "CRN": "1568",
+    "courseNumber": "463",
+    "sequenceNumber": "L01",
+    "subjectDescription": "NURS Nursing",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Community and Public Health Nursing - Clinical",
+    "creditHours": 3,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370860",
+        "displayName": "Campbell, Donell",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "LOCATION",
+      "days": [
+        "M",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  }
+]

@@ -152,6 +152,8 @@
     <script>
         var militaryTimes = generateMilitaryTimeRange(800,1800)
         var includeWeekends = false
+        var year = "2022"
+        var semester = "spring"
         async function get(url){
             return new Promise( (resolve, reject) => {
                 fetch(url)
@@ -339,7 +341,7 @@
         async function getCourseDataFromCRNS(crns){
             // let crns = ["5093","5206","5287","5384","5539","5505"]
             return new Promise(async(resolve, reject) => {
-                let url = "https://mastertemple.github.io/api/biola/courses/2022/spring/CRNs.json"
+                let url = "https://mastertemple.github.io/api/biola/courses/{year}/${season}/CRNs.json"
 
                 let crnList = await get(url)
                 let subjects = []
@@ -349,7 +351,7 @@
                 subjects = [...new Set([...subjects])]
                 let courseData = []
                 for(let subject of subjects){
-                    let res = await get(`https://mastertemple.github.io/api/biola/courses/2022/spring/${subject}.json`)
+                    let res = await get(`https://mastertemple.github.io/api/biola/courses/${year}/${season}/${subject}.json`)
                     let data = res.filter(({CRN}) => crns.includes(CRN))
                     data.forEach(e => e.subject = subject)
                     courseData = [...courseData, ...data]
@@ -424,7 +426,7 @@
             }
 
             while(startTime[0] !== endTime[0] || startTime[1] !== endTime[1]){
-                console.log(startTime[0], startTime[1], endTime[0], endTime[1]);
+                // console.log(startTime[0], startTime[1], endTime[0], endTime[1]);
                 times.push(`${startTime[0]}:${startTime[1]}`)
                 if(startTime[1] === "00"){
                     startTime[1] =  "30"
@@ -475,6 +477,13 @@
             }
             document.execCommand("Copy");
         }
+        function changeSemester() {
+            let semester = document.getElementById("semester").value
+            // console.log(semester.value);
+            year = semester.match(/\d+/g)[0].toLowerCase()
+            semester = semester.match(/[a-zA-z]+/g)[0].toLowerCase()
+            console.log({year, semester});
+        }
 
 
     </script>
@@ -498,6 +507,12 @@
                 <button id="createSchedule" class="copySchedule" font-weight="bold" onclick="copyTable()">Copy Schedule</button>
                 <button id="createSchedule" class="clearSchedule" font-weight="bold" onclick="clearLegend();clearTable()">Clear Schedule</button>
             </div>
+            <!-- <span onclick="changeSemester()"> -->
+            <select name="semester" id="semester" onchange="changeSemester()">
+                    <option value="Spring 2022">Spring 2022</option>
+                    <option value="Fall 2021">Fall 2021</option>
+            </select>
+            <!-- </span> -->
 
         </div>
         <div class="column">

@@ -1,0 +1,182 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PBRL",
+    "CRN": "2758",
+    "courseNumber": "500",
+    "sequenceNumber": "01",
+    "subjectDescription": "PBRL Public Reltans &amp; Rep Mgmt",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370786",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PBRL",
+    "CRN": "2759",
+    "courseNumber": "530",
+    "sequenceNumber": "01",
+    "subjectDescription": "PBRL Public Reltans &amp; Rep Mgmt",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Crisis &amp; Reputation Management",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370919",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PBRL",
+    "CRN": "2760",
+    "courseNumber": "640",
+    "sequenceNumber": "01",
+    "subjectDescription": "PBRL Public Reltans &amp; Rep Mgmt",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "PR Ethics: Social Good &amp; Moral Obligation",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370786",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PBRL",
+    "CRN": "2998",
+    "courseNumber": "650",
+    "sequenceNumber": "01",
+    "subjectDescription": "PBRL Public Reltans &amp; Rep Mgmt",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370786",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PBRL",
+    "CRN": "2757",
+    "courseNumber": "660",
+    "sequenceNumber": "01",
+    "subjectDescription": "PBRL Public Reltans &amp; Rep Mgmt",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Rhythm &amp; Calling in Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370786",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

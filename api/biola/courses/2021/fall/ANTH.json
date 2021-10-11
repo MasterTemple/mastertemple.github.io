@@ -1,0 +1,194 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ANTH",
+    "CRN": "2638",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "ANTH Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cultural Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 31,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370520",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ANTH",
+    "CRN": "2375",
+    "courseNumber": "200",
+    "sequenceNumber": "02",
+    "subjectDescription": "ANTH Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cultural Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370520",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "15B",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ANTH",
+    "CRN": "2640",
+    "courseNumber": "222",
+    "sequenceNumber": "01",
+    "subjectDescription": "ANTH Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Physical Anthropology",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370520",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ANTH",
+    "CRN": "2377",
+    "courseNumber": "300",
+    "sequenceNumber": "01",
+    "subjectDescription": "ANTH Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Magic, Witchcraft and Sorcery",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370520",
+        "displayName": "Pittle, Kevin",
+        "emailAddress": "kevin.pittle@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "04B",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ANTH",
+    "CRN": "2641",
+    "courseNumber": "415",
+    "sequenceNumber": "01",
+    "subjectDescription": "ANTH Anthropology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Human Conflict",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370521",
+        "displayName": "Meulenberg, Michal",
+        "emailAddress": "michal.meulenberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

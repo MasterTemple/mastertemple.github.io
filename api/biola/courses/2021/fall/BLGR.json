@@ -1,0 +1,158 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BLGR",
+    "CRN": "1515",
+    "courseNumber": "101",
+    "sequenceNumber": "01",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Greek Grammar I",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370570",
+        "displayName": "Hanger, Jeannine",
+        "emailAddress": "jeannine.hanger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "108",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BLGR",
+    "CRN": "1516",
+    "courseNumber": "101",
+    "sequenceNumber": "CH",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "Elem Grk Gram I:ChallengeExam",
+    "creditHours": null,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370588",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BLGR",
+    "CRN": "1517",
+    "courseNumber": "102",
+    "sequenceNumber": "CH",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "Elem Grk Gram II:ChallengeExam",
+    "creditHours": null,
+    "maximumEnrollment": 0,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370588",
+        "displayName": "Berding, Kenneth",
+        "emailAddress": "ken.berding@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "BLGR",
+    "CRN": "1518",
+    "courseNumber": "201",
+    "sequenceNumber": "01",
+    "subjectDescription": "BLGR Greek",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate Greek Grammar and Exegesis I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370567",
+        "displayName": "Hubbard, Moyer",
+        "emailAddress": "moyer.hubbard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "107",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

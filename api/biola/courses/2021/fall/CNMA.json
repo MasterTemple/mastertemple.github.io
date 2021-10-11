@@ -1,0 +1,1998 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2016",
+    "courseNumber": "101",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Visual Storytelling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370665",
+        "displayName": "Lee, Sandra",
+        "emailAddress": "sandra.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "042",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2017",
+    "courseNumber": "101",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Visual Storytelling",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370665",
+        "displayName": "Lee, Sandra",
+        "emailAddress": "sandra.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2018",
+    "courseNumber": "101",
+    "sequenceNumber": "03",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Visual Storytelling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370666",
+        "displayName": "Dodson, Bethany",
+        "emailAddress": "bethany.dodson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "13B",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2019",
+    "courseNumber": "101",
+    "sequenceNumber": "04",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Visual Storytelling",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370667",
+        "displayName": "Steffen, Michael",
+        "emailAddress": "michael.steffen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "043",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2020",
+    "courseNumber": "102",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Visual Aesthetics",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370668",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2021",
+    "courseNumber": "102",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Visual Aesthetics",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370668",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "55",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2024",
+    "courseNumber": "103",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Digital Media Production",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370669",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2026",
+    "courseNumber": "104",
+    "sequenceNumber": "1A",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Cinema",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370670",
+        "displayName": "Alura, Aarika Leigh",
+        "emailAddress": "aarika.alura@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "15A",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "3087",
+    "courseNumber": "104",
+    "sequenceNumber": "1B",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Cinema",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370670",
+        "displayName": "Alura, Aarika Leigh",
+        "emailAddress": "aarika.alura@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "15A",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2027",
+    "courseNumber": "110",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Film Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370671",
+        "displayName": "Hashimov, Elmar",
+        "emailAddress": "elmar.hashimov@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1220",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 1.83,
+      "room": "042",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2065",
+    "courseNumber": "140",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Games and Interactive Technology",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370667",
+        "displayName": "Steffen, Michael",
+        "emailAddress": "michael.steffen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "56",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2028",
+    "courseNumber": "203",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Screenwriting I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370672",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "05A",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2029",
+    "courseNumber": "203",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Screenwriting I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370672",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "3056",
+    "courseNumber": "203",
+    "sequenceNumber": "03",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Screenwriting I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370665",
+        "displayName": "Lee, Sandra",
+        "emailAddress": "sandra.lee@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2030",
+    "courseNumber": "204",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Entertainment Business",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370673",
+        "displayName": "O&#39;Hair, Timothy",
+        "emailAddress": "tim.ohair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1830",
+      "endTime": "2120",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "06C",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2032",
+    "courseNumber": "240",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Production I: Directing in Narrative, Documentary and Serial Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370674",
+        "displayName": "Wells, Justin",
+        "emailAddress": "justin.wells@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370675",
+        "displayName": "McCall, David",
+        "emailAddress": "davy.t.mccall@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "10/11/2021",
+      "endDate": "11/12/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2033",
+    "courseNumber": "240",
+    "sequenceNumber": "03",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Production I: Directing in Narrative, Documentary and Serial Media",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370674",
+        "displayName": "Wells, Justin",
+        "emailAddress": "justin.wells@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370675",
+        "displayName": "McCall, David",
+        "emailAddress": "davy.t.mccall@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "10/11/2021",
+      "endDate": "11/12/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2.83,
+      "room": "55",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2035",
+    "courseNumber": "245",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Introduction to Production II: Media Lab",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370669",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370677",
+        "displayName": "Venberg, Kyle",
+        "emailAddress": "kyle.w.venberg@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "08/31/2021",
+      "beginTime": "1600",
+      "endTime": "1820",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "130",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2042",
+    "courseNumber": "245",
+    "sequenceNumber": "03",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Introduction to Production II: Media Lab",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370669",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370677",
+        "displayName": "Venberg, Kyle",
+        "emailAddress": "kyle.w.venberg@biola.edu",
+        "primaryIndicator": false
+      },
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/31/2021",
+      "endDate": "08/31/2021",
+      "beginTime": "1600",
+      "endTime": "1820",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "61",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2876",
+    "courseNumber": "251",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sound Design",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370669",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "56",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2978",
+    "courseNumber": "262",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Directing for TV and Film",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370668",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1530",
+      "endTime": "1720",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "55",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2043",
+    "courseNumber": "301",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Transmedia Design",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370667",
+        "displayName": "Steffen, Michael",
+        "emailAddress": "michael.steffen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "56",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2044",
+    "courseNumber": "302",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Production Management",
+    "creditHours": null,
+    "maximumEnrollment": 26,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "351",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2045",
+    "courseNumber": "303",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cinematography",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370678",
+        "displayName": "Hellmuth, William",
+        "emailAddress": "william.hellmuth@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1900",
+      "endTime": "2300",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 4,
+      "room": "130",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2951",
+    "courseNumber": "307",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sound Design",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370682",
+        "displayName": "Ang, Angela",
+        "emailAddress": "angela.s.ang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/30/2021",
+      "endDate": "10/30/2021",
+      "beginTime": "0700",
+      "endTime": "1300",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "130",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2877",
+    "courseNumber": "312",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Screenwriting II",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370672",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "15B",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2047",
+    "courseNumber": "331",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motion Picture Script Analysis",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370673",
+        "displayName": "O&#39;Hair, Timothy",
+        "emailAddress": "tim.ohair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "15A",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2048",
+    "courseNumber": "353",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Literacy",
+    "creditHours": null,
+    "maximumEnrollment": 77,
+    "waitCapacity": 40,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370679",
+        "displayName": "Bell, Nathaniel",
+        "emailAddress": "nathaniel.s.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "MAYERS",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2051",
+    "courseNumber": "358",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motion Picture Pre-Production",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370668",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "102",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "3026",
+    "courseNumber": "358",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motion Picture Pre-Production",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370675",
+        "displayName": "McCall, David",
+        "emailAddress": "davy.t.mccall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "102",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2052",
+    "courseNumber": "359",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motion Picture Production",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370668",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "55",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "3027",
+    "courseNumber": "359",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Motion Picture Production",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370675",
+        "displayName": "McCall, David",
+        "emailAddress": "davy.t.mccall@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "127",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2054",
+    "courseNumber": "401",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Game Design",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370667",
+        "displayName": "Steffen, Michael",
+        "emailAddress": "michael.steffen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "56",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2952",
+    "courseNumber": "423",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Themed Storytelling for an Immersive Domain",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370563",
+        "displayName": "Zalk, Robert",
+        "emailAddress": "bob.zalk@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "3157",
+    "courseNumber": "433",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Mass Media Law and Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370684",
+        "displayName": "Oleson, Stewart",
+        "emailAddress": "stewart.oleson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "220",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2055",
+    "courseNumber": "440",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Cinema and Media Arts Internship",
+    "creditHours": 1,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370679",
+        "displayName": "Bell, Nathaniel",
+        "emailAddress": "nathaniel.s.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "0915",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.75,
+      "room": "55",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2056",
+    "courseNumber": "440",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Cinema and Media Arts Internship",
+    "creditHours": 2,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370679",
+        "displayName": "Bell, Nathaniel",
+        "emailAddress": "nathaniel.s.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "0915",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 0.75,
+      "room": "55",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2057",
+    "courseNumber": "440",
+    "sequenceNumber": "03",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Cinema and Media Arts Internship",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370679",
+        "displayName": "Bell, Nathaniel",
+        "emailAddress": "nathaniel.s.bell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0830",
+      "endTime": "0915",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 0.75,
+      "room": "55",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2058",
+    "courseNumber": "450",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Practicum Topic",
+    "courseTitle": "CMA Prac: Cinematography",
+    "creditHours": 2,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370669",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1520",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 1.83,
+      "room": "55",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2059",
+    "courseNumber": "456",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Senior Portfolio",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "15B",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2060",
+    "courseNumber": "459",
+    "sequenceNumber": "01",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Faith and Film",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370680",
+        "displayName": "Ulrich, Brian",
+        "emailAddress": "brian.t.ulrich@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370681",
+        "displayName": "Chan, Brian",
+        "emailAddress": "brian.chan@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "247",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2968",
+    "courseNumber": "470",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem: Film Financing",
+    "creditHours": 3,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "206",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2982",
+    "courseNumber": "470",
+    "sequenceNumber": "03",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CMASem:Intro to Assistant Edtg",
+    "creditHours": 1,
+    "maximumEnrollment": 18,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370683",
+        "displayName": "Hensley, Jonathan",
+        "emailAddress": "jonathan.s.hensley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/16/2021",
+      "endDate": "10/23/2021",
+      "beginTime": "1000",
+      "endTime": "1700",
+      "building": "PRDCTR",
+      "buildingDescription": "Production Center",
+      "creditHourSession": 1,
+      "hoursWeek": 7,
+      "room": "103",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2067",
+    "courseNumber": "480",
+    "sequenceNumber": "02",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370676",
+        "displayName": "Vang, Abel",
+        "emailAddress": "abel.vang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2069",
+    "courseNumber": "480",
+    "sequenceNumber": "04",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370668",
+        "displayName": "Yamada, Dean",
+        "emailAddress": "dean.yamada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2070",
+    "courseNumber": "480",
+    "sequenceNumber": "05",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370672",
+        "displayName": "Hope, James",
+        "emailAddress": "james.hope@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2072",
+    "courseNumber": "480",
+    "sequenceNumber": "07",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370667",
+        "displayName": "Steffen, Michael",
+        "emailAddress": "michael.steffen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "2073",
+    "courseNumber": "480",
+    "sequenceNumber": "08",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370669",
+        "displayName": "Schmidt, John",
+        "emailAddress": "john.schmidt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CNMA",
+    "CRN": "3238",
+    "courseNumber": "480",
+    "sequenceNumber": "09",
+    "subjectDescription": "CNMA Cinema and Media Arts",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Directed Research",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370678",
+        "displayName": "Hellmuth, William",
+        "emailAddress": "william.hellmuth@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

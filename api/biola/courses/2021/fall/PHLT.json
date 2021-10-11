@@ -1,0 +1,152 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHLT",
+    "CRN": "2846",
+    "courseNumber": "505",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHLT Public Health",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Epidemiology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370603",
+        "displayName": "Galbadage, Don Thushara",
+        "emailAddress": "don.galbadage@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHLT",
+    "CRN": "2848",
+    "courseNumber": "510",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHLT Public Health",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Community and Global Health",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370829",
+        "displayName": "Walker, Danielle",
+        "emailAddress": "danielle.walker@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHLT",
+    "CRN": "2850",
+    "courseNumber": "515",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHLT Public Health",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Principles of Biostatistics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370842",
+        "displayName": "Wilson, Jason",
+        "emailAddress": "jason.wilson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PHLT",
+    "CRN": "3166",
+    "courseNumber": "670",
+    "sequenceNumber": "01",
+    "subjectDescription": "PHLT Public Health",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Health Policy and Practice",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 18,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370832",
+        "displayName": "Park, Ji-Yeun",
+        "emailAddress": "ji.yeun.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 5.66,
+      "room": "VIDEOCONF",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

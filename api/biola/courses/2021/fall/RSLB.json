@@ -1,0 +1,280 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSLB",
+    "CRN": "1851",
+    "courseNumber": "613",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSLB Psych: Psychotherapy Lab",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Child and Adolescent Psychotherapy",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370902",
+        "displayName": "De Luna, Joseph",
+        "emailAddress": "joseph.deluna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1030",
+      "endTime": "1250",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "106",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSLB",
+    "CRN": "1852",
+    "courseNumber": "631",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSLB Psych: Psychotherapy Lab",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychodynamic Therapy I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370903",
+        "displayName": "Bland, Earl",
+        "emailAddress": "earl.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "106",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSLB",
+    "CRN": "1853",
+    "courseNumber": "633",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSLB Psych: Psychotherapy Lab",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Psychodynamic Therapy Lab I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370903",
+        "displayName": "Bland, Earl",
+        "emailAddress": "earl.bland@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": null,
+      "buildingDescription": null,
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": null,
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSLB",
+    "CRN": "1854",
+    "courseNumber": "707",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSLB Psych: Psychotherapy Lab",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cognitive Behavior Therapy",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370901",
+        "displayName": "Canada, Andrea",
+        "emailAddress": "andrea.canada@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1530",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "113",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSLB",
+    "CRN": "1855",
+    "courseNumber": "715",
+    "sequenceNumber": "01",
+    "subjectDescription": "RSLB Psych: Psychotherapy Lab",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CP: Neuropsychology",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370895",
+        "displayName": "Abouezzeddine, Tania",
+        "emailAddress": "tania.abouezzeddine@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1530",
+      "endTime": "1750",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "106",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSLB",
+    "CRN": "1856",
+    "courseNumber": "715",
+    "sequenceNumber": "02",
+    "subjectDescription": "RSLB Psych: Psychotherapy Lab",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CP: Emotion Focused Therapy",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370917",
+        "displayName": "Oliver, Rebecca",
+        "emailAddress": "rebecca.g.oliver@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1300",
+      "endTime": "1520",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.33,
+      "room": "043",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "RSLB",
+    "CRN": "1857",
+    "courseNumber": "715",
+    "sequenceNumber": "03",
+    "subjectDescription": "RSLB Psych: Psychotherapy Lab",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "CP: DialecticalBehaviorTherapy",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370898",
+        "displayName": "Wang, David",
+        "emailAddress": "david.wang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1530",
+      "endTime": "1820",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  }
+]

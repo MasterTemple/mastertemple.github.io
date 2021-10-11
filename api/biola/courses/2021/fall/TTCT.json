@@ -1,0 +1,128 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTCT",
+    "CRN": "1067",
+    "courseNumber": "621",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTCT Classical Theology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Master Practitioners: Irenaeus/Athanasius",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370685",
+        "displayName": "Johnson, Adam",
+        "emailAddress": "adam.johnson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTCT",
+    "CRN": "2868",
+    "courseNumber": "652",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTCT Classical Theology",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Sacred Page: Romans",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370688",
+        "displayName": "Anizor, Uche",
+        "emailAddress": "uche.anizor@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTCT",
+    "CRN": "1071",
+    "courseNumber": "670",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTCT Classical Theology",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem: Catechetical-Aretaic",
+    "creditHours": 3,
+    "maximumEnrollment": 16,
+    "waitCapacity": 5,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370686",
+        "displayName": "Peterson, Ryan",
+        "emailAddress": "ryan.peterson@biola.edu",
+        "primaryIndicator": true
+      },
+      {
+        "bannerId": "370687",
+        "displayName": "Strobel, Kyle",
+        "emailAddress": "kyle.c.strobel@biola.edu",
+        "primaryIndicator": false
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "102",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

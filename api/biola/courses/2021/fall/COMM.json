@@ -1,0 +1,1118 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1604",
+    "courseNumber": "170",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Small Group Communication",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370689",
+        "displayName": "Yeh, Kathryn",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "125",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1605",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 35,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370690",
+        "displayName": "Mosqueda, John",
+        "emailAddress": "john.mosqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "105",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1606",
+    "courseNumber": "200",
+    "sequenceNumber": "02",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370691",
+        "displayName": "Patton, Mckenna",
+        "emailAddress": "mckenna.m.patton@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1607",
+    "courseNumber": "200",
+    "sequenceNumber": "03",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370691",
+        "displayName": "Patton, Mckenna",
+        "emailAddress": "mckenna.m.patton@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1608",
+    "courseNumber": "200",
+    "sequenceNumber": "04",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370691",
+        "displayName": "Patton, Mckenna",
+        "emailAddress": "mckenna.m.patton@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1609",
+    "courseNumber": "200",
+    "sequenceNumber": "05",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 37,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370690",
+        "displayName": "Mosqueda, John",
+        "emailAddress": "john.mosqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "15A",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1612",
+    "courseNumber": "200",
+    "sequenceNumber": "08",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 33,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370692",
+        "displayName": "Andre, Chase",
+        "emailAddress": "chase.andre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1614",
+    "courseNumber": "200",
+    "sequenceNumber": "10",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 33,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370690",
+        "displayName": "Mosqueda, John",
+        "emailAddress": "john.mosqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "05A",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "2518",
+    "courseNumber": "200",
+    "sequenceNumber": "11",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370692",
+        "displayName": "Andre, Chase",
+        "emailAddress": "chase.andre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "2520",
+    "courseNumber": "200",
+    "sequenceNumber": "13",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370692",
+        "displayName": "Andre, Chase",
+        "emailAddress": "chase.andre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "2958",
+    "courseNumber": "200",
+    "sequenceNumber": "14",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370693",
+        "displayName": "Calley, Dorothy",
+        "emailAddress": "dorothy.alston.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "2959",
+    "courseNumber": "200",
+    "sequenceNumber": "15",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370693",
+        "displayName": "Calley, Dorothy",
+        "emailAddress": "dorothy.alston.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "3088",
+    "courseNumber": "200",
+    "sequenceNumber": "16",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Rhetorical Act",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370697",
+        "displayName": "Borello, Bailey",
+        "emailAddress": "bailey.a.borello@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "202",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1615",
+    "courseNumber": "235",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Interpersonal Communication",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370693",
+        "displayName": "Calley, Dorothy",
+        "emailAddress": "dorothy.alston.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "2521",
+    "courseNumber": "235",
+    "sequenceNumber": "02",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Interpersonal Communication",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370693",
+        "displayName": "Calley, Dorothy",
+        "emailAddress": "dorothy.alston.calley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "2961",
+    "courseNumber": "235",
+    "sequenceNumber": "05",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Interpersonal Communication",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370695",
+        "displayName": "Qualls, Joy",
+        "emailAddress": "joy.qualls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1616",
+    "courseNumber": "254",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Communication Theories",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370694",
+        "displayName": "Muehlhoff, Timothy",
+        "emailAddress": "tim.muehlhoff@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "008",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1617",
+    "courseNumber": "272",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Communication",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370695",
+        "displayName": "Qualls, Joy",
+        "emailAddress": "joy.qualls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1618",
+    "courseNumber": "275",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Communication in the Workplace",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370689",
+        "displayName": "Yeh, Kathryn",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1621",
+    "courseNumber": "368",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Communication Research",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370689",
+        "displayName": "Yeh, Kathryn",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "206",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1622",
+    "courseNumber": "385",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Persuasive Communication",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370694",
+        "displayName": "Muehlhoff, Timothy",
+        "emailAddress": "tim.muehlhoff@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1623",
+    "courseNumber": "387",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Organizational Communication",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370689",
+        "displayName": "Yeh, Kathryn",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "203",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1624",
+    "courseNumber": "432",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Rhetorical Theories",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370695",
+        "displayName": "Qualls, Joy",
+        "emailAddress": "joy.qualls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "202",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1625",
+    "courseNumber": "440",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Communication Internship",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370695",
+        "displayName": "Qualls, Joy",
+        "emailAddress": "joy.qualls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1626",
+    "courseNumber": "445",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Teaching Assistant",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370695",
+        "displayName": "Qualls, Joy",
+        "emailAddress": "joy.qualls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1627",
+    "courseNumber": "450",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Communication Practicum",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370695",
+        "displayName": "Qualls, Joy",
+        "emailAddress": "joy.qualls@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1628",
+    "courseNumber": "472",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intercultural Communication",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370696",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1750",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "107",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1630",
+    "courseNumber": "473",
+    "sequenceNumber": "01",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Communication and Diversity",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370692",
+        "displayName": "Andre, Chase",
+        "emailAddress": "chase.andre@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "05A",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "COMM",
+    "CRN": "1633",
+    "courseNumber": "474",
+    "sequenceNumber": "02",
+    "subjectDescription": "COMM Communication Studies",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "ASC: Engaging Diverse Perspectives",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370694",
+        "displayName": "Muehlhoff, Timothy",
+        "emailAddress": "tim.muehlhoff@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ASLG",
+    "CRN": "2439",
+    "courseNumber": "100",
+    "sequenceNumber": "01",
+    "subjectDescription": "ASLG American Sign Language",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary American Sign Language",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370501",
+        "displayName": "Spand, Kayla",
+        "emailAddress": "kayla.m.nimigan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1600",
+      "endTime": "1750",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "117",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ASLG",
+    "CRN": "2440",
+    "courseNumber": "200",
+    "sequenceNumber": "01",
+    "subjectDescription": "ASLG American Sign Language",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary American Sign Language II",
+    "creditHours": null,
+    "maximumEnrollment": 36,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370501",
+        "displayName": "Spand, Kayla",
+        "emailAddress": "kayla.m.nimigan@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1950",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ASLG",
+    "CRN": "2441",
+    "courseNumber": "201",
+    "sequenceNumber": "01",
+    "subjectDescription": "ASLG American Sign Language",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intermediate American Sign Language",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370502",
+        "displayName": "Husted, Koreen",
+        "emailAddress": "koreen.l.husted@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0830",
+      "endTime": "1020",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 4,
+      "hoursWeek": 3.66,
+      "room": "203",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  }
+]

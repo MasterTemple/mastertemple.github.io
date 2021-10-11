@@ -1,0 +1,358 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1381",
+    "courseNumber": "513",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Cost Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370620",
+        "displayName": "Massey, Philip",
+        "emailAddress": "philip.massey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1383",
+    "courseNumber": "516",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Federal Income Tax for Partnerships, Corporations and Estates",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370621",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "209",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1402",
+    "courseNumber": "522",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370629",
+        "displayName": "Davis, Letitia",
+        "emailAddress": "letitia.d.davis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "206",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1421",
+    "courseNumber": "603",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Issues in Financial Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370620",
+        "displayName": "Massey, Philip",
+        "emailAddress": "philip.massey@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/18/2021",
+      "endDate": "09/18/2021",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "202",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1420",
+    "courseNumber": "614",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Taxation of Business Entities",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370621",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/02/2021",
+      "endDate": "10/02/2021",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "206",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1423",
+    "courseNumber": "629",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Government and Nonprofit Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370627",
+        "displayName": "Markley, Randall",
+        "emailAddress": "randy.markley@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "11/06/2021",
+      "endDate": "11/06/2021",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "202",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1422",
+    "courseNumber": "644",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Taxation of Individuals",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370621",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "12/04/2021",
+      "endDate": "12/04/2021",
+      "beginTime": "0900",
+      "endTime": "1500",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 6,
+      "room": "220",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "2696",
+    "courseNumber": "651",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Practical Applications of Accounting",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370621",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "MPAC",
+    "CRN": "1424",
+    "courseNumber": "670",
+    "sequenceNumber": "01",
+    "subjectDescription": "MPAC Professional Accountancy",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Accounting Internship",
+    "creditHours": 3,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370621",
+        "displayName": "Woodward, Philip",
+        "emailAddress": "phil.woodward@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

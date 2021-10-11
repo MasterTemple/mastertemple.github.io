@@ -1,0 +1,198 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ITDS",
+    "CRN": "2971",
+    "courseNumber": "220",
+    "sequenceNumber": "01",
+    "subjectDescription": "ITDS Interdisciplinary Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Interdisciplinary Studies",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370809",
+        "displayName": "Adams, Aaron",
+        "emailAddress": "aaron.adams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "041",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ITDS",
+    "CRN": "3028",
+    "courseNumber": "220",
+    "sequenceNumber": "02",
+    "subjectDescription": "ITDS Interdisciplinary Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Introduction to Interdisciplinary Studies",
+    "creditHours": null,
+    "maximumEnrollment": 22,
+    "waitCapacity": 22,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370809",
+        "displayName": "Adams, Aaron",
+        "emailAddress": "aaron.adams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ITDS",
+    "CRN": "2981",
+    "courseNumber": "250",
+    "sequenceNumber": "01",
+    "subjectDescription": "ITDS Interdisciplinary Studies",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Integration Lab I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 15,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370809",
+        "displayName": "Adams, Aaron",
+        "emailAddress": "aaron.adams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1230",
+      "endTime": "1320",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "005",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ITDS",
+    "CRN": "2973",
+    "courseNumber": "360",
+    "sequenceNumber": "01",
+    "subjectDescription": "ITDS Interdisciplinary Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Interdisciplinary Topics",
+    "creditHours": null,
+    "maximumEnrollment": 14,
+    "waitCapacity": 14,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370809",
+        "displayName": "Adams, Aaron",
+        "emailAddress": "aaron.adams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "112",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ITDS",
+    "CRN": "3231",
+    "courseNumber": "360",
+    "sequenceNumber": "02",
+    "subjectDescription": "ITDS Interdisciplinary Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Interdisciplinary Topics",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370809",
+        "displayName": "Adams, Aaron",
+        "emailAddress": "aaron.adams@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

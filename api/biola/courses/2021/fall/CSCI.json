@@ -1,0 +1,588 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1147",
+    "courseNumber": "104",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Nature of Computing",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370709",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1151",
+    "courseNumber": "105",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Computer Science",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370710",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1152",
+    "courseNumber": "105",
+    "sequenceNumber": "02",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Computer Science",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370710",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1153",
+    "courseNumber": "105",
+    "sequenceNumber": "03",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Computer Science",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370711",
+        "displayName": "Buzi, Gentian",
+        "emailAddress": "genti.buzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "2827",
+    "courseNumber": "106",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Data Structures",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370711",
+        "displayName": "Buzi, Gentian",
+        "emailAddress": "genti.buzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1155",
+    "courseNumber": "230",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Programming Languages",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370712",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1156",
+    "courseNumber": "230",
+    "sequenceNumber": "02",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Programming Languages",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370712",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1200",
+      "endTime": "1315",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1157",
+    "courseNumber": "305",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Programming for Data Science I",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370709",
+        "displayName": "Lin, Shieu-Hong",
+        "emailAddress": "shieu-hong.lin@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1745",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1158",
+    "courseNumber": "311",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Operating Systems",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370710",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1159",
+    "courseNumber": "335",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "User Interface Design and Programming",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370712",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1160",
+    "courseNumber": "400",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theory of Algorithms",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370710",
+        "displayName": "Wong, Kong-Cheng",
+        "emailAddress": "k.c.wong@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "141",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1161",
+    "courseNumber": "402",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Database Management",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370712",
+        "displayName": "Lew, Grace",
+        "emailAddress": "grace.lew@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "182",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "1162",
+    "courseNumber": "440",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Topics in CS: AI",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370711",
+        "displayName": "Buzi, Gentian",
+        "emailAddress": "genti.buzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "1915",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "102",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSCI",
+    "CRN": "3195",
+    "courseNumber": "480",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSCI Computer Science",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "RS: Applc of Machine Learning",
+    "creditHours": 1,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370711",
+        "displayName": "Buzi, Gentian",
+        "emailAddress": "genti.buzi@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1100",
+      "endTime": "1150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 0.83,
+      "room": "253",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  }
+]

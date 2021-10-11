@@ -1,0 +1,392 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2452",
+    "courseNumber": "603",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elements of Hebrew I",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370791",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1445",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "108",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2828",
+    "courseNumber": "603",
+    "sequenceNumber": "03",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elements of Hebrew I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370870",
+        "displayName": "Kim, David",
+        "emailAddress": "david.sarang.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1600",
+      "endTime": "1800",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2829",
+    "courseNumber": "603",
+    "sequenceNumber": "04",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elements of Hebrew I",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370791",
+        "displayName": "Kim, Daniel",
+        "emailAddress": "daniel.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1530",
+      "endTime": "1730",
+      "building": "ROOD",
+      "buildingDescription": "Rood Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "55",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2454",
+    "courseNumber": "703",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Hebrew Exegesis",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370527",
+        "displayName": "Zehnder, Markus",
+        "emailAddress": "markus.zehnder@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2831",
+    "courseNumber": "703",
+    "sequenceNumber": "02",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Hebrew Exegesis",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370871",
+        "displayName": "Hernandez, Dominick",
+        "emailAddress": "dominick.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1500",
+      "endTime": "1655",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.91,
+      "room": "VIDEOCONF",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2832",
+    "courseNumber": "720",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Critical Issues in Old Testament Studies",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370871",
+        "displayName": "Hernandez, Dominick",
+        "emailAddress": "dominick.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2456",
+    "courseNumber": "722",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Hebrew Exegesis",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370792",
+        "displayName": "Mosbarger, Joy",
+        "emailAddress": "joy.mosbarger@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2825",
+    "courseNumber": "745",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World of the Old Testament",
+    "creditHours": 3,
+    "maximumEnrollment": 6,
+    "waitCapacity": 2,
+    "creditHourHigh": 3,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370565",
+        "displayName": "Evensen, Katherine",
+        "emailAddress": "katherine.e.evensen@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2457",
+    "courseNumber": "791",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "OTSem: Historiography &amp; Ethics",
+    "creditHours": 3,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370527",
+        "displayName": "Zehnder, Markus",
+        "emailAddress": "markus.zehnder@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "109",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTOT",
+    "CRN": "2833",
+    "courseNumber": "799",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTOT Old Testament &amp; Semitics",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Old Testament Capstone",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370871",
+        "displayName": "Hernandez, Dominick",
+        "emailAddress": "dominick.hernandez@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

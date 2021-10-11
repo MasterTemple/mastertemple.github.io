@@ -1,0 +1,634 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2908",
+    "courseNumber": "510",
+    "sequenceNumber": "02",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research Methodologies",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370535",
+        "displayName": "Talbert, Betty",
+        "emailAddress": "betty.talbert@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2678",
+    "courseNumber": "514",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "History of Christian Thought",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370531",
+        "displayName": "Naidu, Ashish",
+        "emailAddress": "ashish.naidu@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1800",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "3125",
+    "courseNumber": "516",
+    "sequenceNumber": "02",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Authority of Scriptural Traditions",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 20,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370530",
+        "displayName": "Lewis, Kevin",
+        "emailAddress": "kevin.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2817",
+    "courseNumber": "517",
+    "sequenceNumber": "04",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Interpretative Issues and Methods",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370533",
+        "displayName": "Oldenburg, Eric",
+        "emailAddress": "eric.oldenburg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2820",
+    "courseNumber": "519",
+    "sequenceNumber": "02",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament/Hebrew Literature",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370527",
+        "displayName": "Zehnder, Markus",
+        "emailAddress": "markus.zehnder@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1700",
+      "endTime": "1900",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 2,
+      "room": "VIDEOCONF",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2823",
+    "courseNumber": "519",
+    "sequenceNumber": "03",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament/Hebrew Literature",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370534",
+        "displayName": "Hutchison, John",
+        "emailAddress": "john.hutchison@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2659",
+    "courseNumber": "520",
+    "sequenceNumber": "03",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "New Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 34,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370524",
+        "displayName": "Hultberg, Alan",
+        "emailAddress": "alan.hultberg@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/25/2021",
+      "endDate": "09/25/2021",
+      "beginTime": "0900",
+      "endTime": "1030",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.5,
+      "room": "VIDEOCONF",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2930",
+    "courseNumber": "529",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Historical Perspectives in Science and Religion",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370540",
+        "displayName": "Hunter, Cornelius",
+        "emailAddress": "cornelius.hunter@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2910",
+    "courseNumber": "541",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Christian Thought I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370530",
+        "displayName": "Lewis, Kevin",
+        "emailAddress": "kevin.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2915",
+    "courseNumber": "542",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Christian Thought II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370530",
+        "displayName": "Lewis, Kevin",
+        "emailAddress": "kevin.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2934",
+    "courseNumber": "547",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Philosophy and Theology of Science",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370541",
+        "displayName": "Guta, Mihretu",
+        "emailAddress": "mihretu.p.guta@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2702",
+    "courseNumber": "611",
+    "sequenceNumber": "04",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Greek I",
+    "creditHours": null,
+    "maximumEnrollment": 31,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370525",
+        "displayName": "Manning Jr, Gary",
+        "emailAddress": "gary.manning@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1900",
+      "endTime": "2015",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1.25,
+      "room": "VIDEOCONF",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2920",
+    "courseNumber": "621",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Logical and Critical Thinking",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370536",
+        "displayName": "Samples, Kenneth",
+        "emailAddress": "kenneth.samples@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2636",
+    "courseNumber": "631",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Modern Physics, Cosmology, and Design",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370537",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2935",
+    "courseNumber": "640",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "World Religions and Science",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370541",
+        "displayName": "Guta, Mihretu",
+        "emailAddress": "mihretu.p.guta@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2927",
+    "courseNumber": "650",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem:Miracles &amp; the Modern Mind",
+    "creditHours": 2,
+    "maximumEnrollment": 25,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370528",
+        "displayName": "Smith, Ronald",
+        "emailAddress": "scott.smith@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/08/2021",
+      "endDate": "10/08/2021",
+      "beginTime": "0900",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 8,
+      "room": "103",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "CSSR",
+    "CRN": "2939",
+    "courseNumber": "653",
+    "sequenceNumber": "01",
+    "subjectDescription": "CSSR Science and Religion",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Origin of Life Seminar",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": 2,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370537",
+        "displayName": "Bloom, John",
+        "emailAddress": "john.bloom@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

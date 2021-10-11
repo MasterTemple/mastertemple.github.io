@@ -1,0 +1,650 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "1645",
+    "courseNumber": "105",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Relations: History &amp; Foundations",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370919",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2738",
+    "courseNumber": "107",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Multimedia Channels",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370919",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "0800",
+      "endTime": "0900",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2739",
+    "courseNumber": "107",
+    "sequenceNumber": "02",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Multimedia Channels",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370919",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "1646",
+    "courseNumber": "111",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 25,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370920",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "108",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2740",
+    "courseNumber": "231",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Strategic Writing for Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370920",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "1648",
+    "courseNumber": "249",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Design Essentials",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370921",
+        "displayName": "Chuang, Rachelle",
+        "emailAddress": "rachelle.chuang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "LBRARY",
+      "buildingDescription": "Library",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "140",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2741",
+    "courseNumber": "267",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Relations Career Readiness",
+    "creditHours": null,
+    "maximumEnrollment": 33,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370920",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2744",
+    "courseNumber": "320",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "PR Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 27,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370920",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1800",
+      "endTime": "1900",
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 1,
+      "room": "VIDEOCONF",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2745",
+    "courseNumber": "320",
+    "sequenceNumber": "02",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: PR Ethics",
+    "creditHours": null,
+    "maximumEnrollment": 5,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370920",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2746",
+    "courseNumber": "344",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Public Relations Internship &amp; Applied Experience",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370919",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2747",
+    "courseNumber": "350",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Crisis Communication &amp; Reputation Management",
+    "creditHours": null,
+    "maximumEnrollment": 21,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370922",
+        "displayName": "Velasco, Brenda",
+        "emailAddress": "brenda.velasco@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": "1630",
+      "endTime": "1730",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 1,
+      "room": "113",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2748",
+    "courseNumber": "350",
+    "sequenceNumber": "02",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Post Trad Program: Crisis Communication &amp; Reputation Management",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370922",
+        "displayName": "Velasco, Brenda",
+        "emailAddress": "brenda.velasco@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/16/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "3007",
+    "courseNumber": "355",
+    "sequenceNumber": "02",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Media Relations",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370920",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "106",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "3023",
+    "courseNumber": "420",
+    "sequenceNumber": "03",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Digital Management",
+    "creditHours": null,
+    "maximumEnrollment": 6,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370919",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2752",
+    "courseNumber": "444",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Internship",
+    "courseTitle": "Advanced Internship and Career Preparation in Public Relations",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370919",
+        "displayName": "Kim, KiYong",
+        "emailAddress": "kiyong.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "VARIED",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2753",
+    "courseNumber": "460",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Public Relations Leadership and Advanced Campaign Analysis",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370786",
+        "displayName": "Kim, Carolyn",
+        "emailAddress": "carolyn.kim@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/01/2021",
+      "endDate": "10/02/2021",
+      "beginTime": "0830",
+      "endTime": "1630",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 16,
+      "room": "008",
+      "days": [
+        "F",
+        "S"
+      ],
+      "dayNames": [
+        "Friday",
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "PREL",
+    "CRN": "2756",
+    "courseNumber": "490",
+    "sequenceNumber": "01",
+    "subjectDescription": "PREL Public Relations",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Portfolio and Certificate",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 10,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370920",
+        "displayName": "Sinclair, Anna",
+        "emailAddress": "anna.sinclair@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/25/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

@@ -1,0 +1,2550 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1308",
+    "courseNumber": "501",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Philosophy and Values in Schools and Society",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370723",
+        "displayName": "Block, Nicholas",
+        "emailAddress": "nicholas.block@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "07C",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1309",
+    "courseNumber": "502",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Advanced Educational Psychology",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370724",
+        "displayName": "Reid, Denise",
+        "emailAddress": "denise.reid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2605",
+    "courseNumber": "503",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Educational Research and Statistics",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370723",
+        "displayName": "Block, Nicholas",
+        "emailAddress": "nicholas.block@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1310",
+    "courseNumber": "507",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Art Workshop for Elementary School Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370564",
+        "displayName": "Hamby, Dawn",
+        "emailAddress": "dawn.hamby@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/16/2021",
+      "endDate": "11/06/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2787",
+    "courseNumber": "507",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Art Workshop for Elementary School Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370564",
+        "displayName": "Hamby, Dawn",
+        "emailAddress": "dawn.hamby@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/16/2021",
+      "endDate": "11/06/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1727",
+    "courseNumber": "508",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Workshop for Elementary School Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370739",
+        "displayName": "Park, Angela",
+        "emailAddress": "angela.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/18/2021",
+      "endDate": "09/18/2021",
+      "beginTime": "0830",
+      "endTime": "1430",
+      "building": "CROWEL",
+      "buildingDescription": "Crowell Hall",
+      "creditHourSession": 1,
+      "hoursWeek": 6,
+      "room": "124",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2788",
+    "courseNumber": "508",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Music Workshop for Elementary School Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370739",
+        "displayName": "Park, Angela",
+        "emailAddress": "angela.park@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1311",
+    "courseNumber": "509",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Mathematics/Science Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/02/2021",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1316",
+    "courseNumber": "512",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Student Teaching I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370726",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 6,
+      "hoursWeek": 2.75,
+      "room": "4",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1320",
+    "courseNumber": "513",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Student Teaching II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370726",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 6,
+      "hoursWeek": 6,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1324",
+    "courseNumber": "514",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Student Teaching I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 6,
+      "hoursWeek": 2.75,
+      "room": "114",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1326",
+    "courseNumber": "515",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Student Teaching II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 6,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "OFFCMP",
+      "buildingDescription": "Off Campus",
+      "creditHourSession": 6,
+      "hoursWeek": 6,
+      "room": "LOCATION",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1328",
+    "courseNumber": "516",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Physical Education Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370728",
+        "displayName": "Hahn, Jennifer",
+        "emailAddress": "jennifer.hahn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/30/2021",
+      "endDate": "11/20/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2789",
+    "courseNumber": "516",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Physical Education Workshop",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370728",
+        "displayName": "Hahn, Jennifer",
+        "emailAddress": "jennifer.hahn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/30/2021",
+      "endDate": "11/20/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2587",
+    "courseNumber": "518",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Designing Successful Classrooms: Starting Right",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370741",
+        "displayName": "Raymond, Jonathan",
+        "emailAddress": "jon.raymond@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1329",
+    "courseNumber": "519",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370729",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/05/2021",
+      "beginTime": "1630",
+      "endTime": "2145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 5.25,
+      "room": "128",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2790",
+    "courseNumber": "519",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Foundations of Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370729",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/05/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1330",
+    "courseNumber": "520",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Reading/Language Arts",
+    "creditHours": null,
+    "maximumEnrollment": 28,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370730",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "215",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2791",
+    "courseNumber": "520",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Reading/Language Arts",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370730",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2606",
+    "courseNumber": "524",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research in Culture and Intercultural Instruction",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370724",
+        "displayName": "Reid, Denise",
+        "emailAddress": "denise.reid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1332",
+    "courseNumber": "525",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Content Area Reading",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "116",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2792",
+    "courseNumber": "525",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Content Area Reading",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1334",
+    "courseNumber": "526",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Foundations of Education",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370732",
+        "displayName": "Cid, Luciano",
+        "emailAddress": "luciano.cid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/12/2021",
+      "endDate": "12/07/2021",
+      "beginTime": "1630",
+      "endTime": "2145",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 5.25,
+      "room": "128",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2793",
+    "courseNumber": "526",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Psychological Foundations of Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370726",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "10/12/2021",
+      "endDate": "12/07/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2588",
+    "courseNumber": "530",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Reading Process and Approaches",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370742",
+        "displayName": "Pierson, Melinda",
+        "emailAddress": "melinda.pierson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2589",
+    "courseNumber": "532",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Diagnosis and Remediation in Reading",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370743",
+        "displayName": "Tang, Kimmie",
+        "emailAddress": "kimmie.tang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1337",
+    "courseNumber": "533",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: English",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370733",
+        "displayName": "Lewis, Dawn",
+        "emailAddress": "dawn.lewis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1339",
+    "courseNumber": "533",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: History/Soc Sci",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370734",
+        "displayName": "Honeycutt, Daniel",
+        "emailAddress": "dan.honeycutt@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1341",
+    "courseNumber": "533",
+    "sequenceNumber": "03",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Math",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1343",
+    "courseNumber": "533",
+    "sequenceNumber": "04",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Science",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370736",
+        "displayName": "Mills, Michael",
+        "emailAddress": "michael.mills@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 0,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2796",
+    "courseNumber": "533",
+    "sequenceNumber": "07",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Math",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370735",
+        "displayName": "Balli, Chelsie",
+        "emailAddress": "chelsie.j.balli@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "3090",
+    "courseNumber": "533",
+    "sequenceNumber": "09",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Music",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370744",
+        "displayName": "Young, Kristina",
+        "emailAddress": "kristina.m.young@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "3092",
+    "courseNumber": "533",
+    "sequenceNumber": "10",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "SSP: Physical Education",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [
+      {
+        "bannerId": "370728",
+        "displayName": "Hahn, Jennifer",
+        "emailAddress": "jennifer.hahn@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "11/08/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 2,
+      "hoursWeek": 2,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2577",
+    "courseNumber": "535",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Child Development: Birth through Adolescence",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370740",
+        "displayName": "Bedard, Carly",
+        "emailAddress": "carly.s.bedard@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1345",
+    "courseNumber": "536",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Health Curriculum and Methods",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370737",
+        "displayName": "O&#39;Dell, Deborah",
+        "emailAddress": "deborah.odell@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "11/09/2021",
+      "endDate": "12/07/2021",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "LIM",
+      "buildingDescription": "Lim Center",
+      "creditHourSession": 1,
+      "hoursWeek": 2.5,
+      "room": "043",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1347",
+    "courseNumber": "537",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary History - Social Science Curriculum and Methods",
+    "creditHours": null,
+    "maximumEnrollment": 40,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "09/11/2021",
+      "endDate": "09/11/2021",
+      "beginTime": "0900",
+      "endTime": "1700",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 0,
+      "hoursWeek": 8,
+      "room": "206",
+      "days": [
+        "S"
+      ],
+      "dayNames": [
+        "Saturday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1349",
+    "courseNumber": "538",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Elementary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370729",
+        "displayName": "Yang, Joyce",
+        "emailAddress": "joyce.yang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "12/10/2021",
+      "endDate": "12/10/2021",
+      "beginTime": "1345",
+      "endTime": "1645",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "4",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1353",
+    "courseNumber": "539",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "12/10/2021",
+      "endDate": "12/10/2021",
+      "beginTime": "1345",
+      "endTime": "1645",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 3,
+      "room": "4",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "3085",
+    "courseNumber": "539",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Secondary Curriculum, Differentiation, and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1357",
+    "courseNumber": "541",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students (Elementary)",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "215",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1359",
+    "courseNumber": "541",
+    "sequenceNumber": "03",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students (Secondary)",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": "1920",
+      "endTime": "2150",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "215",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2798",
+    "courseNumber": "541",
+    "sequenceNumber": "04",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Methods of Teaching Linguistically Diverse Students",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370725",
+        "displayName": "Canillas, Jennifer",
+        "emailAddress": "jenna.canillas@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2579",
+    "courseNumber": "549",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Children&#39;s Literature",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370730",
+        "displayName": "Serna, Carolina",
+        "emailAddress": "carolina.serna@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "1362",
+    "courseNumber": "554",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional Writing",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370738",
+        "displayName": "Curtis, Christie",
+        "emailAddress": "christie.j.curtis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/17/2021",
+      "beginTime": "1630",
+      "endTime": "1915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.75,
+      "room": "113",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2612",
+    "courseNumber": "554",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Professional Writing",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370738",
+        "displayName": "Curtis, Christie",
+        "emailAddress": "christie.j.curtis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2621",
+    "courseNumber": "555",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem in Ed: Action Research",
+    "creditHours": 1,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370724",
+        "displayName": "Reid, Denise",
+        "emailAddress": "denise.reid@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2622",
+    "courseNumber": "555",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem in Ed: Action Research",
+    "creditHours": 1,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370723",
+        "displayName": "Block, Nicholas",
+        "emailAddress": "nicholas.block@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2623",
+    "courseNumber": "555",
+    "sequenceNumber": "03",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem in Ed: Action Research",
+    "creditHours": 1,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370731",
+        "displayName": "Coddington, Lorelei",
+        "emailAddress": "lorelei.coddington@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2624",
+    "courseNumber": "555",
+    "sequenceNumber": "04",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem in Ed: Research Project",
+    "creditHours": 1,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370738",
+        "displayName": "Curtis, Christie",
+        "emailAddress": "christie.j.curtis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2625",
+    "courseNumber": "555",
+    "sequenceNumber": "05",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Sem in Ed: Thesis",
+    "creditHours": 1,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370738",
+        "displayName": "Curtis, Christie",
+        "emailAddress": "christie.j.curtis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2583",
+    "courseNumber": "557",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "School/Family/Community Partnerships in Early Childhood Urban Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370747",
+        "displayName": "Min, Christi",
+        "emailAddress": "christi.min@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2585",
+    "courseNumber": "558",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Classroom Management in Early Childhood Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370747",
+        "displayName": "Min, Christi",
+        "emailAddress": "christi.min@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2590",
+    "courseNumber": "561",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Issues in Special Education",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2592",
+    "courseNumber": "563",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Teaching Students with Mild Disabilities in Inclusive Settings",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370743",
+        "displayName": "Tang, Kimmie",
+        "emailAddress": "kimmie.tang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2594",
+    "courseNumber": "564",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Behavior and Classroom Management for Students with Special Needs",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2613",
+    "courseNumber": "570",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Spiritual Formation for the Educator",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370954",
+        "displayName": "Brimmage, Michael",
+        "emailAddress": "mike.brimmage@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2596",
+    "courseNumber": "580",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to Autism Spectrum Disorders",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370743",
+        "displayName": "Tang, Kimmie",
+        "emailAddress": "kimmie.tang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2598",
+    "courseNumber": "583",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Curriculum Design for Students with Mild/Moderate Disabilities",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370743",
+        "displayName": "Tang, Kimmie",
+        "emailAddress": "kimmie.tang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2614",
+    "courseNumber": "593",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Induction Program: Clear Credential Candidate Professional Development",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370723",
+        "displayName": "Block, Nicholas",
+        "emailAddress": "nicholas.block@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2616",
+    "courseNumber": "594",
+    "sequenceNumber": "02",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Action Research",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370723",
+        "displayName": "Block, Nicholas",
+        "emailAddress": "nicholas.block@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2618",
+    "courseNumber": "596",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Professional Development Module",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370738",
+        "displayName": "Curtis, Christie",
+        "emailAddress": "christie.j.curtis@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2601",
+    "courseNumber": "611",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Intern Support Seminar I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2602",
+    "courseNumber": "612",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Intern Support Seminar II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2603",
+    "courseNumber": "613",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Intern Support Seminar III",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2604",
+    "courseNumber": "614",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Intern Support Seminar IV",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370748",
+        "displayName": "Wong-Lo, Mickie",
+        "emailAddress": "mickie.wong-lo@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2799",
+    "courseNumber": "621",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Elementary Intern Seminar I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370726",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2800",
+    "courseNumber": "622",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Elementary Intern Seminar II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370726",
+        "displayName": "Bishop, Carolyn",
+        "emailAddress": "carolyn.bishop@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2803",
+    "courseNumber": "625",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Secondary Intern Seminar I",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "SEED",
+    "CRN": "2804",
+    "courseNumber": "626",
+    "sequenceNumber": "01",
+    "subjectDescription": "SEED Education",
+    "scheduleTypeDescription": "Observation/Fieldwork",
+    "courseTitle": "Secondary Intern Seminar II",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370727",
+        "displayName": "Eastman, Dennis",
+        "emailAddress": "dennis.eastman@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

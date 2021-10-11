@@ -1,0 +1,334 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2407",
+    "courseNumber": "509",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Structure of English",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "113",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2650",
+    "courseNumber": "509",
+    "sequenceNumber": "02",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Structure of English",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2651",
+    "courseNumber": "511",
+    "sequenceNumber": "CH",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "Structure of English &mdash; Challenge",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2409",
+    "courseNumber": "525",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to TESOL&mdash;Adult",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2050",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "4",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2652",
+    "courseNumber": "525",
+    "sequenceNumber": "02",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Introduction to TESOL&mdash;Adult",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370696",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2653",
+    "courseNumber": "528",
+    "sequenceNumber": "CH",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Challenged",
+    "courseTitle": "Introduction to TESOL &mdash; Challenge",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2654",
+    "courseNumber": "627",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Vocabulary Learning and Teaching",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370696",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2655",
+    "courseNumber": "632",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Language Testing and Assessment",
+    "creditHours": null,
+    "maximumEnrollment": 25,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370937",
+        "displayName": "Liang, Jiansong",
+        "emailAddress": "john.liang@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "ISTE",
+    "CRN": "2656",
+    "courseNumber": "665",
+    "sequenceNumber": "01",
+    "subjectDescription": "ISTE TESOL - Graduate",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Course Design in TESOL",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370696",
+        "displayName": "Lessard-Clouston, Michael",
+        "emailAddress": "michael.lessard-clouston@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "ONLINE",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]

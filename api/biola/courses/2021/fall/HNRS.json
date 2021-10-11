@@ -1,0 +1,1718 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1200",
+    "courseNumber": "101",
+    "sequenceNumber": "CH",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Argumentation &amp; Critical Thinking I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1198",
+    "courseNumber": "101",
+    "sequenceNumber": "DS",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Argumentation &amp; Critical Thinking I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1195",
+    "courseNumber": "101",
+    "sequenceNumber": "HM",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Argumentation &amp; Critical Thinking I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "103",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1203",
+    "courseNumber": "101",
+    "sequenceNumber": "IG",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Argumentation &amp; Critical Thinking I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1199",
+    "courseNumber": "101",
+    "sequenceNumber": "NM",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Argumentation &amp; Critical Thinking I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1202",
+    "courseNumber": "101",
+    "sequenceNumber": "SY",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Argumentation &amp; Critical Thinking I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "105",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1201",
+    "courseNumber": "101",
+    "sequenceNumber": "TL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Argumentation &amp; Critical Thinking I",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1210",
+    "courseNumber": "102",
+    "sequenceNumber": "CH",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ancient Civilizations: Greek &amp; Hebrew",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "06C",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1208",
+    "courseNumber": "102",
+    "sequenceNumber": "DS",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ancient Civilizations: Greek &amp; Hebrew",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1205",
+    "courseNumber": "102",
+    "sequenceNumber": "HM",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ancient Civilizations: Greek &amp; Hebrew",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "06C",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1213",
+    "courseNumber": "102",
+    "sequenceNumber": "IG",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ancient Civilizations: Greek &amp; Hebrew",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1209",
+    "courseNumber": "102",
+    "sequenceNumber": "NM",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ancient Civilizations: Greek &amp; Hebrew",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1212",
+    "courseNumber": "102",
+    "sequenceNumber": "SY",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ancient Civilizations: Greek &amp; Hebrew",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1211",
+    "courseNumber": "102",
+    "sequenceNumber": "TL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Ancient Civilizations: Greek &amp; Hebrew",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "06C",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1216",
+    "courseNumber": "210",
+    "sequenceNumber": "AG",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Medieval &amp; Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1217",
+    "courseNumber": "210",
+    "sequenceNumber": "BR",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Medieval &amp; Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1220",
+    "courseNumber": "210",
+    "sequenceNumber": "GN",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Medieval &amp; Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1221",
+    "courseNumber": "210",
+    "sequenceNumber": "LW",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Medieval &amp; Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "200",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1215",
+    "courseNumber": "210",
+    "sequenceNumber": "MK",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Medieval &amp; Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1218",
+    "courseNumber": "210",
+    "sequenceNumber": "OL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Medieval &amp; Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "3115",
+    "courseNumber": "210",
+    "sequenceNumber": "RS",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Medieval &amp; Reformation Theology",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SOUBRU",
+      "buildingDescription": "Soubirou Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "102",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1223",
+    "courseNumber": "215",
+    "sequenceNumber": "AG",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Pauline Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1224",
+    "courseNumber": "215",
+    "sequenceNumber": "BR",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Pauline Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "111",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1227",
+    "courseNumber": "215",
+    "sequenceNumber": "GN",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Pauline Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1228",
+    "courseNumber": "215",
+    "sequenceNumber": "LW",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Pauline Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1222",
+    "courseNumber": "215",
+    "sequenceNumber": "MK",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Pauline Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "MYERS",
+      "buildingDescription": "Myers Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "110",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1225",
+    "courseNumber": "215",
+    "sequenceNumber": "OL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Pauline Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "3116",
+    "courseNumber": "215",
+    "sequenceNumber": "RS",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Studies in Pauline Epistles",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1234",
+    "courseNumber": "324",
+    "sequenceNumber": "CN",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1229",
+    "courseNumber": "324",
+    "sequenceNumber": "JC",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1230",
+    "courseNumber": "324",
+    "sequenceNumber": "ML",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1231",
+    "courseNumber": "324",
+    "sequenceNumber": "PL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1236",
+    "courseNumber": "324",
+    "sequenceNumber": "SP",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "111",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1233",
+    "courseNumber": "324",
+    "sequenceNumber": "UL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1232",
+    "courseNumber": "324",
+    "sequenceNumber": "VA",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "004",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1235",
+    "courseNumber": "324",
+    "sequenceNumber": "ZW",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "American Political Theory and Its Origins",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "111",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1242",
+    "courseNumber": "327",
+    "sequenceNumber": "CN",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "003",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1237",
+    "courseNumber": "327",
+    "sequenceNumber": "JC",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1238",
+    "courseNumber": "327",
+    "sequenceNumber": "ML",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1239",
+    "courseNumber": "327",
+    "sequenceNumber": "PL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1244",
+    "courseNumber": "327",
+    "sequenceNumber": "SP",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1241",
+    "courseNumber": "327",
+    "sequenceNumber": "UL",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1240",
+    "courseNumber": "327",
+    "sequenceNumber": "VA",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "DORENG",
+      "buildingDescription": "Dorothy English Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "61",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1243",
+    "courseNumber": "327",
+    "sequenceNumber": "ZW",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Old Testament Literature",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "GROVE",
+      "buildingDescription": "The Grove",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "07B",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1250",
+    "courseNumber": "440",
+    "sequenceNumber": "BS",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theodicy",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "200",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1251",
+    "courseNumber": "440",
+    "sequenceNumber": "FS",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theodicy",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "200",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1249",
+    "courseNumber": "440",
+    "sequenceNumber": "QD",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theodicy",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1247",
+    "courseNumber": "440",
+    "sequenceNumber": "WY",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theodicy",
+    "creditHours": null,
+    "maximumEnrollment": 18,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1246",
+    "courseNumber": "440",
+    "sequenceNumber": "XN",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theodicy",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "ROSE",
+      "buildingDescription": "Rose Hall",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "005",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1252",
+    "courseNumber": "460",
+    "sequenceNumber": "C1",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Oral Communication",
+    "creditHours": null,
+    "maximumEnrollment": 17,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "SUTHLD",
+      "buildingDescription": "Sutherland Hall",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "200",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1253",
+    "courseNumber": "460",
+    "sequenceNumber": "C2",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Oral Communication",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 2,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 2,
+      "hoursWeek": 2.83,
+      "room": "111",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "HNRS",
+    "CRN": "1255",
+    "courseNumber": "490",
+    "sequenceNumber": "SA",
+    "subjectDescription": "HNRS Torrey Honors",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "TH/Rdgs&amp;Tpcs: Metatorrey",
+    "creditHours": 4,
+    "maximumEnrollment": 16,
+    "waitCapacity": 0,
+    "creditHourHigh": 4,
+    "creditHourLow": 1,
+    "faculty": [],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "111",
+      "days": [
+        "R"
+      ],
+      "dayNames": [
+        "Thursday"
+      ]
+    }
+  }
+]

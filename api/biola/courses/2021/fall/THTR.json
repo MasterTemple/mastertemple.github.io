@@ -1,0 +1,672 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1650",
+    "courseNumber": "109",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370938",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1654",
+    "courseNumber": "110",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre History I",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370938",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "203",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1655",
+    "courseNumber": "112",
+    "sequenceNumber": "L1",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Production Lab I",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370939",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 12,
+      "room": "21",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1659",
+    "courseNumber": "160",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370940",
+        "displayName": "Slater, Rory",
+        "emailAddress": "rory.e.slater@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0800",
+      "endTime": "0915",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "008",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1660",
+    "courseNumber": "160",
+    "sequenceNumber": "02",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370938",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "0900",
+      "endTime": "1015",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "220",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1661",
+    "courseNumber": "160",
+    "sequenceNumber": "03",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theatre Appreciation",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370941",
+        "displayName": "Fernald, Ariel",
+        "emailAddress": "ariel.fernald@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "203",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1651",
+    "courseNumber": "209",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum II",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370938",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1656",
+    "courseNumber": "212",
+    "sequenceNumber": "L2",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Production Lab II",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370939",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 12,
+      "room": "21",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1662",
+    "courseNumber": "216",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Topic",
+    "courseTitle": "Tpcs in Theatre: Improvisation",
+    "creditHours": 3,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": 3,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370939",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "21",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1663",
+    "courseNumber": "241",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Intro to Technical Theatre",
+    "creditHours": null,
+    "maximumEnrollment": 24,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 4,
+    "faculty": [
+      {
+        "bannerId": "370938",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1330",
+      "endTime": "1620",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 4,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1664",
+    "courseNumber": "264",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Beginning Acting",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 4,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370939",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1145",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "21",
+      "days": [
+        "M",
+        "W"
+      ],
+      "dayNames": [
+        "Monday",
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1652",
+    "courseNumber": "309",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum III",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370938",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1665",
+    "courseNumber": "320",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Dance for Musical Theatre",
+    "creditHours": null,
+    "maximumEnrollment": 16,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370942",
+        "displayName": "Bortot, Mary",
+        "emailAddress": "rebekah.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1630",
+      "endTime": "1920",
+      "building": "MARSHB",
+      "buildingDescription": "Marshburn Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 2.83,
+      "room": "MAYERS",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1666",
+    "courseNumber": "353",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Textual Analysis",
+    "creditHours": null,
+    "maximumEnrollment": 20,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370939",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1500",
+      "endTime": "1615",
+      "building": "BUSNBL",
+      "buildingDescription": "Business Building",
+      "creditHourSession": 3,
+      "hoursWeek": 2.5,
+      "room": "202",
+      "days": [
+        "T",
+        "R"
+      ],
+      "dayNames": [
+        "Tuesday",
+        "Thursday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1653",
+    "courseNumber": "409",
+    "sequenceNumber": "01",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Practicum",
+    "courseTitle": "Production Practicum IV",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 5,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370938",
+        "displayName": "Cole, Andrew",
+        "emailAddress": null,
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1030",
+      "endTime": "1320",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 2.83,
+      "room": "21",
+      "days": [
+        "F"
+      ],
+      "dayNames": [
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "THTR",
+    "CRN": "1658",
+    "courseNumber": "412",
+    "sequenceNumber": "L4",
+    "subjectDescription": "THTR Theatre",
+    "scheduleTypeDescription": "Lab",
+    "courseTitle": "Production Lab IV",
+    "creditHours": null,
+    "maximumEnrollment": 8,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370939",
+        "displayName": "Bortot, Zachary",
+        "emailAddress": "zachary.bortot@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/11/2021",
+      "beginTime": "1800",
+      "endTime": "2100",
+      "building": "FINART",
+      "buildingDescription": "Fine Arts Building",
+      "creditHourSession": 1,
+      "hoursWeek": 12,
+      "room": "21",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ]
+    }
+  }
+]

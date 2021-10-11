@@ -1,0 +1,410 @@
+[
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2459",
+    "courseNumber": "8020",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research I: Introduction to Educational Research",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370720",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "11/01/2021",
+      "endDate": "11/05/2021",
+      "beginTime": "0830",
+      "endTime": "1700",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 42.5,
+      "room": "120",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2458",
+    "courseNumber": "8030",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Research II: Qualitative Research",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370719",
+        "displayName": "Eguizabal Escobar, Orbelina",
+        "emailAddress": "orbelina.eguizabal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "11/01/2021",
+      "endDate": "11/05/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "TAEAST",
+      "buildingDescription": "Talbot East",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "114",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2464",
+    "courseNumber": "8050",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Theological Research and Integration for Educational Studies",
+    "creditHours": null,
+    "maximumEnrollment": 12,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370722",
+        "displayName": "Langer, Richard",
+        "emailAddress": "rick.langer@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/30/2021",
+      "beginTime": "1500",
+      "endTime": "1800",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "120",
+      "days": [
+        "M"
+      ],
+      "dayNames": [
+        "Monday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2461",
+    "courseNumber": "8131",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "The Adult Learner and Learning",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370720",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/02/2021",
+      "beginTime": "1500",
+      "endTime": "1800",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "120",
+      "days": [
+        "T"
+      ],
+      "dayNames": [
+        "Tuesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2975",
+    "courseNumber": "8411",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Administration of Christian Higher Education",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370719",
+        "displayName": "Eguizabal Escobar, Orbelina",
+        "emailAddress": "orbelina.eguizabal@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "10/30/2021",
+      "beginTime": "1500",
+      "endTime": "1800",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "120",
+      "days": [
+        "W"
+      ],
+      "dayNames": [
+        "Wednesday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2460",
+    "courseNumber": "8521",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Lecture/Standard",
+    "courseTitle": "Contemporary Christian Education Theory",
+    "creditHours": null,
+    "maximumEnrollment": 15,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370721",
+        "displayName": "Lawson, Kevin",
+        "emailAddress": "kevin.lawson@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "11/08/2021",
+      "endDate": "11/12/2021",
+      "beginTime": "0800",
+      "endTime": "1700",
+      "building": "FEINBR",
+      "buildingDescription": "Feinberg Hall",
+      "creditHourSession": 0,
+      "hoursWeek": 45,
+      "room": "120",
+      "days": [
+        "M",
+        "T",
+        "W",
+        "R",
+        "F"
+      ],
+      "dayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ]
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2468",
+    "courseNumber": "8891",
+    "sequenceNumber": "LA",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Leave of Absence",
+    "courseTitle": "Leave of Absence",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 0,
+    "faculty": [
+      {
+        "bannerId": "370720",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 0,
+      "hoursWeek": 0,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2465",
+    "courseNumber": "8960",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation",
+    "creditHours": null,
+    "maximumEnrollment": 30,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370720",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2466",
+    "courseNumber": "8970",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Extension",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 3,
+    "faculty": [
+      {
+        "bannerId": "370720",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 3,
+      "hoursWeek": 3,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  },
+  {
+    "termDesc": "Fall 2021",
+    "subject": "TTDE",
+    "CRN": "2467",
+    "courseNumber": "8980",
+    "sequenceNumber": "01",
+    "subjectDescription": "TTDE Educational Studies",
+    "scheduleTypeDescription": "Independent Study",
+    "courseTitle": "Dissertation Final Editing",
+    "creditHours": null,
+    "maximumEnrollment": 10,
+    "waitCapacity": 0,
+    "creditHourHigh": null,
+    "creditHourLow": 1,
+    "faculty": [
+      {
+        "bannerId": "370720",
+        "displayName": "Esqueda, Octavio",
+        "emailAddress": "octavio.esqueda@biola.edu",
+        "primaryIndicator": true
+      }
+    ],
+    "location": {
+      "startDate": "08/30/2021",
+      "endDate": "12/18/2021",
+      "beginTime": null,
+      "endTime": null,
+      "building": "NONE",
+      "buildingDescription": "None",
+      "creditHourSession": 1,
+      "hoursWeek": 1,
+      "room": "NOMEETINGS",
+      "days": [],
+      "dayNames": []
+    }
+  }
+]
