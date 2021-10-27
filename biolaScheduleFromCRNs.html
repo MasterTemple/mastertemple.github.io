@@ -65,7 +65,7 @@
         input {
             /* border-radius: 5px; */
             border: none;
-            width: 9ch;
+            width: 6ch;
             color: white;
         }
         input[type="text"]{
@@ -102,9 +102,6 @@
             width: 30ch;
         }
         .room {
-            width: 30ch;
-        }
-        .teacher {
             width: 30ch;
         }
         .headers {
@@ -247,29 +244,12 @@
                 let rowHTML =
                 `<tr id="course${i}">
                 <th class="courseNumber${i} black">${i}</th>
-                <th class="CRN color${i}"></th>
+                <th class="CRN color${i}"><input type="text" class="color${i}" id="crn${i}"/></th>
                 <th class="courseId color${i}"></th>
                 <th class="courseTitle color${i}"></th>
                 <th class="room color${i}"></th>
-                <th class="teacher color${i}"></th>
                 </tr>`
                 document.getElementById("legend").innerHTML += rowHTML
-            }
-        }
-        async function initializeKey(){
-            for(let i = 1; i <= 7; i++){
-                let rowHTML =
-                `<tr id="key${i}">
-                <th class="courseNumber${i} black">${i}</th>
-                <th class="courseId color${i}"><input type="text" list="countries" class="color${i}" id="courseId${i}"/></th>
-                <datalist id="countries"">
-                <option value="Italy">
-                <option value="Sweden">
-                <option value="Denmark">
-                </datalist>
-                <th class="courseTitle color${i}"></th>
-                </tr>`
-                document.getElementById("key").innerHTML += rowHTML
             }
         }
         async function clearLegend(){
@@ -277,25 +257,12 @@
                 let rowHTML =
                 `<tr id="course${i}">
                 <th class="courseNumber${i} black">${i}</th>
-                <th class="CRN color${i}"></th>
+                <th class="CRN color${i}"><input type="text" class="color${i}" id="crn${i}"/></th>
                 <th class="courseId color${i}"></th>
                 <th class="courseTitle color${i}"></th>
                 <th class="room color${i}"></th>
-                <th class="teacher color${i}"></th>
                 </tr>`
                 document.getElementById(`course${i}`).innerHTML = rowHTML
-            }
-            clearKey()
-        }
-        async function clearKey(){
-            for(let i = 1; i <= 7; i++){
-                let rowHTML =
-                `<tr id="key${i}">
-                <th class="courseNumber${i} black">${i}</th>
-                <th class="courseId color${i}"><input type="text" class="color${i}" id="courseId${i}"/></th>
-                <th class="courseTitle color${i}"></th>
-                </tr>`
-                document.getElementById(`key${i}`).innerHTML = rowHTML
             }
         }
         async function updateLegend(courseData){
@@ -481,7 +448,6 @@
         document.addEventListener("DOMContentLoaded", function(event) {
             initializeTable()
             initializeLegend()
-            initializeKey()
         });
 
         document.addEventListener("keyup", function(event) {
@@ -511,6 +477,7 @@
             }
             document.execCommand("Copy");
         }
+
         function copyTable() {
             //copied from stack overflow
             let el = document.getElementById("schedule")
@@ -549,13 +516,13 @@
     <div class="row">
         <div class="column">
             <h1 id="title">Biola Spring 2022 Class Schedule</h1>
-            <table id="key">
-                <tr id="keHeader">
+            <table id="legend">
+                <tr id="legendHeader">
                     <th class="black">#</th>
-                    <!-- <th class="black">CRN</th> -->
+                    <th class="black">CRN</th>
                     <th class="black">Course</th>
                     <th class="black">Title</th>
-                    <!-- <th class="black">Room</th> -->
+                    <th class="black">Room</th>
                 </tr>
             </table>
             <br>
@@ -571,16 +538,6 @@
                     <option value="Fall 2021">Fall 2021</option>
             </select>
             <!-- </span> -->
-            <table id="legend">
-                <tr id="legendHeader">
-                    <th class="black">#</th>
-                    <th class="black">CRN</th>
-                    <th class="black">Course</th>
-                    <th class="black">Title</th>
-                    <th class="black">Room</th>
-                    <th class="black">Teacher</th>
-                </tr>
-            </table>
 
         </div>
         <div class="column">
