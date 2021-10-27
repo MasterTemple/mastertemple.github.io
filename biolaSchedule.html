@@ -67,6 +67,7 @@
             border: none;
             width: 9ch;
             color: white;
+            text-transform: uppercase;
         }
         input[type="text"]{
             font-weight: bold;
@@ -153,11 +154,14 @@
 
     </style>
     <script>
+        const ENTER_KEY = 13;
+        const TAB_KEY = 9;
         var militaryTimes = generateMilitaryTimeRange(800,1800)
         var includeWeekends = false
         var year = "2022"
         var semester = "spring"
         var courseList
+        var courseNames
         async function get(url){
             return new Promise( (resolve, reject) => {
                 fetch(url)
@@ -202,6 +206,36 @@
                 document.getElementById("schedule").innerHTML += rowHTML
             }
         }
+        async function initializeLegend(){
+            for(let i = 1; i <= 7; i++){
+                let rowHTML =
+                `<tr id="course${i}">
+                <th class="courseNumber${i} black">${i}</th>
+                <th class="CRN color${i}"></th>
+                <th class="courseId color${i}"></th>
+                <th class="courseTitle color${i}"></th>
+                <th class="room color${i}"></th>
+                <th class="teacher color${i}"></th>
+                </tr>`
+                document.getElementById("legend").innerHTML += rowHTML
+            }
+        }
+        async function initializeKey(){
+            for(let i = 1; i <= 7; i++){
+                let rowHTML =
+                `<tr id="key${i}">
+                <th class="courseNumber${i} black">${i}</th>
+                <th class="courseId color${i}"><input id="input${i}" type="text" class="color${i}" id="courseId${i}"/></th>
+                <datalist id="countries"">
+                <option value="Italy">
+                <option value="Sweden">
+                <option value="Denmark">
+                </datalist>
+                <th class="courseTitle color${i}"></th>
+                </tr>`
+                document.getElementById("key").innerHTML += rowHTML
+            }
+        }
         async function clearTable(){
             let sunday = ""
             let saturday = ""
@@ -242,36 +276,6 @@
             }
             document.getElementById("schedule").innerHTML = newTable
 
-        }
-        async function initializeLegend(){
-            for(let i = 1; i <= 7; i++){
-                let rowHTML =
-                `<tr id="course${i}">
-                <th class="courseNumber${i} black">${i}</th>
-                <th class="CRN color${i}"></th>
-                <th class="courseId color${i}"></th>
-                <th class="courseTitle color${i}"></th>
-                <th class="room color${i}"></th>
-                <th class="teacher color${i}"></th>
-                </tr>`
-                document.getElementById("legend").innerHTML += rowHTML
-            }
-        }
-        async function initializeKey(){
-            for(let i = 1; i <= 7; i++){
-                let rowHTML =
-                `<tr id="key${i}">
-                <th class="courseNumber${i} black">${i}</th>
-                <th class="courseId color${i}"><input type="text" list="countries" class="color${i}" id="courseId${i}"/></th>
-                <datalist id="countries"">
-                <option value="Italy">
-                <option value="Sweden">
-                <option value="Denmark">
-                </datalist>
-                <th class="courseTitle color${i}"></th>
-                </tr>`
-                document.getElementById("key").innerHTML += rowHTML
-            }
         }
         async function clearLegend(){
             for(let i = 1; i <= 7; i++){
@@ -478,19 +482,46 @@
             return times
 
         }
+        function updateInput(inputID){
+            let element = document.getElementById(inputID)
+            element.value =  element.value.toUpperCase()
+            let name = element.value.match(/\w+/)?.[0] || ""
+            let courseNumber = element.value.match(/(?<=^\w+ )\d+/g)?.[0] || undefined
+            console.log({name, courseNumber});
+            let suggestedCourseName
+            let suggestedCourseNum
+            if(!courseNumber){
+                let re = new RegExp(`^${name}`)
+                suggestedCourseName = courseNames.find(f=>f.match(re))
+            }else{
+                let nameRegex = new RegExp(`^${name}`)
+                let numberRegex = new RegExp(`^${courseNumber}`)
+                suggestedCourseName = courseNames.find(f=>f.match(nameRegex))
+                suggestedCourseNum = courseList[suggestedCourseName].find(e => e.match(numberRegex))
+            }
+            if(!suggestedCourseName){
+                //invalid class name
+            }
 
+            console.log({suggestedCourseName, suggestedCourseNum});
+        }
         document.addEventListener("DOMContentLoaded", async function(event) {
             initializeTable()
             initializeLegend()
             initializeKey()
             courseList = await get(`https://mastertemple.github.io/api/biola/courses/${year}/${semester}/IDs.json`)
+            courseNames = Object.keys(courseList)
         });
 
         document.addEventListener("keyup", function(event) {
-            if (event.keyCode === 13) {
+            if (event.keyCode === ENTER_KEY) {
                 createSchedule()
             }
         });
+        document.addEventListener("input", ({target}) => {
+            // console.log(e.target.id)
+            updateInput(target.id)
+        })
         function copyLegend() {
             //copied from stack overflow
             let el = document.getElementById("legend")
@@ -542,6 +573,7 @@
             year = sem.match(/\d+/g)[0].toLowerCase()
             semester = sem.match(/[a-zA-z]+/g)[0].toLowerCase()
             courseList = await get(`https://mastertemple.github.io/api/biola/courses/${year}/${semester}/IDs.json`)
+            courseNames = Object.keys(courseList)
 
             // console.log({year, semester});
         }
