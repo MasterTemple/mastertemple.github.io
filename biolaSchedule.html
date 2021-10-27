@@ -157,6 +157,7 @@
         var includeWeekends = false
         var year = "2022"
         var semester = "spring"
+        var courseList
         async function get(url){
             return new Promise( (resolve, reject) => {
                 fetch(url)
@@ -478,10 +479,11 @@
 
         }
 
-        document.addEventListener("DOMContentLoaded", function(event) {
+        document.addEventListener("DOMContentLoaded", async function(event) {
             initializeTable()
             initializeLegend()
             initializeKey()
+            courseList = await get(`https://mastertemple.github.io/api/biola/courses/${year}/${semester}/IDs.json`)
         });
 
         document.addEventListener("keyup", function(event) {
@@ -533,13 +535,15 @@
             }
             document.execCommand("Copy");
         }
-        function changeSemester() {
+        async function changeSemester() {
             let sem = document.getElementById("semester").value
             document.getElementById("title").innerHTML = `<h1 id="title">Biola ${sem} Class Schedule</h1>`
             // console.log(semester.value);
             year = sem.match(/\d+/g)[0].toLowerCase()
             semester = sem.match(/[a-zA-z]+/g)[0].toLowerCase()
-            console.log({year, semester});
+            courseList = await get(`https://mastertemple.github.io/api/biola/courses/${year}/${semester}/IDs.json`)
+
+            // console.log({year, semester});
         }
 
 
