@@ -5,7 +5,7 @@
   --text-secondary: #ececec;
   --bg-primary: #23232e;
   --bg-secondary: #141418;
-  --transition-speed: 600ms;
+  --transition-speed: 400ms;
   --accent-color: rgb(43, 206, 2);
 }
 
@@ -101,9 +101,13 @@ svg > path, svg > line, svg > polygon, svg > polyline {
 }
 
 svg {
-  transform: rotate(-20deg);
+  transform: rotate(-90deg);
   transition: var(--transition-speed);
 }
 .navbar:hover svg {
   transform: rotate(0deg);
+}
+
+.navbar {
+  z-index: 9999;
 }
