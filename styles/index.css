@@ -6,7 +6,7 @@
   --bg-primary: #23232e;
   --bg-secondary: #141418;
   --transition-speed: 400ms;
-  --accent-color: rgb(43, 206, 2);
+  --accent-color: rgb(26, 206, 2);
 }
 
 body {
@@ -65,12 +65,16 @@ main {
   align-items: center;
   height: 5rem;
   color: var(--text-primary);
+  color: white;
   text-decoration: none;
-  filter: grayscale(100%) opacity(0.7);
+  filter: grayscale(90%) opacity(.7);
+
   transition: var(--transition-speed);
 }
 
 .nav-link:hover {
+  /* color: var(--text-primary); */
+
   filter: grayscale(0%) opacity(1);
   background: var(--bg-secondary);
   color: var(--text-secondary);
@@ -95,9 +99,12 @@ main {
 }
 svg > path, svg > line, svg > polygon, svg > polyline {
   stroke: var(--accent-color);
-  fill: none;
+  /* fill: none; */
   transition: var(--transition-speed);
+}
 
+.fill-svg {
+  fill: var(--accent-color);
 }
 
 svg {
