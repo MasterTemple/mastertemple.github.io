@@ -226,11 +226,6 @@
                 `<tr id="key${i}">
                 <th class="courseNumber${i} black">${i}</th>
                 <th class="courseId color${i}"><input id="input${i}" type="text" class="color${i}" id="courseId${i}"/></th>
-                <datalist id="countries"">
-                <option value="Italy">
-                <option value="Sweden">
-                <option value="Denmark">
-                </datalist>
                 <th class="courseTitle color${i}"></th>
                 </tr>`
                 document.getElementById("key").innerHTML += rowHTML
@@ -486,19 +481,29 @@
             let element = document.getElementById(inputID)
             element.value =  element.value.toUpperCase()
             let name = element.value.match(/\w+/)?.[0] || ""
+
             let courseNumber = element.value.match(/(?<=^\w+ )\d+/g)?.[0] || undefined
-            console.log({name, courseNumber});
+            // console.log({name, courseNumber});
+            console.log(element.value);
             let suggestedCourseName
             let suggestedCourseNum
             if(!courseNumber){
                 let re = new RegExp(`^${name}`)
                 suggestedCourseName = courseNames.find(f=>f.match(re))
+                if(element.value.includes(" ")){
+                    suggestedCourseNum = courseList[suggestedCourseName][0]
+                }
+
             }else{
                 let nameRegex = new RegExp(`^${name}`)
                 let numberRegex = new RegExp(`^${courseNumber}`)
                 suggestedCourseName = courseNames.find(f=>f.match(nameRegex))
                 suggestedCourseNum = courseList[suggestedCourseName].find(e => e.match(numberRegex))
             }
+
+
+            // console.log(element);
+
             if(!suggestedCourseName){
                 //invalid class name
             }

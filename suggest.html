@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <!-- <style>
+    input {
+    }
+  </style> -->
+  <script>
+
+    function updateInput(inputID){
+      let element = document.getElementById(inputID)
+      let suggestion = " + extra text"
+      console.log(element.textContent);
+      element.textContent = element.textContent + suggestion
+    }
+
+    document.addEventListener("input", ({target}) => {
+      console.log(target.id)
+      updateInput(target.id)
+    })
+
+  </script>
+</head>
+<body>
+
+  <!-- <input id="box" type="text"> -->
+  <!-- <p id="box" contenteditable="true"></p> -->
+  <div id="class1" contenteditable="true" width="9ch">
+  </div>
+
+</body>
+</html>
