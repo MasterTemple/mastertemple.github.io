@@ -6,7 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <script>
-    window.location.href = "https://htmlpreview.github.io/?https://github.com/MasterTemple/ScriptureHub/main/index.html"
+     let newUrl = "https://htmlpreview.github.io/?https://github.com/MasterTemple/ScriptureHub/main/index.html"
+     let verse = window.location.toString().match(/(?<=\?).*/gim)
+
+     if(verse) {
+       verse = decodeURI(verse[0])
+       newUrl = newUrl + "?" + verse;
+      } else {
+        newUrl = newUrl + "?John 1:1-3"
+      }
+      alert(newUrl)
+     window.location = newUrl
   </script>
 </head>
 <body>
