@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frosty to EBX Converter</title>
+    <script>
+      function convert(frosty) {
+        frosty = frosty.replace(/\s*/g, "");
+        if (frosty.length !== 32)
+          return `${frosty.length} is an invalid input length`;
+        let first = frosty.match(/^.{16}/)[0];
+        let second = frosty.match(/.{16}$/)[0];
+        let divisions = first.match(/.{2}/g);
+        let ebx =
+          divisions[3] +
+          divisions[2] +
+          divisions[1] +
+          divisions[0] +
+          divisions[5] +
+          divisions[4] +
+          divisions[7] +
+          divisions[6] +
+          second;
+        return ebx;
+      }
+      function convert_frosty() {
+        let input = document.getElementById("input");
+        if (input.value.length === 0) return;
+        let output = document.getElementById("output");
+        let ebx = convert(input.value);
+        output.value = ebx;
+      }
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Enter") convert_frosty();
+      });
+
+      document.addEventListener("paste", (event) => {
+        setTimeout(convert_frosty, 200);
+      });
+
+      document.getElementById("input").focus();
+    </script>
+    <style>
+      input.text {
+        width: 36ch;
+      }
+      * {
+        font-family: "Courier New", Courier, monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Frosty to EBX Converter</h2>
+    <p>Input your 32 character Frosty GUID</p>
+    <input type="text" class="text" name="" id="input" />
+    <input type="text" class="text" name="" id="output" disabled="true" />
+    <input type="button" value="Convert" onclick="convert_frosty()" />
+  </body>
+</html>
