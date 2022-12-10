@@ -8,6 +8,7 @@
     <script>
       function convert(frosty) {
         frosty = frosty.replace(/\s*/g, "");
+        frosty = frosty.replace(/\-/g, "");
         if (frosty.length !== 32)
           return `${frosty.length} is an invalid input length`;
         let first = frosty.match(/^.{16}/)[0];
