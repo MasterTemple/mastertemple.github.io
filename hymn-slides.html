@@ -84,12 +84,15 @@
       document.addEventListener("keydown", (event) => {
         // go to next slide
         if (event.key === "ArrowRight" || event.key === " ") {
-          currentSlide = Math.min(currentSlide + 1, 1);
+          currentSlideIndex = Math.min(
+            currentSlideIndex + 1,
+            slides.length - 1
+          );
           update();
         }
         // go to previous slide
         else if (event.key === "ArrowLeft") {
-          currentSlide = Math.max(currentSlide - 1, 1);
+          currentSlideIndex = Math.max(currentSlideIndex - 1, 0);
           update();
         }
         // go to default slides
