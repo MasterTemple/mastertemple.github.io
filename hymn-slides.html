@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hymn Slides</title>
+    <style>
+      * {
+        background-color: #222222;
+        color: white;
+        font-size: 48px;
+      }
+      #slide {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 2em;
+        text-align: center;
+      }
+      #slide-count {
+        position: absolute;
+        bottom: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 1em;
+        text-align: center;
+      }
+      .blue {
+        color: #3d80fc;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="slide"></div>
+    <div id="slide-count"></div>
+
+    <script>
+      const defaultSlides = [
+        `<span class="blue">Paste</span> the lyrics on this page to create slides.\nHave <span class="blue">1</span> newline between each line.\nHave <span class="blue">2</span> newlines between each section.\nHit <span class="blue">Ctrl+V</span> to change the lyrics.\nHit <span class="blue">Escape</span> to return to this page.\nUse the <span class="blue">Arrow Keys</span> to Navigate pages`,
+      ];
+      let slides = defaultSlides;
+      let currentSlideIndex = 0;
+
+      const slideElement = document.getElementById("slide");
+      const slideCountElement = document.getElementById("slide-count");
+
+      updateSlideElement();
+      updateSlideCount();
+      // slideElement.innerHTML = "<pre>" + slides[currentSlideIndex] + "</pre>";
+
+      function updateSlideElement() {
+        slideElement.innerHTML = "<pre>" + slides[currentSlideIndex] + "</pre>";
+      }
+
+      function updateSlideCount() {
+        slideCountElement.innerHTML = `<pre>${currentSlideIndex + 1}/${
+          slides.length
+        }</pre>`;
+      }
+
+      document.addEventListener("keydown", (event) => {
+        if (
+          (event.key === "ArrowRight" || event.key === "Space") &&
+          currentSlideIndex < slides.length - 1
+        ) {
+          currentSlideIndex++;
+          updateSlideElement();
+          updateSlideCount();
+        } else if (event.key === "ArrowLeft" && currentSlideIndex > 0) {
+          currentSlideIndex--;
+          updateSlideElement();
+          updateSlideCount();
+        } else if (event.key === "Escape") {
+          slides = defaultSlides;
+          currentSlideIndex = 0;
+          updateSlideElement();
+          updateSlideCount();
+        }
+      });
+
+      document.addEventListener("paste", (event) => {
+        slides = event.clipboardData
+          .getData("text")
+          .replace(/\r+/g, "")
+          .replace(/^\d+\./gim, "")
+          .split(/\n{2}/g);
+        currentSlideIndex = 0;
+        updateSlideElement();
+        updateSlideCount();
+      });
+    </script>
+  </body>
+</html>
