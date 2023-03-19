@@ -30,6 +30,9 @@
       .blue {
         color: #3d80fc;
       }
+      .hide {
+        display: none;
+      }
     </style>
   </head>
   <body>
@@ -39,7 +42,7 @@
     <script>
       const title = "Hymn Slides";
       const defaultSlides = [
-        `<span class="blue">Paste</span> the lyrics on this page to create slides.\nHave <span class="blue">1</span> newline between each line.\nHave <span class="blue">2</span> newlines between each section.\nHit <span class="blue">Ctrl+V</span> to change the lyrics.\nHit <span class="blue">Escape</span> to return to this page.\nUse the <span class="blue">Arrow Keys</span> to Navigate pages\nPress <span class="blue">T</span> to toggle Light/Dark theme.`,
+        `<span class="blue">Paste</span> the lyrics on this page to create slides.\nHave <span class="blue">1</span> newline between each line.\nHave <span class="blue">2</span> newlines between each section.\nHit <span class="blue">Ctrl+V</span> to change the lyrics.\nHit <span class="blue">Escape</span> to return to this page.\nUse the <span class="blue">Arrow Keys</span> to Navigate pages.\nPress <span class="blue">T</span> to toggle Light/Dark theme.`,
       ];
       let slides = defaultSlides;
       let currentSlideIndex = 0;
@@ -80,16 +83,13 @@
 
       document.addEventListener("keydown", (event) => {
         // go to next slide
-        if (
-          (event.key === "ArrowRight" || event.key === " ") &&
-          currentSlideIndex < slides.length - 1
-        ) {
-          currentSlideIndex++;
+        if (event.key === "ArrowRight" || event.key === " ") {
+          currentSlide = Math.min(currentSlide + 1, 1);
           update();
         }
         // go to previous slide
-        else if (event.key === "ArrowLeft" && currentSlideIndex > 0) {
-          currentSlideIndex--;
+        else if (event.key === "ArrowLeft") {
+          currentSlide = Math.max(currentSlide - 1, 1);
           update();
         }
         // go to default slides
