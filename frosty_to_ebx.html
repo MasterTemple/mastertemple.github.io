@@ -7,13 +7,20 @@
     <title>Frosty to EBX Converter</title>
     <script>
       function convert(frosty) {
+        // remove all white space
         frosty = frosty.replace(/\s*/g, "");
+        // remove all dashes
         frosty = frosty.replace(/\-/g, "");
+        // give error if wrong length
         if (frosty.length !== 32)
           return `${frosty.length} is an invalid input length`;
+        // get first 16 characters
         let first = frosty.match(/^.{16}/)[0];
+        // get second 16 characters
         let second = frosty.match(/.{16}$/)[0];
+        // divide first 16 characters into groups of 2
         let divisions = first.match(/.{2}/g);
+        // add all the groups of strings together
         let ebx =
           divisions[3] +
           divisions[2] +
@@ -24,6 +31,7 @@
           divisions[7] +
           divisions[6] +
           second;
+        // return the final string
         return ebx;
       }
       function convert_frosty() {
