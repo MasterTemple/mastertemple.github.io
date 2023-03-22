@@ -5,7 +5,7 @@
     <title>Hymn Slides</title>
     <style>
       * {
-        font-size: 48px;
+        font-size: 40px;
       }
       .dark {
         background-color: #222222;
@@ -33,6 +33,9 @@
       .hide {
         display: none;
       }
+      pre {
+        /* font-family: "Times New Roman", Times, serif; */
+      }
     </style>
   </head>
   <body>
@@ -42,7 +45,7 @@
     <script>
       const title = "Hymn Slides";
       const defaultSlides = [
-        `<span class="blue">Paste</span> the lyrics on this page to create slides.\nHave <span class="blue">1</span> newline between each line.\nHave <span class="blue">2</span> newlines between each section.\nHit <span class="blue">Ctrl+V</span> to change the lyrics.\nHit <span class="blue">Escape</span> to return to this page.\nUse the <span class="blue">Arrow Keys</span> to Navigate pages.\nPress <span class="blue">T</span> to toggle Light/Dark theme.`,
+        `<span class="blue">Paste</span> the lyrics on this page to create slides.\nHave <span class="blue">1</span> newline between each line.\nHave <span class="blue">2</span> newlines between each section.\nHit <span class="blue">Ctrl+V</span> to change the lyrics.\nHit <span class="blue">Escape</span> to return to this page.\nUse the <span class="blue">Arrow Keys</span> to Navigate pages.\nPress <span class="blue">T</span> to toggle Light/Dark theme.\nPress <span class="blue">C</span> to toggle slide counter.`,
       ];
       let slides = defaultSlides;
       let currentSlideIndex = 0;
@@ -81,9 +84,20 @@
       // set dark theme on load
       toggleTheme();
 
+      // hide counter
+      function toggleCounter() {
+        document.getElementById("slide-count").classList.toggle("hide");
+      }
+
+      const leftMotions = ["ArrowLeft", "h"];
+      const rightMotions = ["ArrowRight", " ", "l"];
+      const firstMotions = ["0", "^"];
+      const lastMotions = ["$"];
+
       document.addEventListener("keydown", (event) => {
+        const key = event.key;
         // go to next slide
-        if (event.key === "ArrowRight" || event.key === " ") {
+        if (rightMotions.includes(key)) {
           currentSlideIndex = Math.min(
             currentSlideIndex + 1,
             slides.length - 1
@@ -91,19 +105,33 @@
           update();
         }
         // go to previous slide
-        else if (event.key === "ArrowLeft") {
+        else if (leftMotions.includes(key)) {
           currentSlideIndex = Math.max(currentSlideIndex - 1, 0);
           update();
         }
+        // go to first slide
+        else if (firstMotions.includes(key)) {
+          currentSlideIndex = 0;
+          update();
+        }
+        // go to last slide
+        else if (lastMotions.includes(key)) {
+          currentSlideIndex = slides.length - 1;
+          update();
+        }
         // go to default slides
-        else if (event.key === "Escape") {
+        else if (key === "Escape") {
           slides = defaultSlides;
           currentSlideIndex = 0;
           update();
         }
         // toggle theme
-        else if (event.key === "t") {
+        else if (key === "t") {
           toggleTheme();
+        }
+        // toggle counter
+        else if (key === "c") {
+          toggleCounter();
         }
       });
 
