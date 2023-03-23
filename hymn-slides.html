@@ -96,8 +96,14 @@
 
       document.addEventListener("keydown", (event) => {
         const key = event.key;
+				// if an index to a slide
+				if(key.match(/^\d+$/)) {
+					let index = parseInt(key.match(/^\d+$/)[0]) - 1
+					if(index < slides.length-1) currentSlideIndex = index;
+					update();
+				}
         // go to next slide
-        if (rightMotions.includes(key)) {
+        else if (rightMotions.includes(key)) {
           currentSlideIndex = Math.min(
             currentSlideIndex + 1,
             slides.length - 1
