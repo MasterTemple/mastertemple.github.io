@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ace Editor with Vim Keybindings</title>
+    <script src="https://cdn.jsdelivr.net/npm/ace-builds/src-min-noconflict/ace.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ace-builds/src-min-noconflict/ext-language_tools.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ace-builds/src-min-noconflict/keybinding-vim.js"></script>
+    <style>
+      #editor {
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+      }
+      body {
+        overflow: hidden;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="editor">test</div>
+    <script>
+      var editor = ace.edit("editor");
+      editor.setTheme("ace/theme/monokai");
+      editor.session.setMode("ace/mode/html");
+      editor.setKeyboardHandler("ace/keyboard/vim");
+      editor.setFontSize(24);
+    </script>
+  </body>
+</html>

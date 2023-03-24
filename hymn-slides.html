@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <title>Hymn Slides</title>
     <style>
-      * {
-        font-size: 40px;
+      .font-settings {
+        font-size: 24px;
       }
       .dark {
         background-color: #222222;
@@ -36,18 +36,42 @@
       pre {
         /* font-family: "Times New Roman", Times, serif; */
       }
+      #editor {
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+      }
+      .no-overflow {
+        overflow: hidden;
+        margin: 0;
+      }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/ace-builds/src-min-noconflict/ace.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ace-builds/src-min-noconflict/ext-language_tools.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ace-builds/src-min-noconflict/keybinding-vim.js"></script>
   </head>
-  <body>
+  <body class="font-settings">
+    <div id="editor" class="hide"></div>
     <div id="slide"></div>
     <div id="slide-count"></div>
 
     <script>
       const title = "Hymn Slides";
       const defaultSlides = [
-        `<span class="blue">Paste</span> the lyrics on this page to create slides.\nHave <span class="blue">1</span> newline between each line.\nHave <span class="blue">2</span> newlines between each section.\nHit <span class="blue">Ctrl+V</span> to change the lyrics.\nHit <span class="blue">Escape</span> to return to this page.\nUse the <span class="blue">Arrow Keys</span> to Navigate pages.\nPress <span class="blue">T</span> to toggle Light/Dark theme.\nPress <span class="blue">C</span> to toggle slide counter.`,
-      ];
-      let slides = defaultSlides;
+        // `<span class="blue">Paste</span> the lyrics on this page to create slides.\nHave <span class="blue">1</span> newline between each line.\nHave <span class="blue">2</span> newlines between each section.\nHit <span class="blue">Ctrl+V</span> to change the lyrics.\nHit <span class="blue">Escape</span> to return to this page.\nUse the <span class="blue">Arrow Keys</span> to Navigate pages.\nPress <span class="blue">T</span> to toggle Light/Dark theme.\nPress <span class="blue">C</span> to toggle slide counter.`,
+        `<span class="blue">Paste</span> the lyrics on this page to create slides.`,
+        `Use the <span class="blue">Arrow Keys</span> to Navigate pages.`,
+        `Hit <span class="blue">Escape</span> to return to this page.`,
+        `Hit <span class="blue">Ctrl+V</span> to change the lyrics.`,
+        `Have <span class="blue">1</span> newline between each line.`,
+        `Have <span class="blue">2</span> newlines between each section.`,
+        `Press <span class="blue">T</span> to toggle Light/Dark theme.`,
+        `Press <span class="blue">C</span> to toggle slide counter.`,
+        `Press <span class="blue">I</span> to toggle the lyric editor.`,
+      ].join("\n");
+
+      // initialize
+      let slides;
       let currentSlideIndex = 0;
 
       // initializing slides and counter
@@ -55,8 +79,7 @@
       const slideCountElement = document.getElementById("slide-count");
 
       // setting slides and counter
-      updateSlideElement();
-      updateSlideCount();
+      convertTextToSlides(defaultSlides);
 
       // change slide
       function updateSlideElement() {
@@ -89,20 +112,46 @@
         document.getElementById("slide-count").classList.toggle("hide");
       }
 
+      // set up editor
+      var editor = ace.edit("editor");
+      editor.setTheme("ace/theme/monokai");
+      editor.session.setMode("ace/mode/html");
+      editor.setKeyboardHandler("ace/keyboard/vim");
+      editor.setFontSize(24);
+
+      // toggle editor
+      function toggleEditor() {
+        document.getElementById("editor").classList.toggle("hide");
+        document.getElementById("slide").classList.toggle("hide");
+        document.getElementById("slide-count").classList.toggle("hide");
+        document.body.classList.toggle("no-overflow");
+        document.body.classList.toggle("font-settings");
+      }
+
       const leftMotions = ["ArrowLeft", "h"];
       const rightMotions = ["ArrowRight", " ", "l"];
       const firstMotions = ["0", "^"];
       const lastMotions = ["$"];
+      var isVimMode = false;
 
       document.addEventListener("keydown", (event) => {
         const key = event.key;
-				// if an index to a slide
-				if(key.match(/^\d+$/)) {
-					let index = parseInt(key.match(/^\d+$/)[0]) - 1
-					if(index === -1) index = 0;
-					if(0 <= index && index < slides.length) currentSlideIndex = index;
-					update();
-				}
+        if (isVimMode) {
+          if (key === "Escape") {
+            // exit the editor
+            isVimMode = false;
+            convertTextToSlides(editor.getValue());
+            toggleEditor();
+          }
+          return;
+        }
+        // if an index to a slide
+        if (key.match(/^\d+$/)) {
+          let index = parseInt(key.match(/^\d+$/)[0]) - 1;
+          if (index === -1) index = 0;
+          if (0 <= index && index < slides.length) currentSlideIndex = index;
+          update();
+        }
         // go to next slide
         else if (rightMotions.includes(key)) {
           currentSlideIndex = Math.min(
@@ -128,7 +177,8 @@
         }
         // go to default slides
         else if (key === "Escape") {
-          slides = defaultSlides;
+          // slides = defaultSlides;
+          convertTextToSlides(defaultSlides);
           currentSlideIndex = 0;
           update();
         }
@@ -140,31 +190,57 @@
         else if (key === "c") {
           toggleCounter();
         }
+        // go to the editor (i for insert mode)
+        else if (key === "i") {
+          isVimMode = true;
+          editor.session.setValue(slides.join("\n"));
+          toggleEditor();
+          editor.focus();
+        }
       });
 
-      document.addEventListener("paste", (event) => {
-        // change clipboard data into slides
-        let text = event.clipboardData.getData("text");
+      function convertTextToSlides(text) {
         // add an extra \n at the bottom if it doesnt have one to make the match 4 lines work
         if (!text.match(/\n$/)) text += "\n";
-        slides = text
+        text = text
           // remove \r to mess up line counting
           .replace(/\r+/g, "")
           // remove line numbers at beginning of verses
           .replace(/^\d+\.?/gim, "")
-					// remove chorus/verse/bridge \d:
-					.replace(/^((pre-?)?chorus|verse|bridge).*$/gmi, "")
-          // split every 2 newlines
-          .split(/\n{2}/g);
+          // remove chorus/verse/bridge \d:
+          .replace(/^((pre-?)?chorus|verse|bridge).*$/gim, "")
+          // trim white space at each line
+          .replace(/^\s+/gm, "")
+          .replace(/\s+$/gm, "");
+
+        // split every 2 newlines
+        slides = text.split(/\n{2}/g);
 
         // if it is not separated, separate every 4 lines
         if (slides.length === 1) {
-          slides = slides[0].match(/((?:.*?\n){3}.*?\n)/g);
+          let lines = text.match(/^.*$/gm).filter((l) => l.length > 0);
+          let sections = [];
+          let this_section = [];
+          for (let line of lines) {
+            this_section.push(line);
+            if (this_section.length === 4) {
+              sections.push(this_section.join("\n"));
+              this_section = [];
+            }
+          }
+          if (this_section.length > 0) sections.push(this_section.join("\n"));
+          slides = sections;
         }
 
         // start from beginning with new slides
         currentSlideIndex = 0;
         update();
+      }
+
+      document.addEventListener("paste", (event) => {
+        // change clipboard data into slides
+        let text = event.clipboardData.getData("text");
+        convertTextToSlides(text);
       });
     </script>
   </body>
