@@ -99,7 +99,8 @@
 				// if an index to a slide
 				if(key.match(/^\d+$/)) {
 					let index = parseInt(key.match(/^\d+$/)[0]) - 1
-					if(index < slides.length-1) currentSlideIndex = index;
+					if(index === -1) index = 0;
+					if(0 <= index && index < slides.length) currentSlideIndex = index;
 					update();
 				}
         // go to next slide
@@ -151,6 +152,8 @@
           .replace(/\r+/g, "")
           // remove line numbers at beginning of verses
           .replace(/^\d+\.?/gim, "")
+					// remove chorus/verse/bridge \d:
+					.replace(/^((pre-?)?chorus|verse|bridge).*$/gmi, "")
           // split every 2 newlines
           .split(/\n{2}/g);
 
