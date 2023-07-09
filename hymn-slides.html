@@ -209,6 +209,10 @@
           .replace(/^\d+\.?/gim, "")
           // remove chorus/verse/bridge \d:
           .replace(/^((pre-?)?chorus|verse|bridge).*$/gim, "")
+          // remove refrain
+          .replace(/refrain:/i, "")
+          // remove everything in []
+          .replace(/\[[^\]]+\]/, "")
           // trim white space at each line
           .replace(/^\s+/gm, "")
           .replace(/\s+$/gm, "");
