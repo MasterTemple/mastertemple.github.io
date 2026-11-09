@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Homify</title>
+<meta name="description" content="Swap every homophone in a text for one of its sound-alikes.">
+<style>
+  :root {
+    --bg: #f6f5f1;
+    --panel: #ffffff;
+    --text: #1d1d1f;
+    --muted: #6b6b70;
+    --border: #dcdad3;
+    --accent: #2f6fdb;
+    --accent-text: #ffffff;
+    --mark: #ffe58a;
+    --mark-text: #1d1d1f;
+    --warn-bg: #fff4e0;
+    --warn-text: #8a4b00;
+    --radius: 10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17171a;
+      --panel: #222226;
+      --text: #ececef;
+      --muted: #9a9aa2;
+      --border: #3a3a40;
+      --accent: #6b9cff;
+      --accent-text: #0d0d10;
+      --mark: #6b5a12;
+      --mark-text: #fff6cc;
+      --warn-bg: #3a2a10;
+      --warn-text: #ffcf8a;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #17171a;
+    --panel: #222226;
+    --text: #ececef;
+    --muted: #9a9aa2;
+    --border: #3a3a40;
+    --accent: #6b9cff;
+    --accent-text: #0d0d10;
+    --mark: #6b5a12;
+    --mark-text: #fff6cc;
+    --warn-bg: #3a2a10;
+    --warn-text: #ffcf8a;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px 16px 48px;
+  }
+  header h1 { margin: 0; font-size: 1.7rem; letter-spacing: -0.01em; }
+  header p { margin: 4px 0 18px; color: var(--muted); }
+  header em { font-style: normal; color: var(--text); }
+
+  .panes {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+  @media (min-width: 820px) {
+    .panes { grid-template-columns: 1fr 1fr; }
+  }
+  .pane {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .pane-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 8px 10px 8px 14px;
+    border-bottom: 1px solid var(--border);
+    min-height: 48px;
+  }
+  .pane-head h2 { margin: 0; font-size: 0.95rem; font-weight: 600; }
+  .pane-head .meta { color: var(--muted); font-size: 0.85rem; margin-left: auto; }
+  textarea, input[type="text"], input[type="number"] {
+    font: inherit;
+    font-size: 16px; /* prevents iOS zoom on focus */
+    color: var(--text);
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    width: 100%;
+  }
+  textarea:focus, input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  #input {
+    border: 0;
+    border-radius: 0 0 var(--radius) var(--radius);
+    min-height: 220px;
+    resize: vertical;
+    flex: 1;
+  }
+  #output {
+    padding: 10px 12px;
+    min-height: 220px;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    flex: 1;
+  }
+  #output:empty::before { content: "Output appears here."; color: var(--muted); }
+  mark {
+    background: var(--mark);
+    color: var(--mark-text);
+    border-radius: 3px;
+    padding: 0 1px;
+  }
+  .no-highlight mark { background: none; color: inherit; padding: 0; }
+
+  button {
+    font: inherit;
+    font-size: 0.9rem;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    border-radius: 8px;
+    padding: 8px 12px;
+    min-height: 40px;
+    cursor: pointer;
+  }
+  button.primary { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+  button:active { transform: translateY(1px); }
+
+  .options {
+    margin: 14px 0;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 14px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 18px;
+    align-items: center;
+  }
+  .options label {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 40px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .options input[type="checkbox"] { width: 20px; height: 20px; accent-color: var(--accent); margin: 0; }
+  .seed-wrap { display: inline-flex; align-items: center; gap: 8px; }
+  .seed-wrap input { width: 110px; padding: 6px 10px; }
+  .seed-wrap[hidden] { display: none; }
+
+  .warnings {
+    margin: 0 0 14px;
+    padding: 10px 14px;
+    border-radius: var(--radius);
+    background: var(--warn-bg);
+    color: var(--warn-text);
+    font-size: 0.92rem;
+  }
+  .warnings:empty { display: none; }
+  .warnings div + div { margin-top: 4px; }
+
+  details {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-top: 12px;
+  }
+  summary {
+    cursor: pointer;
+    padding: 12px 14px;
+    font-weight: 600;
+    list-style-position: inside;
+  }
+  summary .count { color: var(--muted); font-weight: 400; margin-left: 6px; }
+  .details-body { padding: 0 14px 14px; }
+  .details-body p.help { margin: 0 0 10px; color: var(--muted); font-size: 0.9rem; }
+  .field { margin-bottom: 12px; }
+  .field label { display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 4px; }
+  .field .hint { color: var(--muted); font-weight: 400; }
+  #groups, #nosuffix {
+    min-height: 260px;
+    resize: vertical;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 14px;
+    line-height: 1.55;
+  }
+  @media (max-width: 600px) {
+    #groups, #nosuffix { font-size: 16px; }
+  }
+  .row-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 4px 10px;
+    font-size: 0.88rem;
+    min-height: 34px;
+    background: var(--panel);
+  }
+  .chip[data-state="use"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+  .chip[data-state="avoid"] { text-decoration: line-through; color: var(--muted); }
+  .chip[data-state="keep"] { border-style: dashed; border-color: var(--text); font-weight: 600; }
+  .group-line { display: flex; flex-wrap: wrap; gap: 6px; padding: 6px 0; border-bottom: 1px solid var(--border); }
+  .group-line:last-child { border-bottom: 0; }
+  #groupFilter { margin-bottom: 8px; }
+  #chipList { max-height: 420px; overflow-y: auto; }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 0.85rem; color: var(--muted); margin-bottom: 10px; align-items: center; }
+  .legend .chip { min-height: 0; padding: 1px 8px; font-size: 0.8rem; cursor: default; }
+
+  footer { margin-top: 28px; color: var(--muted); font-size: 0.85rem; text-align: center; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Homify</h1>
+    <p>Swap every homophone for a sound-alike: <em>“I see the sea” → “Eye sea the see”</em></p>
+  </header>
+
+  <div class="panes">
+    <section class="pane">
+      <div class="pane-head">
+        <h2>Input</h2>
+        <button id="clearBtn" type="button">Clear</button>
+      </div>
+      <textarea id="input" spellcheck="false" placeholder="Type or paste text here…"></textarea>
+    </section>
+    <section class="pane">
+      <div class="pane-head">
+        <h2>Output</h2>
+        <span class="meta" id="count"></span>
+        <button id="copyBtn" class="primary" type="button">Copy</button>
+      </div>
+      <div id="output" aria-live="polite"></div>
+    </section>
+  </div>
+
+  <div class="options">
+    <label><input type="checkbox" id="optRandom"> Random sound-alike</label>
+    <span class="seed-wrap" id="seedWrap" hidden>
+      <input type="number" id="optSeed" inputmode="numeric" placeholder="seed" aria-label="Seed">
+      <button id="rerollBtn" type="button">Reroll</button>
+    </span>
+    <label><input type="checkbox" id="optInflections"> Inflections <span class="hint" style="color:var(--muted)">(sea’s, rained, writing)</span></label>
+    <label><input type="checkbox" id="optRefs"> Hide cross-references <span style="color:var(--muted)">[a] (A)</span></label>
+    <label><input type="checkbox" id="optVerses"> Hide verse numbers</label>
+    <label><input type="checkbox" id="optHighlight" checked> Highlight changes</label>
+  </div>
+
+  <div class="warnings" id="warnings"></div>
+
+  <details id="rulesDetails">
+    <summary>Use / avoid / keep</summary>
+    <div class="details-body">
+      <p class="help">Comma-separated. Or tap words below to cycle them through use → avoid → keep → normal.</p>
+      <div class="field">
+        <label for="optUse">Use <span class="hint">— always turn this word’s group into it (e.g. “there” turns their/they’re into there)</span></label>
+        <input type="text" id="optUse" autocapitalize="off" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="field">
+        <label for="optAvoid">Avoid <span class="hint">— never use as a replacement</span></label>
+        <input type="text" id="optAvoid" autocapitalize="off" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="field">
+        <label for="optKeep">Keep <span class="hint">— leave these words as they are</span></label>
+        <input type="text" id="optKeep" autocapitalize="off" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="legend">
+        <span class="chip" data-state="use">use</span>
+        <span class="chip" data-state="avoid">avoid</span>
+        <span class="chip" data-state="keep">keep</span>
+      </div>
+      <input type="text" id="groupFilter" placeholder="Filter groups…" autocapitalize="off" autocomplete="off" spellcheck="false">
+      <div id="chipList"></div>
+      <div class="row-actions"><button type="button" id="clearRulesBtn">Clear all three</button></div>
+    </div>
+  </details>
+
+  <details>
+    <summary>Homophone groups <span class="count" id="groupCount"></span></summary>
+    <div class="details-body">
+      <p class="help">One group per line, words separated by commas. Each word may be in only one group. Words swap with the next word in their group (wrapping around), or a random one.</p>
+      <textarea id="groups" spellcheck="false" autocapitalize="off"></textarea>
+      <div class="row-actions">
+        <button type="button" id="resetGroupsBtn">Reset to defaults</button>
+        <button type="button" id="sortGroupsBtn">Sort A–Z</button>
+      </div>
+    </div>
+  </details>
+
+  <details>
+    <summary>No-suffix words <span class="count" id="noSuffixCount"></span></summary>
+    <div class="details-body">
+      <p class="help">Words that never take -s / -ed / -ing, or whose suffixed form no longer sounds like the rest of the group (“is” isn’t “eyes”). They’re never used as a suffixed word’s base or produced as a suffixed replacement. Separate with commas, spaces or new lines.</p>
+      <textarea id="nosuffix" spellcheck="false" autocapitalize="off"></textarea>
+      <div class="row-actions"><button type="button" id="resetNoSuffixBtn">Reset to defaults</button></div>
+    </div>
+  </details>
+
+  <div class="row-actions" style="margin-top:14px">
+    <button type="button" id="resetAllBtn">Reset everything</button>
+  </div>
+
+  <footer>Settings are saved in this browser.</footer>
+</main>
+
+<script>
+(() => {
+  "use strict";
+
+  const DEFAULT_GROUPS = `their, there, they're
+to, too, two
+your, you're
+its, it's
+whose, who's
+i, eye, aye
+see, sea
+be, bee
+by, buy, bye
+for, four, fore
+know, no
+knew, new
+knight, night
+knot, not
+write, right, rite
+hear, here
+hour, our
+one, won
+ate, eight
+weak, week
+wear, where, ware
+weather, whether
+which, witch
+whole, hole
+would, wood
+meet, meat, mete
+peace, piece
+plain, plane
+rain, reign, rein
+road, rode, rowed
+sail, sale
+son, sun
+some, sum
+tail, tale
+threw, through
+wait, weight
+way, weigh, whey
+flour, flower
+mail, male
+pair, pear, pare
+bare, bear
+blew, blue
+brake, break
+cell, sell
+cent, scent, sent
+dear, deer
+die, dye
+fair, fare
+flew, flu, flue
+grate, great
+heal, heel, he'll
+hi, high
+him, hymn
+made, maid
+mind, mined
+missed, mist
+moose, mousse
+morning, mourning
+oh, owe
+pail, pale
+pain, pane
+passed, past
+principal, principle
+read, red
+real, reel
+role, roll
+seam, seem
+stair, stare
+stake, steak
+stationary, stationery
+steal, steel
+suite, sweet
+tea, tee
+toe, tow
+vain, vane, vein
+waist, waste
+wail, whale
+ad, add
+allowed, aloud
+altar, alter
+aunt, aren't
+ball, bawl
+band, banned
+bored, board
+bough, bow
+bread, bred
+cereal, serial
+chews, choose
+coarse, course
+days, daze
+dew, due, do
+doe, dough
+earn, urn
+feat, feet
+find, fined
+fir, fur
+flea, flee
+forth, fourth
+guessed, guest
+hair, hare
+hall, haul
+heard, herd
+hoarse, horse
+in, inn
+knead, need
+knows, nose
+lead, led
+lessen, lesson
+loan, lone
+mall, maul
+medal, meddle
+might, mite
+minor, miner
+none, nun
+oar, or, ore
+pause, paws
+peak, peek, pique
+plum, plumb
+pole, poll
+pray, prey
+rap, wrap
+ring, wring
+root, route
+rose, rows
+sew, so, sow
+scene, seen
+sight, site, cite
+soar, sore
+sole, soul
+tide, tied
+toad, towed
+wade, weighed
+war, wore
+we'd, weed
+whine, wine
+yoke, yolk
+are, arr
+if, iff
+and, annd
+on, onn
+who, whoo
+you, yew`;
+  const DEFAULT_NO_SUFFIX = `allowed, aloud, ate, banned, be, blew, by, coarse
+do, doe, fined, flew, for, guessed, heard, here
+hi, hoarse, hour, i, in, inn, knew, know
+lead, led, lone, made, might, mined, missed, no
+none, not, oh, one, or, our, passed, read
+red, rode, rowed, seen, sent, so, some, stationary
+stationery, their, there, threw, through, tied, to, too
+towed, vain, weak, weighed, where, whether, which, won
+would, you`;
+  const SAMPLE = "I see the sea, and their boat is right over there. Would you like a piece of pie?";
+
+  const $ = (id) => document.getElementById(id);
+  const els = {
+    input: $("input"), output: $("output"), count: $("count"), warnings: $("warnings"),
+    random: $("optRandom"), seed: $("optSeed"), seedWrap: $("seedWrap"),
+    inflections: $("optInflections"), refs: $("optRefs"), verses: $("optVerses"),
+    highlight: $("optHighlight"), use: $("optUse"), avoid: $("optAvoid"), keep: $("optKeep"),
+    groups: $("groups"), nosuffix: $("nosuffix"), groupCount: $("groupCount"),
+    noSuffixCount: $("noSuffixCount"), chipList: $("chipList"), groupFilter: $("groupFilter"),
+  };
+
+  // ---------- storage ----------
+  const KEY = "homify:v1";
+  function load() {
+    try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; }
+  }
+  let saveTimer = null;
+  function save() {
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(() => {
+      try {
+        localStorage.setItem(KEY, JSON.stringify({
+          input: els.input.value, random: els.random.checked, seed: els.seed.value,
+          autoSeed, inflections: els.inflections.checked, refs: els.refs.checked,
+          verses: els.verses.checked, highlight: els.highlight.checked,
+          use: els.use.value, avoid: els.avoid.value, keep: els.keep.value,
+          groups: els.groups.value, nosuffix: els.nosuffix.value,
+        }));
+      } catch {}
+    }, 250);
+  }
+
+  // ---------- parsing editable lists ----------
+  const norm = (w) => w.trim().toLowerCase().replace(/’/g, "'");
+  const wordList = (s) => s.split(",").map(norm).filter(Boolean);
+
+  function buildLookup(text) {
+    const lookup = new Map();
+    const groups = [];
+    const errors = [];
+    text.split("\n").forEach((line, i) => {
+      const words = [...new Set(line.split(",").map(norm).filter(Boolean))];
+      if (!words.length) return;
+      const dup = words.find((w) => lookup.has(w));
+      if (dup) {
+        errors.push(`Groups line ${i + 1}: “${dup}” is already in another group — line ignored.`);
+        return;
+      }
+      if (words.length < 2) return;
+      groups.push(words);
+      for (const w of words) lookup.set(w, words);
+    });
+    return { lookup, groups, errors };
+  }
+
+  // ---------- port of homify.py ----------
+  const VOWELS = "aeiou";
+  const WORD_RE = /[A-Za-z]+(?:['’][A-Za-z]+)*/g;
+
+  function isUpper(s) { return s !== s.toLowerCase() && s === s.toUpperCase(); }
+
+  function matchCase(template, word) {
+    if (isUpper(template) && template.length > 1) return word.toUpperCase();
+    if (isUpper(template[0])) return word[0].toUpperCase() + word.slice(1);
+    return word;
+  }
+
+  function doublesFinalConsonant(w) {
+    return w.length >= 3
+      && (w.match(/[aeiouy]+/g) || []).length === 1
+      && !(VOWELS + "wxy").includes(w.at(-1))
+      && VOWELS.includes(w.at(-2))
+      && !VOWELS.includes(w.at(-3));
+  }
+
+  function pluralize(w) {
+    if (w.endsWith("y") && w.length > 1 && !VOWELS.includes(w.at(-2))) return w.slice(0, -1) + "ies";
+    if (/(s|x|z|ch|sh)$/.test(w)) return w + "es";
+    return w + "s";
+  }
+  function pastTense(w) {
+    if (w.endsWith("e")) return w + "d";
+    if (w.endsWith("y") && w.length > 1 && !VOWELS.includes(w.at(-2))) return w.slice(0, -1) + "ied";
+    if (doublesFinalConsonant(w)) return w + w.at(-1) + "ed";
+    return w + "ed";
+  }
+  function gerund(w) {
+    if (w.endsWith("ie")) return w.slice(0, -2) + "ying";
+    if (w.endsWith("e") && !/(ee|oe|ye)$/.test(w)) return w.slice(0, -1) + "ing";
+    if (doublesFinalConsonant(w)) return w + w.at(-1) + "ing";
+    return w + "ing";
+  }
+
+  function bases(word, form) {
+    const out = new Set();
+    for (let n = 1; n < Math.min(5, word.length); n++) {
+      for (const extra of ["", "e", "y", "ie"]) {
+        const b = word.slice(0, -n) + extra;
+        if (form(b) === word) out.add(b);
+      }
+    }
+    return out;
+  }
+
+  function findGroup(key, o) {
+    if (o.lookup.has(key)) return [key, o.lookup.get(key), null];
+    if (key.includes("'")) return null;
+    const forms = [pluralize, ...(o.inflections ? [pastTense, gerund] : [])];
+    for (const form of forms) {
+      for (const base of bases(key, form)) {
+        if (o.lookup.has(base) && !o.noSuffix.has(base)) {
+          const group = o.lookup.get(base).filter((w) => !o.noSuffix.has(w) && !w.includes("'"));
+          if (group.length > 1) return [base, group, form];
+        }
+      }
+    }
+    return null;
+  }
+
+  function choose(key, base, group, o) {
+    if (o.keep.has(key) || o.keep.has(base)) return null;
+    for (const w of group) if (o.use.has(w)) return w === base ? null : w;
+    const candidates = group.filter((w) => w !== base && !o.avoid.has(w));
+    if (!candidates.length) return null;
+    if (o.rng) return candidates[Math.floor(o.rng() * candidates.length)];
+    const start = group.indexOf(base);
+    for (let i = 1; i < group.length; i++) {
+      const w = group[(start + i) % group.length];
+      if (candidates.includes(w)) return w;
+    }
+    return null;
+  }
+
+  function swap(word, o) {
+    const curly = word.includes("’");
+    const key = word.toLowerCase().replace(/’/g, "'");
+    const found = findGroup(key, o);
+    if (!found) {
+      if (o.inflections && key.endsWith("'s") && key.length > 2) {
+        return swap(word.slice(0, -2), o) + word.slice(-2);
+      }
+      return word;
+    }
+    const [base, group, form] = found;
+    let rep = choose(key, base, group, o);
+    if (rep === null) return word;
+    if (form) rep = form(rep);
+    if (curly) rep = rep.replace(/'/g, "’");
+    return matchCase(word, rep);
+  }
+
+  // ---------- Bible-text cleanup ----------
+  function stripRefs(text) {
+    return text
+      .replace(/\[[a-z]{1,3}\]/g, "")   // footnotes: [a], [ab]
+      .replace(/\([A-Z]{1,3}\)/g, ""); // cross-references: (A), (AB)
+  }
+  function stripVerses(text) {
+    // A 1–3 digit number standing alone before words: "16 For God", "world,17 For".
+    return text.replace(
+      /(^|[\s (“"‘'—–\-.,;:!?])\d{1,3}(?![\d:.,])[\s ]*(?=[A-Za-z“"‘'(\[])/gm,
+      (m, pre) => (pre === "" || /\s/.test(pre) || /[(“"‘'—–\-]/.test(pre)) ? pre : pre + " "
+    );
+  }
+
+  // ---------- seeded RNG ----------
+  function mulberry32(a) {
+    return () => {
+      a |= 0; a = (a + 0x6d2b79f5) | 0;
+      let t = Math.imul(a ^ (a >>> 15), 1 | a);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+  let autoSeed = Math.floor(Math.random() * 1e9);
+
+  // ---------- render ----------
+  const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  let plainOutput = "";
+  let parsed = buildLookup(DEFAULT_GROUPS);
+
+  function reparse() {
+    parsed = buildLookup(els.groups.value);
+    els.groupCount.textContent = `(${parsed.groups.length})`;
+    renderChips();
+  }
+  function noSuffixSet() {
+    const s = new Set(els.nosuffix.value.split(/[\s,]+/).map(norm).filter(Boolean));
+    els.noSuffixCount.textContent = `(${s.size})`;
+    return s;
+  }
+
+  function run() {
+    els.seedWrap.hidden = !els.random.checked;
+    const warnings = [...parsed.errors];
+    const use = wordList(els.use.value), avoid = wordList(els.avoid.value), keep = wordList(els.keep.value);
+    for (const [name, list] of [["Use", use], ["Avoid", avoid], ["Keep", keep]]) {
+      for (const w of list) if (!parsed.lookup.has(w)) warnings.push(`${name}: “${w}” is not a known homophone.`);
+    }
+    const usedGroups = new Map();
+    for (const w of use) {
+      const g = parsed.lookup.get(w);
+      if (!g) continue;
+      if (usedGroups.has(g) && usedGroups.get(g) !== w) {
+        warnings.push(`Use: “${usedGroups.get(g)}” and “${w}” are in the same group — the one listed first in the group wins.`);
+      } else usedGroups.set(g, w);
+    }
+    els.warnings.innerHTML = warnings.map((w) => `<div>${esc(w)}</div>`).join("");
+
+    let seed = null;
+    if (els.random.checked) seed = els.seed.value.trim() !== "" ? Number(els.seed.value) : autoSeed;
+    const o = {
+      lookup: parsed.lookup, noSuffix: noSuffixSet(), inflections: els.inflections.checked,
+      use: new Set(use), avoid: new Set(avoid), keep: new Set(keep),
+      rng: seed === null ? null : mulberry32(seed),
+    };
+
+    let text = els.input.value;
+    if (els.refs.checked) text = stripRefs(text);
+    if (els.verses.checked) text = stripVerses(text);
+
+    let html = "", plain = "", last = 0, changes = 0;
+    for (const m of text.matchAll(WORD_RE)) {
+      const before = text.slice(last, m.index);
+      const out = swap(m[0], o);
+      html += esc(before);
+      plain += before + out;
+      if (out !== m[0]) {
+        changes++;
+        html += `<mark title="${esc(m[0])}">${esc(out)}</mark>`;
+      } else html += esc(out);
+      last = m.index + m[0].length;
+    }
+    html += esc(text.slice(last));
+    plain += text.slice(last);
+    plainOutput = plain;
+    els.output.innerHTML = html;
+    els.output.classList.toggle("no-highlight", !els.highlight.checked);
+    els.count.textContent = text.trim() ? `${changes} swap${changes === 1 ? "" : "s"}` : "";
+    save();
+  }
+
+  // ---------- tap-to-cycle chips ----------
+  function stateOf(w) {
+    if (wordList(els.use.value).includes(w)) return "use";
+    if (wordList(els.avoid.value).includes(w)) return "avoid";
+    if (wordList(els.keep.value).includes(w)) return "keep";
+    return "";
+  }
+  function setList(input, list) { input.value = list.join(", "); }
+  function cycle(w) {
+    const order = ["", "use", "avoid", "keep"];
+    const next = order[(order.indexOf(stateOf(w)) + 1) % order.length];
+    const lists = { use: wordList(els.use.value), avoid: wordList(els.avoid.value), keep: wordList(els.keep.value) };
+    for (const k in lists) lists[k] = lists[k].filter((x) => x !== w);
+    if (next === "use") {
+      // only one "use" word per group makes sense
+      const g = parsed.lookup.get(w) || [];
+      lists.use = lists.use.filter((x) => !g.includes(x));
+    }
+    if (next) lists[next].push(w);
+    setList(els.use, lists.use); setList(els.avoid, lists.avoid); setList(els.keep, lists.keep);
+    renderChips(); run();
+  }
+  function renderChips() {
+    const f = norm(els.groupFilter.value);
+    const groups = f ? parsed.groups.filter((g) => g.some((w) => w.includes(f))) : parsed.groups;
+    els.chipList.innerHTML = groups.map((g) =>
+      `<div class="group-line">${g.map((w) =>
+        `<button type="button" class="chip" data-word="${esc(w)}" data-state="${stateOf(w)}">${esc(w)}</button>`
+      ).join("")}</div>`).join("") || `<p class="help" style="color:var(--muted)">No matching groups.</p>`;
+  }
+  els.chipList.addEventListener("click", (e) => {
+    const b = e.target.closest(".chip");
+    if (b) cycle(b.dataset.word);
+  });
+
+  // ---------- wire up ----------
+  const s = load();
+  els.input.value = s.input ?? SAMPLE;
+  els.random.checked = !!s.random;
+  els.seed.value = s.seed ?? "";
+  if (Number.isFinite(s.autoSeed)) autoSeed = s.autoSeed;
+  els.inflections.checked = !!s.inflections;
+  els.refs.checked = !!s.refs;
+  els.verses.checked = !!s.verses;
+  els.highlight.checked = s.highlight ?? true;
+  els.use.value = s.use ?? "";
+  els.avoid.value = s.avoid ?? "";
+  els.keep.value = s.keep ?? "";
+  els.groups.value = s.groups ?? DEFAULT_GROUPS;
+  els.nosuffix.value = s.nosuffix ?? DEFAULT_NO_SUFFIX;
+
+  for (const el of [els.input, els.seed, els.use, els.avoid, els.keep, els.nosuffix]) el.addEventListener("input", run);
+  for (const el of [els.random, els.inflections, els.refs, els.verses, els.highlight]) el.addEventListener("change", run);
+  for (const el of [els.use, els.avoid, els.keep]) el.addEventListener("input", renderChips);
+  els.groups.addEventListener("input", () => { reparse(); run(); });
+  els.groupFilter.addEventListener("input", renderChips);
+
+  $("rerollBtn").addEventListener("click", () => {
+    els.seed.value = "";
+    autoSeed = Math.floor(Math.random() * 1e9);
+    run();
+  });
+  $("clearBtn").addEventListener("click", () => { els.input.value = ""; run(); els.input.focus(); });
+  $("copyBtn").addEventListener("click", async (e) => {
+    const btn = e.currentTarget;
+    try { await navigator.clipboard.writeText(plainOutput); }
+    catch {
+      const t = document.createElement("textarea");
+      t.value = plainOutput; document.body.appendChild(t); t.select();
+      try { document.execCommand("copy"); } catch {}
+      t.remove();
+    }
+    btn.textContent = "Copied";
+    setTimeout(() => (btn.textContent = "Copy"), 1200);
+  });
+  $("clearRulesBtn").addEventListener("click", () => {
+    els.use.value = els.avoid.value = els.keep.value = "";
+    renderChips(); run();
+  });
+  $("resetGroupsBtn").addEventListener("click", () => { els.groups.value = DEFAULT_GROUPS; reparse(); run(); });
+  $("sortGroupsBtn").addEventListener("click", () => {
+    els.groups.value = els.groups.value.split("\n").filter((l) => l.trim())
+      .sort((a, b) => norm(a).localeCompare(norm(b))).join("\n");
+    reparse(); run();
+  });
+  $("resetNoSuffixBtn").addEventListener("click", () => { els.nosuffix.value = DEFAULT_NO_SUFFIX; run(); });
+  $("resetAllBtn").addEventListener("click", () => {
+    try { localStorage.removeItem(KEY); } catch {}
+    els.input.value = SAMPLE;
+    els.random.checked = els.inflections.checked = els.refs.checked = els.verses.checked = false;
+    els.highlight.checked = true;
+    els.seed.value = els.use.value = els.avoid.value = els.keep.value = els.groupFilter.value = "";
+    els.groups.value = DEFAULT_GROUPS;
+    els.nosuffix.value = DEFAULT_NO_SUFFIX;
+    reparse(); run();
+  });
+
+  reparse();
+  run();
+})();
+</script>
+</body>
+</html>
